@@ -44,7 +44,7 @@ if __name__ == "__main__":
     genbank_input = input("Please input the Genbank input file name: ")
     name_output = input("Please input the output file name prefix: ")
 
-    gb_file = SeqIO.parse('./genbank-input/' + genbank_input, 'gb')
+    gb_file = SeqIO.parse(genbank_input, 'gb')
 
     COMPLETE_BIRDS = []  # List of all full bird genomes objects
     #BIRDS_GENEORDER = set()  # Set of all different Bird gene orders
@@ -53,13 +53,12 @@ if __name__ == "__main__":
 
     # Informations for result paths
     date = datetime.today().strftime('%Y-%m-%d-%H:%M:%S')
-    parent_directory = "./results/"
-    path = os.path.join(parent_directory, date)
+    path = date
     os.mkdir(path)
 
-    error_file = open('./results/' + date + '/' + name_output + '_ERROR.txt', 'w')
-    names_file = open('./results/' + date + '/' + name_output + '_NAMES.txt', 'w')
-    analyse_file = open('./results/' + date + '/' + name_output + '_ANALYSE.tsv', 'w')
+    error_file = open(date + '/' + name_output + '_ERROR.txt', 'w')
+    names_file = open(date + '/' + name_output + '_NAMES.txt', 'w')
+    analyse_file = open(date + '/' + name_output + '_ANALYSE.tsv', 'w')
 
     analyse_file.write(
         "Accession" + t + "Name" + t + "Taxonomy" + t + "Genome Size" + t + "Genome complete?" + t + "Novel gene order?" + t + "Duplication remnants" + t + "CR length" + t + "YCR length" + t + "CR-YCR Coverage" + t + "CR-YCR E-Value" + t + "CR-YCR Identity" + t + "Number of BLAST results" + t + "Genes \n")
@@ -152,8 +151,8 @@ if __name__ == "__main__":
             current_order = gb_record.id.taxonomy[0]
             genus_set = set()
             genus_set.add(str(gb_record.id.taxonomy[-1]))
-            cr_file = open('./results/' + date + '/' + name_output + '_'  + str(gb_record.id.taxonomy[0]) + '_CR.fasta', 'w')
-            ycr_file = open('./results/' + date + '/' + name_output + '_' + str(gb_record.id.taxonomy[0]) + '_YCR.fasta', 'w')
+            cr_file = open(date + '/' + name_output + '_'  + str(gb_record.id.taxonomy[0]) + '_CR.fasta', 'w')
+            ycr_file = open(date + '/' + name_output + '_' + str(gb_record.id.taxonomy[0]) + '_YCR.fasta', 'w')
         else:
             genus_set.add(str(gb_record.id.taxonomy[-1]))
             print(str(gb_record.id.taxonomy[-1]))
