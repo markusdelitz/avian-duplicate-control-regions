@@ -1,0 +1,662 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.475)
+
+
+NC_025900.1:Ard acc---------------------cactaacagcatcacagtggccctata---catgga
+NC_025916.1:Ard ac--------------------------------cccccagcaccccataa---ta-gga
+NC_025917.1:Bub -------------------------------------------------ca---ta-gaa
+NC_025918.1:Ard ---------------------------------------agggcccccata---tg-aac
+NC_025919.1:Ard ----------------------------------cgcccataacagcatca---ca-gac
+NC_025920.1:Egr -----------------------------------------------------------c
+NC_025921.1:Ard cctactccaccccacaccaaaaacaccttataatgtact----ctcctaca---ttatgt
+NC_025922.1:But ct-------------------------------------------------------gct
+NC_025923.1:Bot ----------------ccactaaaacctttaaagccaccctcacccccacaaatttgcat
+NC_025924.1:Ixo tcttaa-------aaactatgtacgattaccatcccctctaatccactgga---tacagc
+NC_025925.1:Ixo cctaaa-------aaactataaaccccccccagcacagacatataacctta----agcct
+NC_027267.1:Pha tcaact-------a----------------------------------------ataaag
+NC_028193.1:Gor ------------------------------------------------------------
+NC_028194.1:Gor ------------------------------------------------------cccata
+NC_028195.1:Gor cc----------------------------------------------------tatgaa
+NC_029758.1:Pha ttaatt-------a----------------------------------------ataatg
+NC_040004.1:Ard ----------------------------------ccagcacagaccccaca---ta-gga
+NC_053867.1:Anh -----------------------------------------------------------t
+                                                                            
+
+NC_025900.1:Ard ccccccccttccccccccat-acgc--atatgct------------------------ca
+NC_025916.1:Ard cccccccccttcccccccgt-acgcagacatgct------------------------ca
+NC_025917.1:Bub cccccccccctcccccccat-acac--acatgct------------------------ca
+NC_025918.1:Ard ccccccccttccccccccgtaacat--acatgct------------------------ta
+NC_025919.1:Ard ccccccccttccccccccat-acat--ttatgct------------------------ta
+NC_025920.1:Egr ccccccccttccccccccat-acat--ttcaact---------------------gcttc
+NC_025921.1:Ard acccccccttacccccccac-acaa--taactctg------------------ctctaca
+NC_025922.1:But acccccccttacccccccat-acat--tcaaactagttaggtagggtcgttatgtatggg
+NC_025923.1:Bot taccccccctacccccccaataaac--ttgggtt--------------------------
+NC_025924.1:Ixo accccccccttcccctccaa-acat--atatgtc------------------------ta
+NC_025925.1:Ixo accccccctacccccccaga-acgt--atatgtt-----------------------cta
+NC_027267.1:Pha ggcccccccttcccccccat-gtgc--atgaacc-------tcttactttctaagtattc
+NC_028193.1:Gor --cccccccttcccccccat-acaa--cttaagt--------------------ctgcta
+NC_028194.1:Gor ccccccccttccccccccac-atgc---taacct-------------------caataaa
+NC_028195.1:Gor ccccccccttccccccccac-atgc--ataacct-------------------caataga
+NC_029758.1:Pha gccccccccttcccccccat-aggc--acgaacc-------tcctattatctaagcattc
+NC_040004.1:Ard ccccccccttccccccccat-acat--acatgct------------------------ta
+NC_053867.1:Anh gcccccccttacccccccag-tact--atgttcc-------tgggtaatttctttacttt
+                  ******.  ****.* .              .                          
+
+NC_025900.1:Ard ggcgagtcgtatgtatgggcatgcattggtctatatgcccca---tgcattg-tatcaat
+NC_025916.1:Ard ggcaagttctatgtacggccatgcattggtctatatgcccca---tgcattg-cgttaat
+NC_025917.1:Bub ggcaagttgtatgtatggccatgcattggtctatatgcccca---tgcattg-tattaat
+NC_025918.1:Ard ggcaagtcgtatgtacggccatgcattggtctatatgcccca---tgtattg-cg-taat
+NC_025919.1:Ard ggcaagctgtatgtatgggcatgcattggtctatatgcccca---tgcattc-tgttaat
+NC_025920.1:Egr aacaagctctatgtatgggcatgcattggtctatatgcctca---tcttgct-cagtaat
+NC_025921.1:Ard agcaagttgtatgtatggctatgcattaacttatatccctcat--tagc----aggtaat
+NC_025922.1:But tacagtttctatgtataggtgtacattggtttacaggcccc----tatataa-gtacaat
+NC_025923.1:Bot -----attacatgtatgggcatgcattaacttatatgcctcat-----------------
+NC_025924.1:Ixo ggtaagttctatgtataaccatgcattaactcttatgtcttgc--tacattacagtcaat
+NC_025925.1:Ixo ggtaagttctatgtatggtcatgcattaatttatatgccccat--tacatta-agttaat
+NC_027267.1:Pha ttacggctctatgtattattgtacattaatttatataccccataatacatta-catgaag
+NC_028193.1:Gor aggcagctatatgtatggccatgcattggtctatatgcccca---ttgcatt-gggtgat
+NC_028194.1:Gor aacaggttatatgtgtggtcgtgcattggtctatatgccccat--tgcatca-tgtaaat
+NC_028195.1:Gor agcaggttatatgtgtggtcgtgcattggtctatatgccccat--tgcatca-tgtaaat
+NC_029758.1:Pha ttacagctctatgtattattgtacattaatttatataccccataatacatta-catgaag
+NC_040004.1:Ard ggcaagtcgtatgtacgggcatgcattggtctatatgcccca---tggattg-cactgat
+NC_053867.1:Anh tttggcttctatgtattaataagcattcatttatagtccacataacacatca-tattaag
+                      .. .****.. . .. .**** .... .*  .* .                   
+
+NC_025900.1:Ard gttagagaatgcagttatatg--------------------------------catgtac
+NC_025916.1:Ard gctagataatacaattatatg--------------------------------catgtac
+NC_025917.1:Bub gttagataatacagttatatg--------------------------------tatgtac
+NC_025918.1:Ard gttagattatacaattatatg--------------------------------catgtac
+NC_025919.1:Ard gttagataatacagttatatg--------------------------------catgtac
+NC_025920.1:Egr gttaga-tatacatttatatg--------------------------------tatgtac
+NC_025921.1:Ard gttaagttatacattcaagtg--------------------------------tatgtac
+NC_025922.1:But gctggg-agtacattaggacgcacgtataacctatcgagcatcacggaaaagctatgcac
+NC_025923.1:Bot ------------------------------------------------------------
+NC_025924.1:Ixo gttttggtaacatgttaaatg--------------------------------tatgtat
+NC_025925.1:Ixo gttaga-tagcctattaaatg--------------------------------aatgtgt
+NC_027267.1:Pha tgctaa-taagtcattatatg--------------------------------tatgttc
+NC_028193.1:Gor gttaagtggtacatttactct--------------------------------tatgtac
+NC_028194.1:Gor gttaagttagaca-ttaagtg--------------------------------tatgtac
+NC_028195.1:Gor gttaagttagacgtttaagtg--------------------------------tatgtac
+NC_029758.1:Pha tgctaa-taagtcattatatg--------------------------------catgttc
+NC_040004.1:Ard gttagataatacaattatatg--------------------------------catgtac
+NC_053867.1:Anh tctcatgaaatacatctaatc--------------------------------catgctc
+                                                                            
+
+NC_025900.1:Ard tagttccatgctatgtcttc----agtacaagttct-tgattgtccacctgtcttat-ct
+NC_025916.1:Ard tagtttcatagtatgtttta----agtataagtttt-taattgtatacctgtcttat-ct
+NC_025917.1:Bub taattccatgttatgtgctg----agtacaagtttt-tgattgtccacccgtcttat-ct
+NC_025918.1:Ard tatcttcatatcgtattttg----agtacaagttct-taactgtatacctgtcttat-ct
+NC_025919.1:Ard tagttctattttatgtcctc----agtgcaagttct-tgattgtccacctgtcttat-ct
+NC_025920.1:Egr taagtccatacgatgtactg----aggacagaatct-taattctccact--gtttta-ct
+NC_025921.1:Ard taggtccataggatgcctga----tgtaatgtcatt-tcttagtcgttcaataagct-tt
+NC_025922.1:But gaagtccattggatgcct------gatataatttct-ttccttgaccgttctaagct-tt
+NC_025923.1:Bot -----------------------------------------------------ttct-ca
+NC_025924.1:Ixo taggtctgtttaagtttact----aataaggaataggtttgatttacatactatctt-gt
+NC_025925.1:Ixo tgagtccatttaacttataggtttaggataatctca-gttatttaccactgttttgt-tt
+NC_027267.1:Pha tatatacattaatgtttagt----cgggcataacatgtccaaacccatccctcccaa--t
+NC_028193.1:Gor taggcccataagatggttgat-ataatatttattct-taatcgtccatt-ctagatt-tc
+NC_028194.1:Gor tagttccatgtaatgttttta---gttacaagttct-tgattgtccattagttttatatc
+NC_028195.1:Gor tagttccatatgatgtttttg---attacaagttct-tgattgtccattatttttatatc
+NC_029758.1:Pha tacatacaccaatgtttaat----cgggcatagcatgtgtaaacccattcctcccaa---
+NC_040004.1:Ard tagttccatggtgtatcttc----agtacaagtttt-taattgtccacctgtcttat-ct
+NC_053867.1:Anh tatatacatgcttgttttat----aggacataccatatctcttccccggacggaacg-gg
+                                                                            
+
+NC_025900.1:Ard tagaggattaatcttgtattgagcttaggaatggcttc-at---aatctgtactaaaacc
+NC_025916.1:Ard tagaggattaatcttgtattgagtttaggaatagcttc-at---aacctgtactaaaacc
+NC_025917.1:Bub tagaggattaattctgtactgagtttaggaatagctcc-gt---aatctgtactaaaacc
+NC_025918.1:Ard taggggattaatcctgtactgagtttaggaatagctcc-at---aatctgtactaaaacc
+NC_025919.1:Ard tagaggattaatcttgtattgagtttaggaatagcttc-at---aatctgtactaaaacc
+NC_025920.1:Egr tagaggattaattctgtaatggatccaggaatagcagc-gt---aacctgtactaaaacc
+NC_025921.1:Ard cagaggattaatcttgtaattaatttaggaatggcttc-at--tattctgtactaaaccc
+NC_025922.1:But caggggattaa-tctgtacttaacttaggaatgattcc-at---aacctgtactaaaacc
+NC_025923.1:Bot ttaagagttagttgtgtattga-tttaggaatagttcg-agtattcattttaccaaaact
+NC_025924.1:Ixo ttaagtataagttagtgtactgaattaaggatgattta-acacttgttaatactaaaacc
+NC_025925.1:Ixo ctagggattaactctgtaatgagtctaggaatagcttc-ac---ttactgtactaaaacc
+NC_027267.1:Pha cccctaataaatgcaatactatctagaacaatcctact-ac-attcctcggacccaaaca
+NC_028193.1:Gor cagaggattaattctgttatgggtttaggatttgctcc-at---aaactgtactagaacc
+NC_028194.1:Gor taaggaattaatcttgtaatgagtttaggaatagcttc-at--aatttaatactaaaacc
+NC_028195.1:Gor taaggagttaatcttgtaatgaatttaggaatagcttc-at--agtttaatactaaaacc
+NC_029758.1:Pha tcccaagtaaatgtaatgctcgctaaaacaaacctcct-ac-atacctcggacccaaacc
+NC_040004.1:Ard tagaggattaattctgtaatgagcttagaattagcttcggt---agttagtactaaaacc
+NC_053867.1:Anh caacaattcagctaaatggttcctaatagaatc-tcct-ac--ttcctccgacccaaacc
+                .      * *.        .       . .    .    .       .   **. .* * 
+
+NC_025900.1:Ard atatacagtaatgggccgtacatgt---actatggggtcaagtgtacggctgtgcttg-a
+NC_025916.1:Ard atatataatggtgggttgtacataa---gctct-ggatactggatacggctgtgcttg-a
+NC_025917.1:Bub atatttagcagtggactgtacataa---gctat-ggattaagcgtatggctgtgctta-a
+NC_025918.1:Ard ataagtaacagtgggttgtacataa---gctat-ggattaagcgtatggctgtgcttg-a
+NC_025919.1:Ard atatacagtagtgggctgtacataa---tctat-ggattaggcgtatggctgtgcttg-a
+NC_025920.1:Egr atgattaa-ggtgggttgtacatac---gctct-ggagcgaagatacggcagtgcttg-a
+NC_025921.1:Ard attagct--gatgaggtgtacatat---taagtggtttctagtaaatgactgtgcttg-g
+NC_025922.1:But atagtaac-agtggattgtatatga---gtagt-ggattgagtgtacggctgtgcttg-a
+NC_025923.1:Bot atgaagtg-gttagggtctgtatat---tcagttaagtctggaatacgggtatgcccg-a
+NC_025924.1:Ixo ataacttt-tatggattgtacatga---attat-ggggtcggtgtatgactatgtttg-g
+NC_025925.1:Ixo atagtaa--tgctggtaatgtataa---ggtat-ggggtcggtgtatgactatgcttgga
+NC_027267.1:Pha ctaacaagggtaaacacttatacat---aaact-tcctagaacatacgaaagtgctcg-a
+NC_028193.1:Gor atagagaa-ggtgggctgtacatag---taatt-ggagggagggtatgactgtgcttg-a
+NC_028194.1:Gor ataagtag-aatggggagtacatgt---actatgtggtcaaggatatgactgtgcttg-a
+NC_028195.1:Gor atagatag-aatgggaagtacatac---gctatgtaatcaaggatacgactgtgcttg-a
+NC_029758.1:Pha tttacagg-gtaaacacttatacac---aaact-cctagaaatatacgacagtgctct-a
+NC_040004.1:Ard atacgtagcagtggtctgtgcatat---actat-ggattacgcgtacggctgtgcttg-a
+NC_053867.1:Anh tgctccta-gtaaacccttataccctctaggct-agttcaaggatacgacagtgcttg-a
+                             .    *..*.         *        . . *.*.  .**...  .
+
+NC_025900.1:Ard attcagttgattg-aatggtgacaggtcatggtagttcaatagtct--ctt--ggggtgc
+NC_025916.1:Ard attcagttgattg-aatggtggcaggccatgctagttcaactatct--ctt--ggagtgc
+NC_025917.1:Bub gttcagttgattgtaatggtgacaggccatgctagttcaattgtct--ctt--gaagtac
+NC_025918.1:Ard attcagttgtctg-aatggtgacaggtcatgctagttcaattatct--ctc--gaagtac
+NC_025919.1:Ard atccag-taagtg-aatggtgacaggtcatgactgttcaactatct--ctt--gaagtac
+NC_025920.1:Egr gcagtgataagtg-aatggtaactggccatagcagtgcagctgtct--cct--gatgtgc
+NC_025921.1:Ard gttaag-taagtc-aatggtagcaga-catggtaattcaatcatct--ctt--gatgtgc
+NC_025922.1:But acacag-tgattg-aatggtagcaggccatgctagctcaataatct--ctt--gaagtac
+NC_025923.1:Bot acaagagtgagtg-aatggtgacaggccataattactcattaatccttctt--gatgtgc
+NC_025924.1:Ixo gtcaaggtaaatg-aatggtgacaggtcataataatccaataatct--ttttagaagtac
+NC_025925.1:Ixo accaagataactg-aatggtaacaggtcatgatagttcttctactt--ctt--gtagtac
+NC_027267.1:Pha agacat-actatc-aatggtcgcaggacataccaattcaacaatact-ctt--gaagtac
+NC_028193.1:Gor gtaagt-taagtc-aatggtggcaggtcacggtagtgcgactatct--ctt--agcgggc
+NC_028194.1:Gor gttaaagttactg-aatggtagctggtcatgttagttcaatagtct--ctt--gatggac
+NC_028195.1:Gor gtgaaggttattg-aatggtgactggtcatattaatccaataatct--ctt--gatggac
+NC_029758.1:Pha agacat-attatt-aatggtagcaggacataaacattcaattatatt-ctc--gaagtac
+NC_040004.1:Ard attcag-ttaatg-aatggtagcaggccatggtagttcaattatct--ctt--gaagtac
+NC_053867.1:Anh acacat-aacctg-aatggtagccgcacataa--atagaattaccttgatc--tttccac
+                .          *  ****** .* *  **..   ..    . .. .   ..       .*
+
+NC_025900.1:Ard cggtatctgaagtaccaggttatttattggtcgttcttctcacgtgaaatcagcaacccg
+NC_025916.1:Ard cggtttctgaagtatcaggtgatttattagtcgttcctctcacgtgaaatcagcaacccg
+NC_025917.1:Bub cggtatctgaagtaccaggttatttattagtcgttcctctcacgtgaaatcagcaacccg
+NC_025918.1:Ard cggtatctgaagtaccaggttatttattggtcgttcttctcacgtgaaatcagcaacccg
+NC_025919.1:Ard cggtatctgaagtaccaggttatttattggtcgttcttctctcgtgaaatcagcaacccg
+NC_025920.1:Egr cggtatctgaagtaccaggttatttattggtcggtcttctcacgtgaaatcagcaacccg
+NC_025921.1:Ard cggtctctaaagtgttaggttatttattaatcgtccttctcacgtgaaatcagcaacccg
+NC_025922.1:But cggtatctgaagtaccaggtgatttattaatcgttcctctcacgtgaaaccagcaacccg
+NC_025923.1:Bot cggtttctaaagtatcaggtgatttattagtcgttcccctcacgagaaatcagcaacccg
+NC_025924.1:Ixo cggtttctgaagtgttgggttatttattaatcgttcttctcacgtgaaatcagcaacccg
+NC_025925.1:Ixo cggtatctgaagtaccaggtgatttattagtcgttctcctcacgtgaaatcagcaacccg
+NC_027267.1:Pha ctgtttctgaagtaccaggttatttattgatcgaactactcacgagaaacccgcaacccg
+NC_028193.1:Gor cggtacctgaagtgccaggttatttattgattggccatctcacgtgaaatcagcaacccg
+NC_028194.1:Gor cggtatctgaagtatcaggttatttattgatcgttcttctcacgtgaaatcagcaacccg
+NC_028195.1:Gor cggtatctgaagtattaggttatttattgatcgttcttctcacgtgaaatcagcaacccg
+NC_029758.1:Pha cggtttctaaagtatcaggttatctattaattgagcttctcacgagaaatccgcaacccg
+NC_040004.1:Ard cggtatctgaagtaccaggttatttattggtcgttcttctcacgtgaaatcagcaacccg
+NC_053867.1:Anh cggtttctgaagtaccaggttatttattagtcggactcctcacgagaaatcagcaacccg
+                * ** .**.****....*** **.****..*.*  *  *** ** ****.* ********
+
+NC_025900.1:Ard ccgcatagaaggctctacgttactagcttcaggaccattctttccccctaca-ccctag-
+NC_025916.1:Ard ccgcatataaggctctacgttactagcttcaggaccattctttccccctaca-ccctag-
+NC_025917.1:Bub ccgcatataaggctctacgttactagcttcaggaccattctttccccctaca-ccctag-
+NC_025918.1:Ard ccgcatataaggctctacgttactagcttcaggaccattcattccccctaca-ccctag-
+NC_025919.1:Ard ccgcatataaggctctacgttactagcttcaggaccattcattccccctaca-ccctag-
+NC_025920.1:Egr ccgcatataaggctctacgttactagcttcaggaccattcattccccctaca-ccctag-
+NC_025921.1:Ard gtgtagataaggttttacgttactagcttcaggaccattcattccccctaca-ccctag-
+NC_025922.1:But ttgcataaaatgctctacacgactagcttcaggatcatcctttccccctaca-ccctag-
+NC_025923.1:Bot gtgtatgtaagattttacgttactagcttcaggaccattcattccccctaca-ccctag-
+NC_025924.1:Ixo gtgtacgtaagattttacgttactagcttcaggaccattcattccccctaca-ccctag-
+NC_025925.1:Ixo gtgcacataaggttttacgttactagcttcaggaccattctttccccctaca-ccctag-
+NC_027267.1:Pha gcgtttgtaatacactacgttactagcgtcaggaccattcattccccctaca-ccctag-
+NC_028193.1:Gor gtgtacgtaagatcctatgctactagcttcaggaccattctttccccctaca-ccctag-
+NC_028194.1:Gor gtgtacgtaagattttacgttactagcttcaggaccatttgttccccctaca-ttctagt
+NC_028195.1:Gor gtgtacgtaagattttccgttactagcttcaggaccatttgttccccctaca-ttctagt
+NC_029758.1:Pha gcgtatgtaatacactacgttactagcgtcaggaccattcattccccctaca-ccctag-
+NC_040004.1:Ard ccgcatataaggctctacgttactagcttcaggaccattcattccccctaca-ccctag-
+NC_053867.1:Anh ccgcatataagacactgcgttactagcttcaggaccattcttcccccctacacccctag-
+                 .*.  . ** .. .* ... ****** ******.***.. *.********* ..**** 
+
+NC_025900.1:Ard -------------cgcgacttgctcttttgcgcctctggttcctcggtcagggccatggc
+NC_025916.1:Ard -------------cacaacttgcgcttttgcgcctctggttcttcggtcagggccatagc
+NC_025917.1:Bub -------------cacaacttgctcttttgcgcctctggttcctcggtcagggccatggc
+NC_025918.1:Ard -------------cccaacttgcgcttttgcgcctctggttcctcggtcagggccatggc
+NC_025919.1:Ard -------------cacgacttgctcttttgcgcctctggttcctcggtcagggccatggc
+NC_025920.1:Egr -------------cccaacttgcgcttttgcgcctctggttcctcggtcagggccatgtc
+NC_025921.1:Ard -------------cacaacttgctcttttgtacctctggttcctcggtcagggccatatc
+NC_025922.1:But -------------cccaacttgcgcttttgcgcctctggttcctcggtcagggccatggc
+NC_025923.1:Bot -------------cataacttgcgcttttgcgcctctggatcctcggtcagggccatggc
+NC_025924.1:Ixo -------------cccaacttgcgcttttgcgcctctggttcctcggtcaaggccatagc
+NC_025925.1:Ixo -------------cacaacttgcgcttttgcgcctctggttcctcggtcagggccatagc
+NC_027267.1:Pha -------------cacaacttgctcttttgtacctctggttcctttttcagggccataac
+NC_028193.1:Gor -------------cccaacttgcgcttttgcgcctctggttcctcggtcagggccatggc
+NC_028194.1:Gor ttgtacctcttaatgcgccttgctcttttgcgcctctggttgttaggtcaggaccatgat
+NC_028195.1:Gor ttgtacctcttaatgcgacttgctcttttgcgcctctggttgttaggtcaggaccataac
+NC_029758.1:Pha -------------cacaacttgctcttttgtacctctggttcctatttcagggccataac
+NC_040004.1:Ard -------------cacaacttgcgcttttgcgcctctggttcttcggtcagggccatggc
+NC_053867.1:Anh -------------cattacttgcacttttgcgcctctggttcctatatcagggccataac
+                             . .  ***** ******..******* * .*   ***.*.****. .
+
+NC_025900.1:Ard tcggttgacttagcactcggtcctcttcacagagtcatttggttgatgctt--gtctgct
+NC_025916.1:Ard tcggtggatttagcactcggtcctcttcacagagtcatttggttgatgctt--gtctgct
+NC_025917.1:Bub tcggttgacttagcacttggtgctcttcacagagtcatttggttgatgctt--gtctgct
+NC_025918.1:Ard tcggttgacttagcacttagtgctcttcacagagtcatttggttgatgctt--gtctgct
+NC_025919.1:Ard tcggttgacttagcactcggtcctcttcacagagtcatttggttgatgctt--gtctgct
+NC_025920.1:Egr tcggtttacttagcactcggtcctcttcacagagtcatttggttgatgctt--gtctgct
+NC_025921.1:Ard tcggttgacttagcactcggtcctcttcacagagtcatttggttgatgctt--gtctgct
+NC_025922.1:But tcggtttacttagcactcggtcctcttcacagagttatttggttgatgctt--gtctgct
+NC_025923.1:Bot ttggtttatttagttttcagttctcttcacagagtcatttggttgatgctt--gtctgct
+NC_025924.1:Ixo tcggtttatttagcacttagttctcttcacagagtcatttggttgatgctt--gtctgct
+NC_025925.1:Ixo tcggtttacttagcacttaatgctcttcacagagtcatttggttgatgctt--gtctgct
+NC_027267.1:Pha ttgggttttccctactttcttgctcttcacagagtcatctggtaggctatttatcctcat
+NC_028193.1:Gor tcggtttacttagcactcggtcctcttcacagagtcatttggttgatgctt--gtctgct
+NC_028194.1:Gor ctggtttacttagttttaagttctcttcacagagtcatttggctgatgctt--gtctgct
+NC_028195.1:Gor ttggtttacttagttttaagttctcttcacagagtcatttggctgatgctt--gtctgct
+NC_029758.1:Pha ttgggttttccctaacttcttgcctttcacagagtcatctggtaggctatttatcctcat
+NC_040004.1:Ard tcggttgacttagcactcggtcctcttcacagagtcatttggttgatgctt--gtctgct
+NC_053867.1:Anh ttggattttcccttatttctcacttttcacagagccatctggttggctatttatcaccat
+                ..**    ...    .*   . *..*********..**.***. *..  **   . .  *
+
+NC_025900.1:Ard tctcacccgtgatcgcggcatctggattgcctggggcgcctctagt-atttttctcttct
+NC_025916.1:Ard tctcacccgtgatcgcggcatctggattgcctggggcgcctctagt-atttttttcttct
+NC_025917.1:Bub tctcacccgtgatcgcggcatctggattgcctggggcgcctctagt-atttttctcttct
+NC_025918.1:Ard tctcacccgtgatcgcggcatctggattgcctggggcgcctctagt-atttttttcttct
+NC_025919.1:Ard tctcacccgtgatcgcggcatctggattgcctggggcgcctctagt-atttttttcttct
+NC_025920.1:Egr tctcacccgtgatcgcggcatctggattgcctggggcgcctctagtaattttcttcttct
+NC_025921.1:Ard tctcacccgtgatcgcgacatctggattgcctggggcacctctagtaatttttttcttct
+NC_025922.1:But tctcacccgtgatcgcgacatctagattgcctggggcccctctagtattttttctcttct
+NC_025923.1:Bot tctcacccgtgatcgcggcatctggattgcccgaagtgcctctagtattttttcttttct
+NC_025924.1:Ixo tctcacccgtgatcgcggcatctggattgcccgaagtgcctttagtaattttttctttct
+NC_025925.1:Ixo tctcacccgtgatcggggcatctggattgcctggggcgcctctagt-atttttttcttct
+NC_027267.1:Pha tgtccctcttaatcccgacatc-gggcggcct-ctcctcttttggttccctttttttttg
+NC_028193.1:Gor tctcacccgtgatcgcgacatctggattgcctggggcgcctctagtaatttttctcttct
+NC_028194.1:Gor tctcacccgtgatcgcggcatctggattgcctggggcgcctctaatattttttctttttt
+NC_028195.1:Gor tctcacccgtgatcgcggcatctggattgcctggggcgcctctagtattttttctttttt
+NC_029758.1:Pha tgtccctcttaatcccgacatc-gggcggcct-ctcctcttttggttcccttttttttct
+NC_040004.1:Ard tctcacccgtgatcgcgacatctggattgcctggggcgcctctagtattttttcttcttc
+NC_053867.1:Anh tttgcctcttaatcgcgacatccgggtagcct-ttcctcttttggt-tctctcttttttt
+                * *  *.* *.***  *.**** .*.. ***.    . *.*.*..*  ...*.....*. 
+
+NC_025900.1:Ard aaacttctt--caggctgccctcc--ggtgcac--cgcggcgcagccatcgaagac-gtg
+NC_025916.1:Ard aaacttctt--caggctgccctcc--ggtgcac--cgcggcgtggccatcgaagac-gtg
+NC_025917.1:Bub aaacttctt--caggcagccctcc--ggtgcac--cgcggcgcagccatcgaagac-gtg
+NC_025918.1:Ard aaactcctt--caggctgccctcc--ggtgcac--cgcggcgcagccatcgaagac-gtg
+NC_025919.1:Ard aaacttctt--caggctgccctcc--ggtgcac--cgcggcgcagccatcgaagac-gtg
+NC_025920.1:Egr aaacttctt--caggctgccctcc--ggtgcac--cgcggcgctgccatcgaagac-gtg
+NC_025921.1:Ard aaacttctt--caggcagccctcc--ggtgcac--cgcggcgcagccatcgaagactgtg
+NC_025922.1:But gggtaactt--cagtgtgcccccc--ggtggat--cgcggcgcagccatcgaagactgtg
+NC_025923.1:Bot tcgcttcttcacaggtggcccttcggaatgcac--cgcggtgtggccatcgaagac-gtg
+NC_025924.1:Ixo tcacttcttcacaggtggcccttcagagtggac--cgcggtgcagccatcgaagac-gtg
+NC_025925.1:Ixo tcacttcttcacaggtggcccctcagagtgcac--cgcggcgcagccatcgaagac-gtg
+NC_027267.1:Pha gggcgtctt--caggctacatttcccagtgcacggcggagagcacacaatttaggt-ctg
+NC_028193.1:Gor aaacttctt--caggctgccctcc--ggtgcac--cgcggcgctgccatcgaagac-gtg
+NC_028194.1:Gor aaacttctt--caggctgccctcc--ggtgcac--cgcggcgcagccatcgaagac-gtg
+NC_028195.1:Gor aaacttctt--caggctgccctcc--ggtgcac--cgcggcgcagccatcgaagac-gtg
+NC_029758.1:Pha gggcgtctt--caggcaacatttcccagtgcacggcggagagcacacaatttaggt-ctg
+NC_040004.1:Ard gaatttctt--caggctgccctcc--ggtgcac--cgcggcgcggccatcgaagac-gtg
+NC_053867.1:Anh gggcgtcctcacagctgacacttcccagtgaag--ccctgtaaacacaatctaggt-ctg
+                  ..  *.*  ***   .* ...*  ..** *   *   * .    ** .  **..  **
+
+NC_025900.1:Ard agcataca-gacgcgtcatcggcctcttattagcactcaggaatgactggatgagacggt
+NC_025916.1:Ard agcataca-gacgcgtcatcggtctctta-tagcgct-gggtacaactggatgagacggt
+NC_025917.1:Bub agcataca-gacgcgtcatcggcctcttattagcactcaggaatgactggatgagacggt
+NC_025918.1:Ard agcataca-gacgcgtcatcggactcttattagcgctcaggagtgactggatgagacggt
+NC_025919.1:Ard agcataca-gacgcgtcatcggcctctta-tagcactcaggaatgactggatgagacggt
+NC_025920.1:Egr agcataca-gacgcgtcatcggtctcttattcgtggtcaggcgtcactggatgagacggt
+NC_025921.1:Ard agcatttaggacgcgtcattggactcttattagctctcaggaatgactggatgagacggt
+NC_025922.1:But gacccaca-gacgcgtcatcggtctcttattagctttcaggaatgactggatgagacggt
+NC_025923.1:Bot agcataca-gacgcgtcatcggcctc-tactagctttcaggaatcactggatgagacggt
+NC_025924.1:Ixo agcataca-gacgcgttg-cgtcctattattagctttcaagaatcactggatgagacggt
+NC_025925.1:Ixo agcataca-gacgcgttg-cgtcctattattagctttcaagaatcactggatgagacggt
+NC_027267.1:Pha ggcataca-----tggtattcgtccaattctcgtcctcagggattaattaatgagacggt
+NC_028193.1:Gor agcataca-gacgcgtcatcgggctcttattagcgttcaggtatcactggatgagacggt
+NC_028194.1:Gor agcataca-gacgcgtcatcgagctctta-tcgccagcaggagtaactggatgagacggt
+NC_028195.1:Gor agcataca-gacgcgtcatcgagctctta-tcgccagcaggagtaactggatgagacggt
+NC_029758.1:Pha ggcataca-----tggtattcgtccaatcctcgtcctcaggaactaattaatgagacggt
+NC_040004.1:Ard agcatttaggacgcgtcatcggtctcttattagcactcaggaatgactggatgagacggt
+NC_053867.1:Anh agcttacc-tgccttgcgtc--cttttcgtcccccgcggagaatacctgaatgagacggt
+                ..* . .      .  .. .   ..  .  .  .    ..* ..   * .**********
+
+NC_025900.1:Ard tggagtatttggggaatcatttttacactg-tgcactttgttttccatttggttgttggt
+NC_025916.1:Ard tggagtatttggggaatcatttttacactg-tgcactttgttttccatttggttgttggt
+NC_025917.1:Bub tggagtatttggggaatcatttttacactg-tgcactttgttttccatttggttgttggt
+NC_025918.1:Ard tggagtatttggggaatcatctttacactg-tgcactttgttttccacttggttgttggt
+NC_025919.1:Ard tggagtatttggggaatcatttttacactg-tgcactttgttttccatttggttgttggt
+NC_025920.1:Egr tgaagtatttgtggaatcatttttacactg-tgcactttgttttccatttggttgttggt
+NC_025921.1:Ard ttgagtgtttgtggaatcatttttacactg-tgcacttgctatttcatttggttgttggt
+NC_025922.1:But tggagtatttgtggaatcatctttaccctg-tgcactttgttttccatttggttgttggc
+NC_025923.1:Bot tggagtatttgtggaatcatctttaccctg-tgcactttgttttccattcagcta-tggc
+NC_025924.1:Ixo tgaagtatttgtggaatcatctttaccctg-tgcactttgttttccattcggttgttggt
+NC_025925.1:Ixo tgaagtatttgtggaatcatctttaccctg-tgcactttgttttccatttggttgttggt
+NC_027267.1:Pha tgacgtatatggggaatcattcctacactgatgcacttttgtttccatttggtta-tggt
+NC_028193.1:Gor tggagtatttggggaatcatttttacactg-tgcactttgttttccatttggttgttggt
+NC_028194.1:Gor tggagtatttggggaatcatttttacactg-tgcactttgttttccattc-tttgttggt
+NC_028195.1:Gor tggagtatttggggaatcatttttacactg-tgcactttgttttccattt-tttgttggt
+NC_029758.1:Pha tgacgtatatggggaatcattcctacactgatgcactttgttttccatttggtta-tggt
+NC_040004.1:Ard ttgagtatttggggaatcatttttacactg-tgcactttgttttccatttggttgttggt
+NC_053867.1:Anh ttacgtatatggggaatcattcttacactgatgcactttgttttacattcagtta-tgga
+                * . **.* ** ********...*** *** *******    ** **.*.  .*. *** 
+
+NC_025900.1:Ard gtgtccactaa-cccct-aacatggtgttatttgttgaatgcttgttggacataatttta
+NC_025916.1:Ard gtgtccactaa-cctttagatatgttgttatttgttgaatgcttgctagacataatttta
+NC_025917.1:Bub gtgtccactaa-cccctaaatatgctgctatttgttgaatgcttgttggacatgatttta
+NC_025918.1:Ard gtgtccactaa-cccctaaatatgctgctatttgttgaatgcttgttggacataatttta
+NC_025919.1:Ard gtgtccactaa-cccctaaatatgctgctatttgttgaatgcttgttggacataatttta
+NC_025920.1:Egr gtgtccactaa--cccctaacatggtgttatttgatgaatgcttgttggacatatttttt
+NC_025921.1:Ard gtgtccactat--ccccaaatatggtgttatttggtgaatgcttgttggacataatttta
+NC_025922.1:But gtgtccactat--ccccaaacatggtgctatttgatgaatgcttgttggacataattcta
+NC_025923.1:Bot gtatccactaa--ccctaaacatggtgctatttggtgaatgtttgccggacataatctta
+NC_025924.1:Ixo gtgaccactaa--ccctaaacatggtgctatttggtgaatgattgccggacataatttta
+NC_025925.1:Ixo gtgaccactaa--ctctaaacatggtgctatttggtgaatgtttgctggacataatttta
+NC_027267.1:Pha gtgtccactaacccctacactagaggactatctagtgaatgctcgaaggacataata---
+NC_028193.1:Gor gtgtccactaa-ccctctaatatggtgttatttagtgaatgcttgctagacataattttc
+NC_028194.1:Gor gtgtccactaa--ccctaaacatggtgttatttgatgaatgcttgctagacataatttta
+NC_028195.1:Gor gtgtccactaa--ccctaaacatggtgttatttgatgaatgcttgctagacatattttta
+NC_029758.1:Pha gtgtccactaa-ccctatactagaggactatctagtgaatgctcgaatgacataata---
+NC_040004.1:Ard gtgtccactaa-cccttaaagatgctgctatttattgaatgcttgctagacataatttta
+NC_053867.1:Anh gtatccactaa-ccaactatcatggtgatatttgatgaatgctcgcaggacataact---
+                **. ******   *    .  * .  . ***.*. ****** *.*   *****. .    
+
+NC_025900.1:Ard tttcttttcttcttgtttacacttcctctaattttcattcactctataaatcaagctagg
+NC_025916.1:Ard tctctattcttcttatttacacttcctctaattttctttaactttctaaatcaaaccagg
+NC_025917.1:Bub tctctattttacttatttacacttcctctaattttctttcactttataaattaaactagg
+NC_025918.1:Ard tctctattcctcttatttacacttcctctaattttctttcattttctaaactaatctagg
+NC_025919.1:Ard tttcttttctacttgtttacacttcctctaattttctttcactttacaaactagactagg
+NC_025920.1:Egr tccatattctacttattt-tacttcctctaattttctttgagttctaaaacaaaactagg
+NC_025921.1:Ard cctacactttacctatttacacttcctctaatttcctttgacttcttaaacaagactagg
+NC_025922.1:But cttactttcttcttatttacacttcctctaatttcctttcatttgattaacaacactagg
+NC_025923.1:Bot cttacttccacccactttttgcttcctctatctttcaaccaaacagttaacaaatctagg
+NC_025924.1:Ixo cttaa-ttttacccatttacacttcctctaactttcctacaaaaaatatttaaacttagg
+NC_025925.1:Ixo cttac-tttcactcattttcatttcctcta-ttttcttaacaaactttcacaaacctagg
+NC_027267.1:Pha ------tcttact--tttacctttcctctaactttctaaccaacactagtaaattctaac
+NC_028193.1:Gor cttatactttccttatttacacttcctctaatttcctttaatctcttaaacaagactagg
+NC_028194.1:Gor cctaaatcttacctatttacacttcctctaatttcctttaattccataaattgaactagg
+NC_028195.1:Gor cctaaaccttacccatttacacttcctctaatttcctttgatttcataaattgaactagg
+NC_029758.1:Pha ------tcttact--tttacctttcctctaactttctaaccaacactagtaaattctaac
+NC_040004.1:Ard tctctgttctacttgtttacacttcctctaattttctttcactttacaaactaaactagg
+NC_053867.1:Anh ------ctctactctcaccccccccttctaactttctaaccaatactaacaacttttaac
+                      ...  *.  . . . ...*.**** .**.*                   ..*. 
+
+NC_025900.1:Ard taaattt-cagctaaaaatttaacaagccttattaaaaatttttcacgaatcttattctt
+NC_025916.1:Ard taacttt-caactaaaaatttaacaaaccttgacaaaaatttttcacaaatcttattctt
+NC_025917.1:Bub taacttt-catctaaaaatttaacaagccttatcaaaaatttttcacaaatcttattctt
+NC_025918.1:Ard gaacttt-caactaaaaatttaacgaactttatcaaaaatttttcacaaatcttattctt
+NC_025919.1:Ard taaattt-caactaaaaatttaacaaaccttatcaaaaatttttcacaaatcttattctt
+NC_025920.1:Egr taacttt-caactaaaaatttagcgagtatatcaaaaaattttt-acgaatcatattcgt
+NC_025921.1:Ard taaattt-caactaaaaatttaacaagtcttatcaaaaattttt-tcacatcttattctt
+NC_025922.1:But caaattt-caactaaaaatttaacaagccttgttgaaaatttttcacaaatcttattctt
+NC_025923.1:Bot taatttt-caaccaaaaattaaacaaactttg-caaaaaccttt-acaaactttgttcat
+NC_025924.1:Ixo taaattt-caacaaaaaaatttaacacactcaacaaaaattttt-acaaactttattcac
+NC_025925.1:Ixo aaaattt-taaccaaaaatttaacaagcttcattaaaaattttt-acaaactttgtttac
+NC_027267.1:Pha caatttcactac-----------ccacccatcata-------------------------
+NC_028193.1:Gor cactttt-caactaacaatttaacgaaccttatcaaaaatttttgacaactcttattctt
+NC_028194.1:Gor caatttt-caacgaaaaacttaacaaactttattaagaattttt-acaaactttattctt
+NC_028195.1:Gor caatttt-caactaaaaacttaacaaactttattaagaattttc-acaaactttattctt
+NC_029758.1:Pha caatttcgctac-----------ccacccatcataaaaattttt--ttatttatattatc
+NC_040004.1:Ard taaattt-caactaaaaatttaacaagccttatcaaaattttttcacaaatcttattctt
+NC_053867.1:Anh cactttccctacttcaccctttaatattctttacaaaaattttt--catattttattatt
+                 *  **. .  *             *        .                         
+
+NC_025900.1:Ard atattttacatttc-cttcaaccactgaagttccatt-aaaaaatacacccaaa-tcaac
+NC_025916.1:Ard atattttacattac-ctttaaccgctaaagttacatt-aaaaaatataccctaa-acaac
+NC_025917.1:Bub gtattttacattac-cttaaaccactgaaattacatt-aaaaaacataccctaacacagg
+NC_025918.1:Ard aaatcttacatcac-ctttaaccactggagttacatt-aaaaaacataccctaa-acaac
+NC_025919.1:Ard atattttacatttt-acttacccgctggagttccatt-aaaaaacataccctaa-acagc
+NC_025920.1:Egr atatcttacattac-cttaaagcactagaatttcatt--aaaaatatacta---------
+NC_025921.1:Ard atattttacatttc-cttcacccactggagttacattaaaaaaacataccataa-acaac
+NC_025922.1:But atattttacattac-tttacaccactggagttacatt-aaaaaacatgccttaa-acagc
+NC_025923.1:Bot ctacattccattac-tctacaactactaaaatccatt-aaaaattatttaccca-atcag
+NC_025924.1:Ixo ttgtattacactatcctctaaccactaaaatcccattaaaaaatcaaactccaa-gtaac
+NC_025925.1:Ixo ttatattacactat-ctttaaccactgaaatttcatt--aaaatcaaaccttag-ttaac
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor atatgttacattac-ctttaaccactggagttccatt-ataaaatataacctaa-actaa
+NC_028194.1:Gor atctttttcattac-ctaaatccactaaaatcccatt--aaaaacttaccttac-actaa
+NC_028195.1:Gor atctttttcattat-ctaaagccactaaaattccatt--aaaaacttacttta--actaa
+NC_029758.1:Pha aaattttttaacacattctcaatactggagttacatt-aaaaaatttatacaac-ccatt
+NC_040004.1:Ard atattttacatttg-cgtttgccactggagttctatt-aaaaaatataccccaa-acaac
+NC_053867.1:Anh acattctttacatg-tccacaacgctggagttacatt-aaaaaatt--------------
+                                                                            
+
+NC_025900.1:Ard gtaacttttttcggtgtgttatt-atatattt--acacataat-tattacc-ctcc-aca
+NC_025916.1:Ard gtaacttttttcggtgtgttatt-atatattt--acacataat-tattacc-ctcc-aca
+NC_025917.1:Bub gtaacttttcttagtgtgttatt-gtatattt--acacgtaat-tattacc-ctttaata
+NC_025918.1:Ard gaaacttttttcggtgtgttatt-atatattt--acacataat-tattacc-ctcc-aca
+NC_025919.1:Ard gtaacttttttcggtgtgttatt-atatattt--acacacaat-tattacc-ctcc-gca
+NC_025920.1:Egr --tacccttcatgaactgtatcc-ttatatct--ttacgttac-ctttactgcttt-aaa
+NC_025921.1:Ard g-taaatttttcgacgtgttatt-atatattt--gtgcacaat-tatcact-attc-aca
+NC_025922.1:But a-aactttttttggcgtgttatt-atatattt--acacataat-tattacc-ttcc-aca
+NC_025923.1:Bot tataacttttaacttatcttatctgtatagtt--atac-tctt-tactcta-ttaa-aca
+NC_025924.1:Ixo ccaattttttaacccatattt---atttgtat--gcttatatttttttacc-ttcc-aca
+NC_025925.1:Ixo acaaacttttatcaaaaatttttaaactttgtttacttatattacacta---tctt-taa
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor cacaaatttttcggtgtgttatt-atatattt--gcacatatt-ttttacc-gtcc-aca
+NC_028194.1:Gor catacttttttcgacatgttatt-atatatttacacacacact-tatcact-cttc-aca
+NC_028195.1:Gor catacttttttcgacgtgttatt-atatatttacacacacact-tatcatt-cttc-aca
+NC_029758.1:Pha gcaaccatccatcacaccccccc---------------------ccccacc------aga
+NC_040004.1:Ard gaaacttttttcggtgtgttatt-atatattt--acacacaat-tattacc-cttc-aca
+NC_053867.1:Anh ---------------------------------------------------------a--
+                                                                            
+
+NC_025900.1:Ard ccgctgaagttacattaaaaaaat------aaagcatta-ttatgcttta-cataactaa
+NC_025916.1:Ard ccactaaagttacattaaaaaatataccc-taaacaacg-taactttttt-cggtgtgtt
+NC_025917.1:Bub ccactagaattacattaaaaaacataccctaacacaggg-taacttttct-tagtgtgtt
+NC_025918.1:Ard ctgctgaagttacattaaaaaaaa------caagcattatttatgctttg-cataactaa
+NC_025919.1:Ard ctgctggagttacattaaaaaaaa------taggcatta-ttatgcttta-cgtaactaa
+NC_025920.1:Egr gcactaaaatttcattaaaaatatact-------------atacccttca-tgaactgta
+NC_025921.1:Ard ctgctgaagttacattaaaaaaa-------taaacatta-ctatgcttag-cacaactaa
+NC_025922.1:But ccactggagttacattaaaaaaaa------taagcattt-ttatgcttaa-catgatcaa
+NC_025923.1:Bot ctagtttaattacattaaaaattatttacccaatcagta-taacttttaa-cttatctta
+NC_025924.1:Ixo ccactgaagttacattaaaaaata------tataccttt-tcactgctta-tgcca-taa
+NC_025925.1:Ixo ccactgaaatttcattaaaatcaaacc--ttagttaaca-caaactttta---tcaaaaa
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor ccgctggagttgcattaaaaaaaa------taagcacta-ttacgttttagcgtaactaa
+NC_028194.1:Gor ccactaaagttccattaaaaaaa-------taaacatcatttacgccaaaacatgactaa
+NC_028195.1:Gor ccactaaagttccattaaaaaaa-------taagcactatttacgccaaaacataaccaa
+NC_029758.1:Pha ------------------------------------------------------------
+NC_040004.1:Ard ctgctaaagttacattaaaaaaaa------cacgcatta-ttatgcttta-cgtaactaa
+NC_053867.1:Anh ------------------------------------------------------------
+                                                                            
+
+NC_025900.1:Ard atttcatgccct---gatataaataaaatccacctccgcccacttcc-------------
+NC_025916.1:Ard attatatattta---cacataattattaccctcca-cacc-------------------a
+NC_025917.1:Bub attgtatattta---cacgtaattattaccctttaatacc-------------------a
+NC_025918.1:Ard atttcttatccc---aatataaataaa---------------------------------
+NC_025919.1:Ard attccttgtcct---cgtataaataaaatat-----------------------------
+NC_025920.1:Egr tccttatatctt---tacgttacctttactgctttaaagc-------------------a
+NC_025921.1:Ard gttcttataccc---ccaacacaaa-----------------------------------
+NC_025922.1:But attttatgtttc---aacatcaata-----------------------------------
+NC_025923.1:Bot tctgtatagt-----tatactctttactctattaaacact-------------------a
+NC_025924.1:Ixo cctttatcttatatcca-------------------------------------------
+NC_025925.1:Ixo tttttaaactttgtttacttatattacactatctttaacc-------------------a
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor attttacagcac------acaaacaa----------------------------------
+NC_028194.1:Gor attttatacctt----acacaaacaaaattatctg-------------------------
+NC_028195.1:Gor attttatacctt----acacaaacaaaattatcta-------------------------
+NC_029758.1:Pha ------------------------------------------------------------
+NC_040004.1:Ard atttcataccct----atataaataaaatacacctacatcacctacttccctatccctta
+NC_053867.1:Anh ------------------------------------------------------------
+                                                                            
+
+NC_025900.1:Ard ------------------------------------------------------------
+NC_025916.1:Ard ctaaagttacattaaaaaatataccctaa-acaacgtaacttttttcggtg----tgtta
+NC_025917.1:Bub ctagaattacattaaaaaacataccctaacacagggtaacttttcttagtg----tgtta
+NC_025918.1:Ard ------------------------------------------------------------
+NC_025919.1:Ard ------------------------------------------------------------
+NC_025920.1:Egr ctaaaatttcatt-aaaaatatactatac-ccttcatgaactgtatc-------------
+NC_025921.1:Ard ------------------------------------------------------------
+NC_025922.1:But ------------------------------------------------------------
+NC_025923.1:Bot gtttaattacattaaaaattatttacccaatcagtataacttttaac--------ttatc
+NC_025924.1:Ixo ------------------------------------------------------------
+NC_025925.1:Ixo ctgaaatttcatt-aaaatcaaaccttag-ttaacacaaactttatccgtgttatttgta
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor ------------------------------------------------------------
+NC_028194.1:Gor ------------------------------------------------------------
+NC_028195.1:Gor ------------------------------------------------------------
+NC_029758.1:Pha ------------------------------------------------------------
+NC_040004.1:Ard ccaccaagaccctaaaaatagaatgccaa-------------------------------
+NC_053867.1:Anh ------------------------------------------------------------
+                                                                            
+
+NC_025900.1:Ard ------------------------------------------------------------
+NC_025916.1:Ard ttatatatttacacgtaattattaccctcc-acaccgctag---agttacattaaaaa--
+NC_025917.1:Bub ttgtatatttacacgtaattattaccctttaataccactag---aattacattaaaaaac
+NC_025918.1:Ard ------------------------------------------------------------
+NC_025919.1:Ard ------------------------------------------------------------
+NC_025920.1:Egr -cttatatctttacgttacctttactgctttaaagcactaa---aatttcattaaaaa--
+NC_025921.1:Ard ------------------------------------------------------------
+NC_025922.1:But ------------------------------------------------------------
+NC_025923.1:Bot ttatctgtatagttatactctttactctat-taaacactagtttaattacattaaaaatt
+NC_025924.1:Ixo ------------------------------------------------------------
+NC_025925.1:Ixo tgttgtatattcgtatattttttacccttc-aaaccgctgg---agttacattgaaaa-a
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor ------------------------------------------------------------
+NC_028194.1:Gor ------------------------------------------------------------
+NC_028195.1:Gor ------------------------------------------------------------
+NC_029758.1:Pha ------------------------------------------------------------
+NC_040004.1:Ard -------------------------actactaaaccactag---cagtttacc-aaacat
+NC_053867.1:Anh ------------------------------------------------------------
+                                                                            
+
+NC_025900.1:Ard ------------------------------------------------------------
+NC_025916.1:Ard ------------------------------------------------------------
+NC_025917.1:Bub a-taccctaac-----acagggtaacttttcttagtgtgttattgtatatttacacgtaa
+NC_025918.1:Ard ------------------------------------------------------------
+NC_025919.1:Ard ------------------------------------------------------------
+NC_025920.1:Egr ----------------tatactatacccttcatgaactgtatccttatacct--------
+NC_025921.1:Ard ------------------------------------------------------------
+NC_025922.1:But ------------------------------------------------------------
+NC_025923.1:Bot atttacccaatcagtataacttttaacttatcttatctgtatagttatactc--------
+NC_025924.1:Ixo ------------------------------------------------------------
+NC_025925.1:Ixo atatacaccatcatacgaacatcaaccttcaccttagcgcacac----------------
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor ------------------------------------------------------------
+NC_028194.1:Gor ------------------------------------------------------------
+NC_028195.1:Gor ------------------------------------------------------------
+NC_029758.1:Pha ------------------------------------------------------------
+NC_040004.1:Ard actaaccccactaactaaagaataattttcccccacctacagacaccca-----------
+NC_053867.1:Anh ------------------------------------------------------------
+                                                                            
+
+NC_025900.1:Ard ------------------------------------------------------------
+NC_025916.1:Ard -------------------------------------------aaacaaacattattatg
+NC_025917.1:Bub ttattaccctttaataccactagaattacattaaa------taaaacaaacattattatg
+NC_025918.1:Ard ------------------------------------------------------------
+NC_025919.1:Ard ------------------------------------------------------------
+NC_025920.1:Egr ttaccttca------acccccaaaaccccatcaaaaataaattaaacgtacaagcttcca
+NC_025921.1:Ard ------------------------------------------------------------
+NC_025922.1:But ------------------------------------------------------------
+NC_025923.1:Bot tttactctattaaacactagtttaattacattaaaaattatttacccaatcagtataact
+NC_025924.1:Ixo ------------------------------------------------------------
+NC_025925.1:Ixo ------------------------------------------------------------
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor ------------------------------------------------------------
+NC_028194.1:Gor ------------------------------------------------------------
+NC_028195.1:Gor ------------------------------------------------------------
+NC_029758.1:Pha ------------------------------------------------------------
+NC_040004.1:Ard ------------------------------------------------------------
+NC_053867.1:Anh ------------------------------------------------------------
+                                                                            
+
+NC_025900.1:Ard ------------------------------------------------------------
+NC_025916.1:Ard ctttacgtagctaa------atttcatgccataatataaata------------------
+NC_025917.1:Bub cttcacgtaactaa-------tttcatgctctagcataaataaaacaccccc--------
+NC_025918.1:Ard ------------------------------------------------------------
+NC_025919.1:Ard ------------------------------------------------------------
+NC_025920.1:Egr cccccaccatccca--tgcaaaattaaacgccacgctcaatgcaacaaaacccccaacaa
+NC_025921.1:Ard ------------------------------------------------------------
+NC_025922.1:But ------------------------------------------------------------
+NC_025923.1:Bot tttaacttatcttatctgtatagttatactctttactctattaaacactagtttaattac
+NC_025924.1:Ixo ------------------------------------------------------------
+NC_025925.1:Ixo ------------------------------------------------------------
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor ------------------------------------------------------------
+NC_028194.1:Gor ------------------------------------------------------------
+NC_028195.1:Gor ------------------------------------------------------------
+NC_029758.1:Pha ------------------------------------------------------------
+NC_040004.1:Ard ------------------------------------------------------------
+NC_053867.1:Anh ------------------------------------------------------------
+                                                                            
+
+NC_025900.1:Ard ------------------------------------------------------------
+NC_025916.1:Ard ------------------------------------------------------------
+NC_025917.1:Bub ------------------------------------------------------------
+NC_025918.1:Ard ------------------------------------------------------------
+NC_025919.1:Ard ------------------------------------------------------------
+NC_025920.1:Egr cctaa-------------------------------------------------------
+NC_025921.1:Ard ------------------------------------------------------------
+NC_025922.1:But ------------------------------------------------------------
+NC_025923.1:Bot attaaaaattatttacccaatcagtataacttttaacttatcttatccgtatagttatac
+NC_025924.1:Ixo ------------------------------------------------------------
+NC_025925.1:Ixo ------------------------------------------------------------
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor ------------------------------------------------------------
+NC_028194.1:Gor ------------------------------------------------------------
+NC_028195.1:Gor ------------------------------------------------------------
+NC_029758.1:Pha ------------------------------------------------------------
+NC_040004.1:Ard ------------------------------------------------------------
+NC_053867.1:Anh ------------------------------------------------------------
+                                                                            
+
+NC_025900.1:Ard ------------------------------------------------------------
+NC_025916.1:Ard ------------------------------------------------------------
+NC_025917.1:Bub ------------------------------------------------------------
+NC_025918.1:Ard ------------------------------------------------------------
+NC_025919.1:Ard ------------------------------------------------------------
+NC_025920.1:Egr ------------------------------------------------------------
+NC_025921.1:Ard ------------------------------------------------------------
+NC_025922.1:But ------------------------------------------------------------
+NC_025923.1:Bot tctttactctattaaacactagtttaattacattaaaaattatttacccaatcagtataa
+NC_025924.1:Ixo ------------------------------------------------------------
+NC_025925.1:Ixo ------------------------------------------------------------
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor ------------------------------------------------------------
+NC_028194.1:Gor ------------------------------------------------------------
+NC_028195.1:Gor ------------------------------------------------------------
+NC_029758.1:Pha ------------------------------------------------------------
+NC_040004.1:Ard ------------------------------------------------------------
+NC_053867.1:Anh ------------------------------------------------------------
+                                                                            
+
+NC_025900.1:Ard ------------------------------------------------------------
+NC_025916.1:Ard ------------------------------------------------------------
+NC_025917.1:Bub ------------------------------------------------------------
+NC_025918.1:Ard ------------------------------------------------------------
+NC_025919.1:Ard ------------------------------------------------------------
+NC_025920.1:Egr ------------------------------------------------------------
+NC_025921.1:Ard ------------------------------------------------------------
+NC_025922.1:But ------------------------------------------------------------
+NC_025923.1:Bot cttttaacttatcttatctgtatagttatactctttactctattaaacactagtttaatt
+NC_025924.1:Ixo ------------------------------------------------------------
+NC_025925.1:Ixo ------------------------------------------------------------
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor ------------------------------------------------------------
+NC_028194.1:Gor ------------------------------------------------------------
+NC_028195.1:Gor ------------------------------------------------------------
+NC_029758.1:Pha ------------------------------------------------------------
+NC_040004.1:Ard ------------------------------------------------------------
+NC_053867.1:Anh ------------------------------------------------------------
+                                                                            
+
+NC_025900.1:Ard ------------------------------------------------------------
+NC_025916.1:Ard ------------------------------------------------------------
+NC_025917.1:Bub ------------------------------------------------------------
+NC_025918.1:Ard ------------------------------------------------------------
+NC_025919.1:Ard ------------------------------------------------------------
+NC_025920.1:Egr ------------------------------------------------------------
+NC_025921.1:Ard ------------------------------------------------------------
+NC_025922.1:But ------------------------------------------------------------
+NC_025923.1:Bot acattaaaaattatttacccaatcagtataacttttaacttatcttatctgtatagttat
+NC_025924.1:Ixo ------------------------------------------------------------
+NC_025925.1:Ixo ------------------------------------------------------------
+NC_027267.1:Pha ------------------------------------------------------------
+NC_028193.1:Gor ------------------------------------------------------------
+NC_028194.1:Gor ------------------------------------------------------------
+NC_028195.1:Gor ------------------------------------------------------------
+NC_029758.1:Pha ------------------------------------------------------------
+NC_040004.1:Ard ------------------------------------------------------------
+NC_053867.1:Anh ------------------------------------------------------------
+                                                                            
+
+NC_025900.1:Ard ----------------------------------------------
+NC_025916.1:Ard ----------------------------------------------
+NC_025917.1:Bub ----------------------------------------------
+NC_025918.1:Ard ----------------------------------------------
+NC_025919.1:Ard ----------------------------------------------
+NC_025920.1:Egr ---------------------------------------ccgaaca
+NC_025921.1:Ard ----------------------------------------------
+NC_025922.1:But ----------------------------------------------
+NC_025923.1:Bot actctttactctattaaacactagttcttcctcaactacataaaag
+NC_025924.1:Ixo ----------------------------------------------
+NC_025925.1:Ixo ----------------------------------------------
+NC_027267.1:Pha ----------------------------------------------
+NC_028193.1:Gor ----------------------------------------------
+NC_028194.1:Gor ----------------------------------------------
+NC_028195.1:Gor ----------------------------------------------
+NC_029758.1:Pha ----------------------------------------------
+NC_040004.1:Ard ----------------------------------------------
+NC_053867.1:Anh ----------------------------------------------
+                                                              

@@ -1,0 +1,602 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.475)
+
+
+NC_007598.1:Nis cccaacaac---------------------------------------------------
+NC_007599.1:Nis cccaacacccctccccc-------------------------------------------
+NC_008550.1:Pan cccatttcccccccccc-------------------------------------------
+NC_015887.1:Spi ccaataggacctccctg-------------------------------------------
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu ctaacaaaccccccccg-cccaa-------------------------------------
+NC_035806.1:Aqu ------------------------------------------------------------
+NC_036050.1:Gyp caacataaaccatctcaccccag-------------------------------------
+NC_039095.1:Gyp caacataaacc-------------------------------------------------
+NC_045042.1:Aqu -taacaaa-cactccca-cccag-------------------------------------
+NC_045364.1:Acc tcaacaccatcccactaaacccgaacgatcatataccaaaccatattagattatcaatcc
+NC_052803.1:Spi ctaacaaa----------------------------------------------------
+NC_052805.1:Cir ccgacaaga---------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ------------------------------------------------------------
+NC_008550.1:Pan -----------------------------------------ctttttccccccaatatgt
+NC_015887.1:Spi ---------------------------------------------cctagacatccacgt
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu -----------------------------------------cctcccctttaaactctaa
+NC_035806.1:Aqu ------------------------------------------------------------
+NC_036050.1:Gyp --------------------------------------acatcttactcgttaatccttc
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu -----------------------------------------ccttcctcctaaactctaa
+NC_045364.1:Acc ttacacacacacacacacacatatatatatatatatatatatatatatatatatatatat
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ------------------------------------------------------------
+NC_008550.1:Pan aatttagtacattaaactatcttccccattacattcaattaattcatgtaatacattata
+NC_015887.1:Spi attataacatacaaaactatttactccacataccccagacaacacacttagtata-taca
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu acaactacacactaagtcccactattcac-------------------------------
+NC_035806.1:Aqu ------------------------------------------------------------
+NC_036050.1:Gyp acttttctactct-----------------------------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu atacccacacactaaacctcattattcac-------------------------------
+NC_045364.1:Acc atatatatatacatgcatgtgtacattgtatatatatgtatatatatata-tatg-tatg
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ------------------------------------------------------------
+NC_008550.1:Pan tgtatgtac-tatgtacattaata-----atgtata-ataaggacatacacctatcta--
+NC_015887.1:Spi tgta-acgcgtgtgtatatatatgtgtgtatgtatatacatgtatatatacgtatatatg
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu ------------------------------------------------------------
+NC_035806.1:Aqu ------------------------------------------------------------
+NC_036050.1:Gyp ------------------------------------------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu ------------------------------------------------------------
+NC_045364.1:Acc tatatatatatgtatatatatatatgtatatatatatgtatatatatgtatatatatatg
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ------------------------------------------------------------
+NC_008550.1:Pan -gtccatctacacattcaaggacaacttcattaatg-----gtatcaaggaaatccccta
+NC_015887.1:Spi cgcatatatatgcatgtatatatatatacatgtatatatatgtactacaccataccaaac
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu --cccatcttctattctaaaca-----------------acgcattcaacactcgtacca
+NC_035806.1:Aqu ------------------------------------------------------------
+NC_036050.1:Gyp ---------------------------------------------------ttttccatt
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu --cccatcttccaccccaagca-----------------acacaccccacaccccctatc
+NC_045364.1:Acc tatatatatgtatatatatatatatatatatatgtatgtatgtat---------------
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ------------------------------------------------------------
+NC_008550.1:Pan tctcccccagaacccacccataacctccacgactctttacttacct--------------
+NC_015887.1:Spi taccacacaaacacataccctacccactacaacacttcataggccccagagc-atccaca
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu caccccca---------------------tttcaccctacaagctcctaaattatctatg
+NC_035806.1:Aqu ------------------------------------------------------------
+NC_036050.1:Gyp cttttttcattcttttttcattcttttctactctttttccattctt--------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu cacctccaagtcccactttcaagaccaagcttcaccccacaaactcctaagctgcctata
+NC_045364.1:Acc ------------------------------------------------------------
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ------------------------------------------------------------
+NC_008550.1:Pan ------------------------------------------------ttctcctaccat
+NC_015887.1:Spi accccatcccaaaccaaacac--accaaaaacaacac----tgcatatcaacaaactctc
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu atcttcactaggactaacccat---------------------gcaaaccgaatctccct
+NC_035806.1:Aqu ------------------------------------------------------------
+NC_036050.1:Gyp ------------------------------------------------ttttcattcttt
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu acctccactcaaactaaacccttaccaaaaacaagcccctatataaaactagatttaccc
+NC_045364.1:Acc --------------------------------------atatgtata-------------
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ------------------------------------------------------------
+NC_008550.1:Pan acggatgattcttggggaatagaacttcatggtaaccggacatacttctacgttaattcc
+NC_015887.1:Spi tacaactatctccaaaaccaaa--ccacacaacaacagaacacaacccactaaccctcct
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu acaaataactcttaagaacaaactctgcacagcaacaaaccataacttacaaccctcccc
+NC_035806.1:Aqu ------------------------------------------------------------
+NC_036050.1:Gyp tttcattctttt------------ctactctttttccattcttttttcattcttttttca
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu acgaataatccttgagaacaaa--ctgtatagtagcaaaccataacttgcagctcccctc
+NC_045364.1:Acc ------------------------------------------------------------
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ------------------------------------------------------------
+NC_008550.1:Pan tgtaggaccggtagctgtcggaccaggttatttattgatcgggcttttcacgagaaatca
+NC_015887.1:Spi c----------cacccacccaaac------ttaattacctaaattccccacgag-----a
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu -----------cgcctgaccaagcaagtcacttatcaatcggactcctcacgagaaataa
+NC_035806.1:Aqu ------------------------------------------------------------
+NC_036050.1:Gyp ttcttttctactctttttccattcttttttcattcttttttcattcttttctactctttt
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu ----------------accggaccaggttatttattaatcggactcctcacgagaaatca
+NC_045364.1:Acc ------------------------------------------------------------
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ------------------------------------------------------------
+NC_008550.1:Pan gcaaccc----gctgcatatagatcctacgttactagcttcaggaccattctttccccct
+NC_015887.1:Spi accacagcccaacataaataaaatcctaca------------------------------
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu acaaccctacagtgggagtaagattctacgttactagcttcagggccattc-ttccccct
+NC_035806.1:Aqu ------------------------------------------------------------
+NC_036050.1:Gyp tccattc----ttttttcattcttttttcattcttttct--------actctttttccat
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu acaaccttacggtggtagtaagatcctacgttactagcttcagggccattctttccccct
+NC_045364.1:Acc ------------------------------------------------------------
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ------------------------------------------------------------
+NC_008550.1:Pan acacccctagcactacttgcacttttgcgcctctggttcctatttcagggccatatcttg
+NC_015887.1:Spi ----ccccagtactacttaccctttcacacacccaa-------------accataaccca
+NC_024087.1:Aqu ----------------tagcaaatactcccacccagcctcccccttaaactctaaataat
+NC_029188.1:Aqu acacccctcgcactacttgcacttttgcgcctctggttcctatgtcagggccacgacttg
+NC_035806.1:Aqu ---------------ctagcaaatactcccacccagcctcccccttaaactctaaataat
+NC_036050.1:Gyp tcttttttcattcttttttcattcttttctactctttttccattcttttttcattctttt
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu acacccctcgcactacttgcacttttacacctctggttcctatgtcaaggccacaacttg
+NC_045364.1:Acc ----tatattatatatatatatatatacattatatatatacattatat------------
+NC_052803.1:Spi ----tacccacatccaacacccccttaaactctaaacagccttaccccacccccaaacga
+NC_052805.1:Cir ----ccttcaaatcaccttcatgtacacaccacaacaatgcaatctaat-----------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis -------ctacacctctgaccctcagctagtccctcaatctcg-agtcgaccaatagaac
+NC_008550.1:Pan gttagtcctacga-acttgcactttacgaatacatctggtaggctattgatcaccatttg
+NC_015887.1:Spi attaaccccatgacccttaccccttacgaacacactcaataaattatcaatcaccatttt
+NC_024087.1:Aqu ctgcgcactaagtcccactattcaccccgccttctatcctaagcaacacattcaacaccc
+NC_029188.1:Aqu gttagtcctacga-ccttgctctttacgaatacatctggttggctattgatcaccattct
+NC_035806.1:Aqu ctgcgcactaaatcccaccattcaccccaccttctatcctaagcaacacattcaacaccc
+NC_036050.1:Gyp ttcattctt-----ttctactctttttccattcttttttcattcttttttcattcttttc
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu gttagtcctacga-tcttgctctttacgaatacatctggttggctactgatcaccattct
+NC_045364.1:Acc --------------atatacattatatatatacattatatata-tatacattatatatat
+NC_052803.1:Spi gctcgtactaaaa-cctggccctcgaccagtcctcaatctcaagagttgactagcgaaac
+NC_052805.1:Cir --------------atacaaaccctaccaactcttcgaccaag-----------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ggtttcaagt--------------------------------------------------
+NC_008550.1:Pan gcctcttaatcgcggcatctagcctctttagcgcggttggttccctttttttttggggcg
+NC_015887.1:Spi acctctcaatcacaacacccaaac--------------agtcctccctcctcaagaaatc
+NC_024087.1:Aqu gcaccacatccacaac--------------------------------------------
+NC_029188.1:Aqu gcctctcaatcacaac--------------------------------------------
+NC_035806.1:Aqu gcaccacatccacaac--------------------------------------------
+NC_036050.1:Gyp tactctttttccattcttttttcattcttttttcattcttttctactctttttccattct
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu acctctcaatcacaac--------------------------------------------
+NC_045364.1:Acc acattatatata------------------------------------------------
+NC_052803.1:Spi gacttcaaac--------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ------------------------------------------------------------
+NC_008550.1:Pan tcttcaggcagcccctccagtgcaccggcggtaaatacaatctcttgacgtgagcataca
+NC_015887.1:Spi cctacaaacagccc-----acacacataccacaacaacacaatcta-aaatatggacact
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu ------------------------------------------------------------
+NC_035806.1:Aqu ------------------------------------------------------------
+NC_036050.1:Gyp tttttcattcttttttcattcttttctactctttttccattctttt----------ttca
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu ------------------------------------------------------------
+NC_045364.1:Acc ------------------------------------------------------------
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis --------------------------------------------------------atcc
+NC_008550.1:Pan ctggtatgcggtctgtttttggtcctcagggatccattaatgatacggtttcaagtgtta
+NC_015887.1:Spi accactcccgaccagtctttaaatctcaagctatcttaatcactaacgaccagaatatta
+NC_024087.1:Aqu --------------------------------------------------------aaac
+NC_029188.1:Aqu --------------------------------------------------------atcc
+NC_035806.1:Aqu --------------------------------------------------------aaac
+NC_036050.1:Gyp ttcttttttcattcttttctactctttttcca----------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu --------------------------------------------------------atcc
+NC_045364.1:Acc --------------------------------------------tatacattatatatat
+NC_052803.1:Spi --------------------------------------------------------accc
+NC_052805.1:Cir ---------------gttgaaacccccaaactcacctaacaa--aatagctgagatgtca
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis gaagagtca-ccttgacaccacacaccaacca----------agaacatccaaccatg--
+NC_008550.1:Pan ggggaatca-ttttgactctgatgcactgtca----------tgtccatttggttatg--
+NC_015887.1:Spi aagagacca-ccctaacaccaacacactatca----------taaccacttgaccata--
+NC_024087.1:Aqu ataccccca-tttcacctccaagcccccactt----------tcaagaccaggcttca--
+NC_029188.1:Aqu aagtagttc-cccaccatctaaccctccccta-aaagtaacttcacaaacagccccca--
+NC_035806.1:Aqu ataccccca-tttcacctccaagcccccactt----------tcaagaccaggcttca--
+NC_036050.1:Gyp ----------ttcttttttcattcttttttca-----ttcttttctactctttttcca--
+NC_039095.1:Gyp -----------------------------------------------atctcacccca--
+NC_045042.1:Aqu gagtggttc-tccactgttgattcccctcttccgaggtagcttcacaaacggccctcata
+NC_045364.1:Acc gcacgcata-catacacatgtacatacaatgt-------atgtacataccacacaata--
+NC_052803.1:Spi agaaaatca-ctttgataccatacaccagtca----------cgaacatctagctatg--
+NC_052805.1:Cir gaggaaacaccttacacaccaacacactatca----------tgattacttaaccatg--
+                                                                            
+
+NC_007598.1:Nis -------------------------catcccagcccccacaacccctctctcagcgagca
+NC_007599.1:Nis ---------acgtatcaaca-----gggccctacccacaacccttctcactcagtgagca
+NC_008550.1:Pan ---------gtatttccgcg-----ggcggaggtttat----gttgctatttagtgaatg
+NC_015887.1:Spi ---------gcatacccaca-----aacccaacctac-----aacaccattgtttatgtg
+NC_024087.1:Aqu ---------caacacatacaatctaaaccaagaacactcct-accttcaatcaacaccca
+NC_029188.1:Aqu ----caccgcaacacatacaatccacaccacgaacactcct-gcctccaaccaaccctca
+NC_035806.1:Aqu ---------caacacatacaatctaaaccaagaacactcct-accttcaatcaacaccca
+NC_036050.1:Gyp ---------ttcttttttca-----ttcttttttcattc---ttttctactctttttcca
+NC_039095.1:Gyp ---------ggcatcttact-----cgttaatccttcac---ttttctactctttttcca
+NC_045042.1:Aqu ggtgcgccacggcacttacaatctaagacgtgaaccctcctggccctcggccagtcctcg
+NC_045364.1:Acc ---------cattcaacaca-----cactatgcccac-----aaacacactgcaccaact
+NC_052803.1:Spi ---------acgtattcaca-----gcccataatccc-----ctatttttctcacctcca
+NC_052805.1:Cir ---------acataacctca-----aaccccactcac-----aatgttgctcaacaagtg
+                                                  .            .  .   .   . 
+
+NC_007598.1:Nis ccc-------------acaaaacatggttt-----tttc---------------cacttt
+NC_007599.1:Nis ccc-------------acaaaacatggttt-----ttcc-----------------actt
+NC_008550.1:Pan ctt-------------gttggrcatattttttcttttcctttctcttacaactttttaaa
+NC_015887.1:Spi tgtatatatgtgttgttcaaaacacatcccacccttctttttccccttcaa-ttctaaag
+NC_024087.1:Aqu atc-------------ccaaaatccact---------------------------aacga
+NC_029188.1:Aqu acc-------------ccaaaattccact--------------------------aacaa
+NC_035806.1:Aqu atc-------------ccaaaatccact---------------------------aacga
+NC_036050.1:Gyp ttct--tttttcattcttttttcattcttt-----tct-actctttttcca-ttcttttt
+NC_039095.1:Gyp ttct--tttttcattcttttttcattcttt-----tttcattcttttttca-ttcttttt
+NC_045042.1:Aqu atc-------------tcaagagttgatt--------------------------aatga
+NC_045364.1:Acc aca-------------tctttactttatca-----tttatatcccctttca-aaaccaaa
+NC_052803.1:Spi act-------------t--------------------------------------cctaa
+NC_052805.1:Cir ttc-------------aaggtgtgttatcc-----tttttattactttcac-ttctcgag
+                                                                            
+
+NC_007598.1:Nis ttcccctctaaaaatcaccaaacacttcaaccaa-aacatcaaccatgtctttcatatat
+NC_007599.1:Nis tttccctctaaaaatcatcaaacacttcagccaa-aacatcaaccatgtctttcatatat
+NC_008550.1:Pan caacac--taggcatttccagtcaaaacactaat---------tgcacttttccacgaac
+NC_015887.1:Spi caacac--cagccactcatgaccaaatcaccaac------------catttttcacgaat
+NC_024087.1:Aqu aacggtttcaagtatccaaaa--acaccaa-----aacactaaccacgtttttcacgtat
+NC_029188.1:Aqu aacggttccaagcatccaaagagacaccaa-----aacactaaccacgtttttcacgtat
+NC_035806.1:Aqu aacggtttcaagtatccaaaa--acaccaa-----aacactaaccacgtttttcacgtat
+NC_036050.1:Gyp tcattcttttttcattcttttcta-----------ctctttttccattcttttttcattc
+NC_039095.1:Gyp tcattcttttttcattcttttcta-----------ctctttttccattattttttcattc
+NC_045042.1:Aqu gacgtttcaagcatctaaaaaccacctcaacactgaacaccaaccacgtttttcacgtat
+NC_045364.1:Acc caacaccccacaagcccctacaaa-------------------------tttccacgaat
+NC_052803.1:Spi gtacccctaaacaatctccaaccaaaacaccaaccaaca-caaccacgtttttcacgtat
+NC_052805.1:Cir cgacactttgatcgcttttaaccgaagcgttaaa-------tcgtgtttttttcacgaat
+                     .        ..       .                         .**.. ..  .
+
+NC_007598.1:Nis cttattcaaatttttcactttcaca-tttttttattcactaaaagtactggagtctcatt
+NC_007599.1:Nis cttattcaaattcttcactttcaca-tttttttattcaccaaaagcactggagtctcatt
+NC_008550.1:Pan ttttttcgttctctt---ttcaact-ttttttcattcatcaaaagcactggacttccatt
+NC_015887.1:Spi tttattcacactttt-------tca-catttttattcgtcaacggcactgaagttccatt
+NC_024087.1:Aqu ttt-ttcacatttttcactttcaca-tttttttgttcaccaaaagcactggagtctcatt
+NC_029188.1:Aqu ttt-ttcacacttttcactttcaca-tttctttattcactaaaagcactggagtctcatt
+NC_035806.1:Aqu ttt-ttcacatttttcactttcaca-tttttttgttcaccaaaagcactggagtctcatt
+NC_036050.1:Gyp ttttttcattcttttctac-------tctttttccattcttttttcattcttttttcatt
+NC_039095.1:Gyp ttttttcatttttttttc--------actttttttctgtcaaaggcactggagtttcatt
+NC_045042.1:Aqu ctttttcacatttttcacttttacattttttttgttcaccaaaagcactggagtctcatt
+NC_045364.1:Acc tttatctatactttt-----------tatttttacttgtcaaaagtactggagttccatt
+NC_052803.1:Spi cttattcacatttatcactttcaca-tttttttgttcaccaaaagtactggagttccatt
+NC_052805.1:Cir tttatccttactttt------ttca-catttttacacgtc-aaagcactggaattccatt
+                .** *..   .*. *             *.**. . . ..     .*.*    *..****
+
+NC_007598.1:Nis aattatttcagatcacatatcacacattttatatgtg---tgtacat-taaacacactaa
+NC_007599.1:Nis aattatttaagatcacacatcacacattttatatgtg---tgcaca--taaacacactaa
+NC_008550.1:Pan aataaacacgaaccgaatcgttcgtcgttcttgttcgtcgtttgtcc-atcgttcgtcac
+NC_015887.1:Spi agttatttcagataat-tacaccttattttatacgtga-ttttatgcgttaatacaccaa
+NC_024087.1:Aqu aattttttcaaatcacatatctcatattttatttgtg---tgtacac-taaacacaccaa
+NC_029188.1:Aqu aattatttcaaatcatatatctcacattttatttatg---cgcacac-taaatacaccaa
+NC_035806.1:Aqu aattttttcaaatcacatatctcatattttatttgtg---tgtacac-taaacacaccaa
+NC_036050.1:Gyp nnnnntctacaaagcccctaaacaagtaacaatat-------------aagt--agatga
+NC_039095.1:Gyp aataatttcgaatatttacactcattatatatgtt-------------aaatcacatcaa
+NC_045042.1:Aqu aattatttcaaatcatatatctcacatttta-ttgtg---tgcatac-taaacacaccaa
+NC_045364.1:Acc aataatccaaataattttatcttata-tatatgtgtgt-atatacgt-atatcacaccaa
+NC_052803.1:Spi aattatttcaaatcatatatctcatattttatttatg---tgcatac-caaacacaccaa
+NC_052805.1:Cir aattatttcaaataat-cttatcatattttatgtgtgt-ttatacgt-tacattcatcaa
+                      .   .           .      .                         . .. 
+
+NC_007598.1:Nis aatattaaggtgacccccctattaaacacgtcaaacata--acac-----caccatacac
+NC_007599.1:Nis aatattaaggtgacccccctactaaacacgttaaacata--acac-----caccattcac
+NC_008550.1:Pan caaactaa---gtcctgcattaccaaaataccaagctctactagcaccaaattaatacag
+NC_015887.1:Spi aatactaatgaaactcccctaccaaattcatcaactcttatcaccacgaacaccacgcgc
+NC_024087.1:Aqu aatattaaagagacccccctactgaatacaccaaacacataacac-----caccacgcac
+NC_029188.1:Aqu aatattaaagaaacccccctactgaatgtaccaaccacacaacac-----catcacacgc
+NC_035806.1:Aqu aatattaaagagacccccctactgaatacaccaaacacataacac-----caccacgcac
+NC_036050.1:Gyp gctatcta-caaagcccctaaacaagtaacaatataagtagatg------agctatctac
+NC_039095.1:Gyp aatattaa-ggaacccccctaccaagtcagtaaca---------------catcgcacat
+NC_045042.1:Aqu aatattaaggaaacccccctaccgaatataccaaacgcatgacac-----caccacacac
+NC_045364.1:Acc aatattagaggaacccccctaccaaactcaccaaaccaccaaccaatc--caccataaaa
+NC_052803.1:Spi aatattaaggagacccccctatcgaacacgcaacatgcac-acac-----cgccacatgc
+NC_052805.1:Cir aatattaagggaacccccctaccaactacaccaaacatcacaaa------cactatccca
+                   *.. .   .  .. *    . *                           . ..    
+
+NC_007598.1:Nis c-agacccc------aaacaacaaccacacac--aggcttagccaacaatat-aatgaat
+NC_007599.1:Nis c-agacccc------aaacaacaaccacacac--aaacttaaccaacaatat-aatgaat
+NC_008550.1:Pan caactccactac------------------------------------------------
+NC_015887.1:Spi ccaaaccaccac--------ccagacaacccatgacaaacaaccaataatac-aacagat
+NC_024087.1:Aqu c-aacccac------aaacagcaagcatacac--aagctcaaccaacaatataaatgaat
+NC_029188.1:Aqu c-aacccac------aaacagcaaccatacat--aagcttagccaacaatataaatgaat
+NC_035806.1:Aqu c-aacccac------aaacagcaagcatacac--aagctcaaccaacaatataagtgaat
+NC_036050.1:Gyp aaagcccct---------------------------aaacaagtaacaatataagtagat
+NC_039095.1:Gyp acactccct---------------------------aaacaagtaataatataagtagat
+NC_045042.1:Aqu c-aacccac------aaacaacaatcatacat--atacttgaccaacaatataaatgaat
+NC_045364.1:Acc c-agctaacagcacaaacaaataacccaacat--gaaacagattaataatgtgaatagat
+NC_052803.1:Spi ctagcctac------agacaacaaccacctac--aaatttaaccaacaatataaatgaat
+NC_052805.1:Cir t-aaaccat--------accccaaacagacca--tgaattcacaactaatacttagcaaa
+                  *  .  .                                                   
+
+NC_007598.1:Nis gataagttcta---taagccgtcaatcaataaccaacaatat-aatgaatgataagttct
+NC_007599.1:Nis gatacgttcta---taaaccgtcaatcaataaccaacaatat-aatgaatgatacgttct
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi gagcaattctacaaaagccatgaaacaaatgactaacgatt--aacagatgagcaattct
+NC_024087.1:Aqu gattagttcta-atagagccgtgaacaaataaccaacaatataaatgaatgattagttct
+NC_029188.1:Aqu gattagcgcta-ataaagccgtgagcaagtaaccaacaatataaatgaatgattagcgct
+NC_035806.1:Aqu gattagttcta-atagagccgtgaacaaataaccaacaatataagtgaatgattagttct
+NC_036050.1:Gyp gagctatcta--caaagcccctaaacaag----taacaatataagtagatgagctatcta
+NC_039095.1:Gyp cagctatcta--caaagcccctaaacaag----taataatataagtagatgagctatcta
+NC_045042.1:Aqu gattagttct--ataaggccgtgaacaaataaccaacaatataaatgaatgattagttct
+NC_045364.1:Acc tgacagttct----aaagccatgaaacag--attaataatgtgaatagattgacagttct
+NC_052803.1:Spi aataagttcta-ataaagccgtaagtcgataatcaacaatataaatgaataataagttct
+NC_052805.1:Cir taacagtct---ataaagctgtgaattcgtaattaacaatataagcagatgacagtctat
+                                                                            
+
+NC_007598.1:Nis a--taagccgtcaa-tcaataaccaacaatat-aatgaatgataagttcta--taagccg
+NC_007599.1:Nis a--taaaccgtcaa-tcaataaccaacaatat-aatgaatgatacgttcta--taaaccg
+NC_008550.1:Pan ---------------------------------------------------ccaaaccca
+NC_015887.1:Spi acaaaagccatgaaacaaatgactaacgatt--aacagatgagcaattctacaaaagcca
+NC_024087.1:Aqu aatagagccgtgaa-caaataaccaacaatataaatgaatgattagttctaatag-----
+NC_029188.1:Aqu aataaagccgtgag-caagtaaccaacaatataaatgaatgattagcgctaataaagccg
+NC_035806.1:Aqu aatagagccgtgaa-caaataaccaacaatataagtgaatgattagttctaatagagccg
+NC_036050.1:Gyp --caaagccccta----aacaagtaacaatataagtagatgagctatct--acaaagccc
+NC_039095.1:Gyp --caaagccccta----aacaagtaataatataagtagatgagctatct--acaaagccc
+NC_045042.1:Aqu -ataaggccgtgac-caaataaccaccaatataaatgaatgattagttct-ataaggccg
+NC_045364.1:Acc ---aaagccatga---aacagattaataatgtgaatagattgacagtt---ctaaagcca
+NC_052803.1:Spi aataaagccgtaag-tcgataatcaacaatataaatgaataataagttctaataaagccg
+NC_052805.1:Cir ---aaagccgtgaa-ttcgtaattaacaatataagcagatgacagtct---ataaagccg
+                                                                      .     
+
+NC_007598.1:Nis tcaatcaa-taaccaacaatat-aatgaatgataagttct-------ataagccgtcaat
+NC_007599.1:Nis tcaatcaa-taaccaacaatat-aatgaatgatacgttct-------ataaaccgtcaat
+NC_008550.1:Pan taagcccc-actcccatactaccgacgaacaaacctacccaaccaacttaaaccaagtaa
+NC_015887.1:Spi tgaaacaaatgactaacgatt--aacagatgagcaattct-----acaaaagccatgaaa
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu tgagcaag-taaccaacaatataaatgaatgattagcgct-----aataaagccgtgagc
+NC_035806.1:Aqu tgaacaaa-taaccaacaatataagtgaatgattagttct-----aatagagccgtgaac
+NC_036050.1:Gyp ctaaaca----agtaacaatataagtagatgagctatct-------acacgtccccgta-
+NC_039095.1:Gyp ctaaaca----agtaataatataagtagatgagctatct-------acaaagcccctaa-
+NC_045042.1:Aqu tgaacaaa-taaccaacaatataaatgaatgattagttct------ataaggccgtgaac
+NC_045364.1:Acc tgaaaca---gattaataatgtgaatagattgacagttc--------taaagccatgaaa
+NC_052803.1:Spi taagtcga-taatcaacaatataaatgaataataagttct-----aataaagccgtaagt
+NC_052805.1:Cir tgaattcg-taattaacaatataagcagatgacagtct--------ataaagccgtgaat
+                                                                            
+
+NC_007598.1:Nis c-aataaccaacaatat-aatgaatgataagttcta--taagccgtcaatcaa-taacca
+NC_007599.1:Nis c-aataaccaacaatat-aatgaatgatacgttcta--taaaccgtcaatcaa-taacca
+NC_008550.1:Pan a-cccgaccaaccgta--------------------------------------------
+NC_015887.1:Spi caaatgactaacgatt--aacagatgagcaattctacaaaagccatgaaacaaatgacta
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu a-agtaaccaacaatataaatgaatgattagcgctaataaagccgtgagcaag-taacca
+NC_035806.1:Aqu a-aataaccaacaatataagtgaatgattagttctaatagagccgtgaacaaa-taacca
+NC_036050.1:Gyp ---gctagtaacaatataagtagatgagctatct--acaaagcccctaaaca----agta
+NC_039095.1:Gyp ---acaagtaataatataagtagatgagctatct--acaaagcccctaaaca----agta
+NC_045042.1:Aqu a-aataaccaacaatataaatgaatgattagttct-ataaggccgtgaacaaa-taacca
+NC_045364.1:Acc c-a--gattaataatgtgaatagattgacagtt---ctaaagccatgaaaca---gatta
+NC_052803.1:Spi c-gataatcaacaatataaatgaataataagttctaataaagccgtaagtcga-taatca
+NC_052805.1:Cir t-cgtaattaacaatataagcagatgacagtct---ataaagccgtgaattcg-taatta
+                                                                            
+
+NC_007598.1:Nis acaatat-aatgaatgataagttctataa--gccgtcaatcaataaccaacaatat-aat
+NC_007599.1:Nis acaatat-aatgaatgatacgttctataa--accgtcaatcaataaccaacaatat-aat
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi acg--attaacagatgagcaattctacaaaagccatgaaaca------------------
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu acaatataaatgaatgattagcgctaataaagccgtgagcaagtgaccaacaatataaat
+NC_035806.1:Aqu acaatataagtgaatgattagttctaatagagccgtgaacaaataaccaacaatataagt
+NC_036050.1:Gyp acaatataagtagatgagctatctacaaa--gcccctaaaca------------------
+NC_039095.1:Gyp ataatataagtagatgagctatctacaaa--gcccctaaaca------------------
+NC_045042.1:Aqu acaatataaatgaatgattagttctataag-gccgtgaacaaataaccaacaatataaat
+NC_045364.1:Acc ataatgtgaatagattgacagttctaaa---gccatgaaaca--gattaataatgtgaat
+NC_052803.1:Spi acaatataaatgaataaacaaccccacac-------------------------------
+NC_052805.1:Cir acaatataaacaagcggctagtctcatat-------------------------------
+                                                                            
+
+NC_007598.1:Nis gaatgataagttcta--taagccgtcaatcaataaccaacaatat-aatgaatgataagt
+NC_007599.1:Nis gaatgatacgttcta--taaaccgtcaatcaataaccaacaatat-aatgaatgatacgt
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi ------------------------------------------------------------
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu gaatgattagcgctaataaagccgtgagcaagtaaccaacaatataaatgaatgattagc
+NC_035806.1:Aqu gaatgattagttctaatagagccgtgaacaaataaccaacaatataagtgaatgattagt
+NC_036050.1:Gyp ------------------------------------------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu gaatgattagttcta-taaggccgtgaacaaataaccaacaatataaatgaatgattagt
+NC_045364.1:Acc agattgacagttcta---aagccatgaa--acagattaataatgtgaatagattgacagt
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis tcta--taagccgtcaatcaataaccaacaatat-aatgaatgataagttcta--taagc
+NC_007599.1:Nis tcta--taaaccgtcaatcaataaccaacaatat-aatgaatgatacgttcta--taaac
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi ------------------------------------------------------------
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu gctaataaagccgtgagcaagtaaccaacaatataaatgaatgattagcgctaataaagc
+NC_035806.1:Aqu tctaatagagccgtgaacaaataaccaacaatataagtgaatgattagttctaatagagc
+NC_036050.1:Gyp ------------------------------------------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu tcta-taaggccgtgaacaaataaccaacaatataaatgaatgattagttcta-taaggc
+NC_045364.1:Acc tcta---aagccatgaa--acagattaataatgtgaatagattgacagttcta---aagc
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis cgtcaatcaataaccaacaatat-aatgaatgataagttcta--taagccgtc-aatcaa
+NC_007599.1:Nis cgtcaatcaataaccaacaatat-aatgaatgatacgttcta--taaaccgtc-aatcaa
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi --------aatgactaacg--attaacagatgagcaattctacaaaagccatgaaacaaa
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu cgtgagcaagtaaccaacaatataaatgaatgattagcgctaataaagccgtg-agcaag
+NC_035806.1:Aqu cgtgaacaaataaccaacaatataagtgaatgattagttctaatagagccgtg-aacaaa
+NC_036050.1:Gyp ------------agtaacaatataagtagatgagctatcta-------------------
+NC_039095.1:Gyp ------------agtaataatataagtagatgagctatcta-------------------
+NC_045042.1:Aqu cgtgaacaaataaccaacaatataaatgaatgattagttct-ataaggccgtg-aacaaa
+NC_045364.1:Acc catgaa--acagattaataatgtgaatagattgacagttct---aaagccatgaaaca--
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis taaccaacaatat-aatgaatgataagttcta--taagccgtc-aatcaataaccaacaa
+NC_007599.1:Nis taaccaacaatat-aatgaatgatacgttcta--taaaccgtc-aatcaataaccaacaa
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi tgactaacgatt--aacagatgagcaattctacaaaagccatgaaacaaatgactaacga
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu taaccaacaatataaatgaatgattagcgctaataaagccgtg-agcaagtaaccaacaa
+NC_035806.1:Aqu taaccaacaatataagtgaatgattagttctaatagagccgtg-aacaaataaccaacaa
+NC_036050.1:Gyp ------------------------------------------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu taaccaacaatataaatgaatgattagttct-ataaggccgtg-aacaaataaccaacaa
+NC_045364.1:Acc -gattaataatgtgaatagattgacagttct---aaagccatgaaaca---gattaataa
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis tat-aatgaatgataagttcta--taagccgtcaatcaataaccaacaatat-aatgaat
+NC_007599.1:Nis tat-aatgaatgatacgttcta--taaaccgtcaatcaataaccaacaatat-aatgaat
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi tataacagaatgagcagggcaa--------------------------------------
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu tataaatgaatgattagcgctaataaagccgtgagcaagtaaccaacaatataaatgaat
+NC_035806.1:Aqu tataagtgaatgattagttctaatagagccgtgaacaaataaccaacaatataagtgaat
+NC_036050.1:Gyp ------------------------------------------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu tataaatgaatgattagttcta-taaggccgtgaacaaataaccaacaatataaatgaat
+NC_045364.1:Acc tgtgaatagattgacagttcta---aagccatgaaaca--gattaataatgtgaatagat
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis gataagttcta--taagccgtcaatcaataaccaacaatat-aatgaatgagcaacttca
+NC_007599.1:Nis gatacgttcta--taaaccgtcaatcaataaccaacaatat-aatgaatgatacgttcta
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi ------ctcta-------------------------------------------------
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu gattagcgctaataaagccgtgagcaagtaaccaacaatataaatgaatgattagcgcta
+NC_035806.1:Aqu gattagttctaatagagccgtgaacaaataaccaacaatataagtgaatgattagttcta
+NC_036050.1:Gyp ------------------------------------------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu gattagttcta-taaggccgtgaacaaataaccaacaatataaatgaatgattagttcta
+NC_045364.1:Acc tgacagttcta---aagccatgaaaca--gattaataatgtgaatagattgacagttcta
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis --taaaccgtcaatcaataaccaacaatat-aatgaatgatacgttcta--taaaccgtc
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi ------------------------------------------------------------
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu ataaagccgtgaacaagtaaccaacaatataaatgaatgattagcgctaataaagccgtg
+NC_035806.1:Aqu atagagccgtgaacaaataaccaacaatataagtgaatgattagttctaatagagccgtg
+NC_036050.1:Gyp ------------------------------------------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu -taaggccgtgaacaaataaccaacaatataaatgaatgattagttcta-taaggccgtg
+NC_045364.1:Acc ---aagccatgaaaca--gattaataatgtgaatagattgacagttcta---aagccatg
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis aatcaataaccaacaatat-aatgaatgatacgttcta--taaaccgtcaatcaataacc
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi ------------------------------------------------------------
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu agcaagtaaccaacaatataaatgaatgattagcgctaataaagccgtgagcaagtaacc
+NC_035806.1:Aqu aacaaataaccaacaatataagtgaatgattagttctaatagagccgtgaacaaataacc
+NC_036050.1:Gyp ------------------------------------------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu aacaaataaccaacaatataaatgaatgattagttcta-taaggccgtgaacaaataacc
+NC_045364.1:Acc a--aacagattaataatgtgaatagattgacagttcta---aagccatga--aacagatt
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis aacaatataa-tgaatgatacgttcta--taaaccgtcaatcaataaccaacaatat-aa
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi ------------------------------------------------------------
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu aacaatataaatgaatgattagcgctaataaagccgtgagcaagtaaccaacaatataaa
+NC_035806.1:Aqu aacaatataagtgaatgattagttctaatagagccgtgaacaaataaccaacaatataag
+NC_036050.1:Gyp ------------------------------------------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu aacaatataaatg-atgagcaactcta---------------------------------
+NC_045364.1:Acc aataatgtgaatagattgacagttcta---aagccatgaaaca--gattaataatgtgaa
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis tgaatgagcaacttca--------------------------------------------
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi ------------------------------------------------------------
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu tgaatgattagcgctaataaagccgtgagcaagtaaccaacaatataaatgaatgagcaa
+NC_035806.1:Aqu tgaatgagtaactcta--------------------------------------------
+NC_036050.1:Gyp ------------------------------------------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu ------------------------------------------------------------
+NC_045364.1:Acc tagattgacagttctaa---agccatga--aacagattaataatgtgaatagattgacag
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis ------------------------------------------------------------
+NC_007599.1:Nis ------------------------------------------------------------
+NC_008550.1:Pan ------------------------------------------------------------
+NC_015887.1:Spi ------------------------------------------------------------
+NC_024087.1:Aqu ------------------------------------------------------------
+NC_029188.1:Aqu ctcta-------------------------------------------------------
+NC_035806.1:Aqu ------------------------------------------------------------
+NC_036050.1:Gyp ------------------------------------------------------------
+NC_039095.1:Gyp ------------------------------------------------------------
+NC_045042.1:Aqu ------------------------------------------------------------
+NC_045364.1:Acc ttctaaagccatgaaacagattaataatgtgaatagattgacagttctaaagccatgaaa
+NC_052803.1:Spi ------------------------------------------------------------
+NC_052805.1:Cir ------------------------------------------------------------
+                                                                            
+
+NC_007598.1:Nis -------------------------------cac-
+NC_007599.1:Nis -------------------------------cac-
+NC_008550.1:Pan -------------------------------cct-
+NC_015887.1:Spi -------------------------------cac-
+NC_024087.1:Aqu -----------------------------------
+NC_029188.1:Aqu -------------------------------cac-
+NC_035806.1:Aqu -------------------------------cac-
+NC_036050.1:Gyp -------------------------------cac-
+NC_039095.1:Gyp -------------------------------cac-
+NC_045042.1:Aqu -------------------------------cacg
+NC_045364.1:Acc cagattaataatgtgaatagattgacattcacat-
+NC_052803.1:Spi -----------------------------------
+NC_052805.1:Cir -----------------------------------
+                                                   

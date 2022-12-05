@@ -1,0 +1,233 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.475)
+
+
+NC_008549.1:Pte --------------------gg---------------------cccccccttaccccccc
+NC_028019.1:Sas ccacctaacacacctggcccaatcccctaaaataaaagcgaccccccccctcccccccat
+NC_039537.1:Pic --attcacctccccatgtccaaacacccata--------ggacccccccttcccccccat
+NC_040005.1:Ind --ttccaatttattttttca-------------------ccaccccccccttcccccccc
+NC_052781.1:Psi aatcccctcttctttttttc-------------------tccccccccccttcccccccc
+                                                           ******.*. ***** .
+
+NC_008549.1:Pte g-------------------------------cgtatgtataaatgcgcattatatcatg
+NC_028019.1:Sas aatagggtattctgcatatttatttccaa---cctatgtacttctgtgcattacacttat
+NC_039537.1:Pic gaacgttagttcacggacttatatttaaa---cctatgtatatctgtgcattccgtatat
+NC_040005.1:Ind aatagtactgcctatgcatttactattaa---gctatgtacttctgtgcattaaatcaca
+NC_052781.1:Psi gcaaaaccctcatcggtttttgcggcaaattggttatgtataaatgtgcattaaacttta
+                .                                 ******.   **.*****  ..    
+
+NC_008549.1:Pte cccccatcttatgtaatgaatgctttaggacagaagccttaattcatcccagacatat-t
+NC_028019.1:Sas tttcaagtacacg-gataagcactctaggacataaaccttaatgtactaatgacatacat
+NC_039537.1:Pic ttcagagaacacg-gatatgtacggcaggacaaaaactgcaatgcacgaatgtcatac-t
+NC_040005.1:Ind ctcagggtacacg-gatattcaacctaggacataaactgtaatgctttcaagcataat-c
+NC_052781.1:Psi tttcaagtacacg-aaaatacactctagaacaattcatgcaatgcatacaggtcatac-c
+                ...  .   .*.* .* .  ..   .**.***     . .*** . .    *    *. .
+
+NC_008549.1:Pte acagataattgctta--aatcattcaactctatccatcctactttctaaagtaatcttcc
+NC_028019.1:Sas agcaatatcgtcataccatctcaatgtatctcctcatcctactttctgaagaactgccta
+NC_039537.1:Pic catgatttttacataccatctatctgtaagtcaccatcataccttctgaaggactactag
+NC_040005.1:Ind aacgttattgtcataccatccaattttttctccccatcctactttctaaaggattatcca
+NC_052781.1:Psi aaaggtttttacataccatctcattgact-accccatcctactttctaaaggaattgaaa
+                   . *  .  * **  * ..   .        .**** ***.****.*** * *     
+
+NC_008549.1:Pte atgtaatgt-attaacccaaaa--------------------------------------
+NC_028019.1:Sas cttcatgat-ctaaggaccatc--------------------------------------
+NC_039537.1:Pic aataatgcctggaaggaatgtc--------------------------------------
+NC_040005.1:Ind agttcatgctatgaggactata--------------------------------------
+NC_052781.1:Psi cttaatggt-acaggaaataaatgcctactcaccataacaccccacccaaacatcctact
+                        .    ..    .                                        
+
+NC_008549.1:Pte -----------------------------------ctcctttaga-taatactaaaacca
+NC_028019.1:Sas -----------------------------------aaacactagt-tcgtactaaaaccc
+NC_039537.1:Pic -----------------------------------aaactatata-tcgtactaaaaccc
+NC_040005.1:Ind -----------------------------------aacctctaagttcgtgctaaaccct
+NC_052781.1:Psi ttctgaaggattccaagccaatgcaacaagacaataaactcttaa-tcataccctaacca
+                                                      *  *    * .*.*.  * ** 
+
+NC_008549.1:Pte gtaagtctattacttatacata--actccctgaaagatacgaatatgcttgctggacata
+NC_028019.1:Sas ctcttatattggtttatacataggaattatccctccatacggcagtgcttgaccaaatga
+NC_039537.1:Pic -ctactttatatactgcgcata--aaccacccatccacacggcagtgtatttccccacga
+NC_040005.1:Ind -agaaatgttctcttatacata--aggacttttaccacacggatatgcttgagtacaaga
+NC_052781.1:Psi -taaactgcttatttatacata-aaactcctaaaagatacggaagtgtttaaccaattat
+                      .  *   .*...****  *    ..     *.***.  .**. *          
+
+NC_008549.1:Pte actccttggtctgatctcatctcattcaactatctctcgaagtaccgaaagctgtcgtac
+NC_028019.1:Sas actccatggtagcagcccataacctgcaatagtctctcgtcgtgccggcagct-tcgtac
+NC_039537.1:Pic actccttggtaccg--cccataccttcaatagtctcctgatgtacacaaagct-tcgtac
+NC_040005.1:Ind actccatggtatcaggccataacctgcaataacttcttgtcgtgccggtagctatcgtac
+NC_052781.1:Psi aatgaatggtaacaggccataac--tgaaatatctcttgtagtgccggtagctgtcgtac
+                * *   ****   .  .*    *    **  ...**..*  **.*  . **** ******
+
+NC_008549.1:Pte caggttatttcttggtcgttctcctcacgtgaaatcagcaacgcaccgcatagaatgtcc
+NC_028019.1:Sas caggttatctattaatcggtcacctcacgtgaaatcagcaacgcaccgcatataagatcc
+NC_039537.1:Pic caggtgatttattggtcgtgcacctcacgagagatcagcaacgcgccgctcgaaagatcc
+NC_040005.1:Ind caggttatttattagtcggtcacctcacgtgaaatcagcaacgcaccgcacataatgtcc
+NC_052781.1:Psi caggttatttattagtcgttcacctcacgtgaaaccagcaacgcgccgcatataaggtcc
+                ***** **.* **..***  * ******* **.*.*********.**** .. ** .***
+
+NC_008549.1:Pte tacgttactagcttcaggcccatactttccccctaaacccctcgcgcaacttgctctttt
+NC_028019.1:Sas tacgttactagcttcaggcccatactttccccctacacccctagcacaacttgctctttt
+NC_039537.1:Pic tacattcccagcttcaggcccatactttccccctacacccctagcacaacttgctttttt
+NC_040005.1:Ind ttcatgactagcttcaggcccatactttccccctacacccctagcacaacttgctctttt
+NC_052781.1:Psi tatattactagcttcaggcccatactttccccctaaacccctcgcccaacttgctctttt
+                * ..*  *.************************** ****** ** *********.****
+
+NC_008549.1:Pte gcgcctctggttcctttttcagggccattacttgacctattcccttcaacttgcctttca
+NC_028019.1:Sas gcgcctctggttcctatttcagggccattactggtcct-ctcgcacg-tctcacacgtca
+NC_039537.1:Pic gcgcctctggttcctatctcagggccattactggtcct-cgcatatg-tattgctcttca
+NC_040005.1:Ind gcgcctctggttcctcggtcaggaccatcaactggctt-ctcacctgttattgcacgtca
+NC_052781.1:Psi gcgcctctggttcctttttcagggccatcacctgacca-atcccttgaactcgcttttca
+                ***************   *****.****.* . * *.    * . .    *..* . ***
+
+NC_008549.1:Pte c-gagacatctggttggggatatatatcaccatttccgtccgtgatcgcgacattcccca
+NC_028019.1:Sas t-gaggcctctggtt--ggctatatctcaccattttagtccgtgatcgcggcatcccaa-
+NC_039537.1:Pic cagagaccactggtt--ggccatatctcaccattttagtccgtgatcgcggcattccaa-
+NC_040005.1:Ind cggatacatctggtt--cgctatttatcaacattgtccctcttaatcgggtcacctccc-
+NC_052781.1:Psi t-gagacatctggtt-gggttatatctcaccattttcgtccgtgatcgcgacatcccaac
+                . ** .*  ******   * .** * *** **** .  ..* *.**** * **...*   
+
+NC_008549.1:Pte accttggcgccttt--cttcctttttttttt--tcggcttcactcggcccttc-cagtgc
+NC_028019.1:Sas cctttggcacctttg-gttcctttttttttggggcgtcttcaataaacccttcagagtgc
+NC_039537.1:Pic ccttcggtgccttc--cttcttttttttttgggggatcttcaataagcccttcacagtgc
+NC_040005.1:Ind ttcttctcgcttttggttctcttttttttctggacgtcttcactctacacttcagagtgc
+NC_052781.1:Psi cctttggcgcctct--cttcctttttttttggggcgtcttcactcggcccttc-cagtgc
+                 ..*.  ..*.*..   *...********.     . ***** *  .* ****  *****
+
+NC_008549.1:Pte ggcgggtgcgctctttcc-ttgacgtgagcatcttattaccgtcgagcggttttttggcc
+NC_028019.1:Sas ggcgggtaatcacaatctcttgacatgagcatacaatgcctgccgtcctgttttgtggct
+NC_039537.1:Pic ggcgggtgaatacaatctattgacgtgagcatca-atgaccagcgtccgg-tatttggtc
+NC_040005.1:Ind ggcgggtgaatacaatctattgacgtgagcatac-atgcctgccgtcctg-ttcgtggtt
+NC_052781.1:Psi ggggggtgttaacaatctattgacatgtacatcttattaccggcgtgcggttttctggcc
+                ** ****.    *  **. *****.** .***   **  *.. **  * * * . ***..
+
+NC_008549.1:Pte ttcaggagtcactaaagctgatacggtttcatgtgttaggggaatcactttgacactgat
+NC_028019.1:Sas ctcaggagtccctgaagctgagacggttt-gcgtgtatggggaatcattttaacactgat
+NC_039537.1:Pic ctcaggtgtcactgaagccgaaacggttt-acgtgtatggggaatcatttttacactgat
+NC_040005.1:Ind ctcaggagtcactaaagctgatacggttt-gcgcgcgaggggaatcatttttacactgat
+NC_052781.1:Psi ctcaagagttactgaagctgagacggttt-gcgtgcgaccggaatcattttgacactgat
+                .***.* **. **.****.** ******* ..*.*.    *******.*** ********
+
+NC_008549.1:Pte gcactttg-actgacatttggttatggtattttaa-cccttgaatcaagctagtgttata
+NC_028019.1:Sas gcactttg-ttttacatttggttatgatatctttt-atccttgattcttgatgttctat-
+NC_039537.1:Pic gcactttg-ctttgcatttggttatgatatcttttatccctgtgtcttgat-gttctat-
+NC_040005.1:Ind gcactttg-tcatgcacttggttcctataccttttgcccttttattatcatggggctat-
+NC_052781.1:Psi gcactttgaccccataaaatgcagtgatacttcac-catccgggtgatattgtggttat-
+                ********  .  ..*    *.  . .**..*.     ...  .*          .*** 
+
+NC_008549.1:Pte caagttaatggtttaagtacatgcttttattcattcac-----------acttcctctaa
+NC_028019.1:Sas ttaattaatgcctgatagacataattttccatatttcc-----------gttagctctaa
+NC_039537.1:Pic ttaattaatgcctgatagacataattttccatttttcc-----------aattcctctga
+NC_040005.1:Ind ttagtgaatgctagaagggcataattttgcgtttttttttaatttttgaattttctctaa
+NC_052781.1:Psi taaatgaatgcttggtagacataattttttcatcatcc-------------ttcctctaa
+                . *.* **** .  . . .***. **** .   . . .             *  ****.*
+
+NC_008549.1:Pte aactcccctaaaaactaaaa----------aattctcccaccaaccaacatccaccactc
+NC_028019.1:Sas tttccccctatatca-aaaacgttactaggggtttttcccctaatcgttttttttcaatc
+NC_039537.1:Pic cttgccctaatattg-aaaacgtttctaggaaattttcccttaa---cgttttaacgatc
+NC_040005.1:Ind tttcccttaatattgcaaaacgccactaggcgctttgtttaata---atttttaaaaaat
+NC_052781.1:Psi cttgccttcacaacc------------------ctttttacacatcacaattgcatcatc
+                  . **.. * *                     ..* ..    *      *.       .
+
+NC_008549.1:Pte atcatccactttttcaaaaatttttaatacaccattcgcttgtcacacctccaccacgca
+NC_028019.1:Sas tacaatcattttttttcattttttttcatttttttttcatttgtttgcatttgttaggca
+NC_039537.1:Pic aacgatcatttttttttcattttttaattcattcgttttttcattcgttttcctcccgaa
+NC_040005.1:Ind cataatcatttttttttcttttttcattcgttcgtttcat-------cgttcattaaccg
+NC_052781.1:Psi aacgatcaatcattccatttcttttctcttcgttc------------tatcattcatcca
+                  .. .** *. **.     .***.       .              . *.  ..    .
+
+NC_008549.1:Pte cccaattatccttaatagactaaccaaacttttactttttgaactttctacattccatcg
+NC_028019.1:Sas ccgagatcactctaata------tcgaacgtttccatttcattcattcattcgttcattt
+NC_039537.1:Pic tt-------cccctata------ttaaacgtttacgtttcatacgtttatatatcgattt
+NC_040005.1:Ind ccggaattaccctaata---------aaaaattcatattcgtttattcattcgttcattc
+NC_052781.1:Psi ctgaaatagccctaata-tttaattaaacattcattttat-----tttatgtattcattt
+                ..       *... ***         **   *.    * .     **.     *. **. 
+
+NC_008549.1:Pte atagatt------gctcaacactagctaggagtaactccctataaaggatattactccat
+NC_028019.1:Sas gttagtt------aatttatcgatctattaactcaatatttcc---ctgcctctttatga
+NC_039537.1:Pic aattcat-----aaaatttacccactcacaacccaatttacac---ctacctcaacccaa
+NC_040005.1:Ind atcgatc---gtgatcattccttttctttaaccccaaatcttc---ctactccttcgcca
+NC_052781.1:Psi gttaatcaccattcattcaccaatccattcattcattccatccaacttacttcactccat
+                .     .                  .    * .     . . .     .. ..  . .  
+
+NC_008549.1:Pte cacttcttttttctttgaactttctacattccatcgatagattgctcaacactagc-tag
+NC_028019.1:Sas ttcatcattcacaatcaaaac---------------aacacatcatacacctaaatccgg
+NC_039537.1:Pic ---------catcattaaact---------------aacgtattttatatccccat-caa
+NC_040005.1:Ind -tcatcattcgtattcgaaaat--------------cacgattccatcatatcatt-tac
+NC_052781.1:Psi tccttcaccatccatcaaacc---------------------------------------
+                           .  *..**                                         
+
+NC_008549.1:Pte gagtaactcc--ctataaaggatattactccatc---acttcttttttctttgaactttc
+NC_028019.1:Sas caggacaatt-----------accccatgcaccccccatatacaattcattcatctaaac
+NC_039537.1:Pic caggacactttccgctaacaaactcgaaccactccaaaccattagacccaatccacaaac
+NC_040005.1:Ind cagtaaatta--ctctaataaatcaaaacctacgccaacgtattttttatttaaacattc
+NC_052781.1:Psi ------------------------------------------------------------
+                                                                            
+
+NC_008549.1:Pte tacattccatcgatagattgctcaacactagctaggagtaactccctataaaggatatta
+NC_028019.1:Sas taaaccaatccaaaccact-----------------------------------------
+NC_039537.1:Pic caaatcaactaagcccatta----------------------------------------
+NC_040005.1:Ind aacataaaccttaactatt-----------------------------------------
+NC_052781.1:Psi ------------------------------------------------------------
+                                                                            
+
+NC_008549.1:Pte ctccatcacttcttttttctttgaactttctacattccatcgatagattgctcaacacta
+NC_028019.1:Sas ------------------------------------------------------------
+NC_039537.1:Pic ------------------------------------------------------------
+NC_040005.1:Ind ------------------------------------------------------------
+NC_052781.1:Psi ------------------------------------------------------------
+                                                                            
+
+NC_008549.1:Pte gctaggagtaactccctataaaggatattactccatcacttcttttttctttgaactttc
+NC_028019.1:Sas ------------------------------------------------------------
+NC_039537.1:Pic ------------------------------------------------------------
+NC_040005.1:Ind ------------------------------------------------------------
+NC_052781.1:Psi ------------------------------------------------------------
+                                                                            
+
+NC_008549.1:Pte tacattccatcgatagattgctcaacactagctaggagtaactccctataaaggatatta
+NC_028019.1:Sas ------------------------------------------------------------
+NC_039537.1:Pic ------------------------------------------------------------
+NC_040005.1:Ind ------------------------------------------------------------
+NC_052781.1:Psi ------------------------------------------------------------
+                                                                            
+
+NC_008549.1:Pte ctccatcacttcttttttctttgaactttctacattccatcgatagattgctcaacacta
+NC_028019.1:Sas ------------------------------------------------------------
+NC_039537.1:Pic ------------------------------------------------------------
+NC_040005.1:Ind ------------------------------------------------------------
+NC_052781.1:Psi ------------------------------------------------------------
+                                                                            
+
+NC_008549.1:Pte gctaggagtaactccctataaaggatattactccatcacttcttttttctttgaactttc
+NC_028019.1:Sas ------------------------------------------------------------
+NC_039537.1:Pic ------------------------------------------------------------
+NC_040005.1:Ind ------------------------------------------------------------
+NC_052781.1:Psi ------------------------------------------------------------
+                                                                            
+
+NC_008549.1:Pte tacattccatcgatggattgctcaacactagctaggagtaactccctataaaggatatta
+NC_028019.1:Sas ------------------------------------------------------------
+NC_039537.1:Pic ------------------------------------------------------------
+NC_040005.1:Ind ------------------------------------------------------------
+NC_052781.1:Psi ------------------------------------------------------------
+                                                                            
+
+NC_008549.1:Pte ctccatcacttcttttttctttgaactttctacattccatcgatagattgctcaacacta
+NC_028019.1:Sas ------------------------------------------------------------
+NC_039537.1:Pic ------------------------------------------------------------
+NC_040005.1:Ind ------------------------------------------------------------
+NC_052781.1:Psi ------------------------------------------------------------
+                                                                            
+
+NC_008549.1:Pte gctaggagtaactccctataaaggacatcactcgcttcttggccccccccccccaccaaa
+NC_028019.1:Sas ------------------------------------------------------------
+NC_039537.1:Pic ------------------------------------------------------------
+NC_040005.1:Ind ------------------------------------------------------------
+NC_052781.1:Psi ------------------------------------------------------------
+                                                                            
+
+NC_008549.1:Pte accc
+NC_028019.1:Sas ----
+NC_039537.1:Pic ----
+NC_040005.1:Ind ----
+NC_052781.1:Psi ----
+                    

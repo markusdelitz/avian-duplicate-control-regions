@@ -1,0 +1,198 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.475)
+
+
+NC_007172.2:Tha ------------------------------------------------------------
+NC_026188.1:Pho ------------------------------------------------------------
+NC_026189.1:Pho ------------------------------------------------------------
+NC_026190.1:Pho ------------------------------------------------------------
+NC_052782.1:Oce ttcccccgaaaaaggactctacctcaaccccctaattaccccacaagatagcccctgtac
+                                                                            
+
+NC_007172.2:Tha ------------------------------------------------------------
+NC_026188.1:Pho ------------------------------------------------------------
+NC_026189.1:Pho ------------------------------------------------------------
+NC_026190.1:Pho ------------------------------------------------------------
+NC_052782.1:Oce aacaagcaaaatcaacaaaaaccctcacctgactaccaaaaatattccaaccccccccgc
+                                                                            
+
+NC_007172.2:Tha ---------------------acaaa----------------------------------
+NC_026188.1:Pho -----------------------aaa----------------------------------
+NC_026189.1:Pho -----------------------aaa----------------------------------
+NC_026190.1:Pho -----------------------aaa----------------------------------
+NC_052782.1:Oce ctcagaaaaacagcccaccaaacaaacactactaatcatcctacccaaacaagccataaa
+                                       ***                                  
+
+NC_007172.2:Tha ------------------------------------------------------------
+NC_026188.1:Pho ------------------------------------------------------------
+NC_026189.1:Pho ------------------------------------------------------------
+NC_026190.1:Pho ------------------------------------------------------------
+NC_052782.1:Oce caatatcaatgatataaaaaccaccccaaacttatcgatcatccgtacgctacaaccaac
+                                                                            
+
+NC_007172.2:Tha ------------------------------------------------------------
+NC_026188.1:Pho ------------------------------------------------------------
+NC_026189.1:Pho ------------------------------------------------------------
+NC_026190.1:Pho ------------------------------------------------------------
+NC_052782.1:Oce cccacccctaaacccatcaccccccccccnannnccnggtgatgggtttaatgccactgc
+                                                                            
+
+NC_007172.2:Tha ------------------------------------------------------------
+NC_026188.1:Pho ------------------------------------------------------------
+NC_026189.1:Pho ------------------------------------------------------------
+NC_026190.1:Pho ------------------------------------------------------------
+NC_052782.1:Oce taatcccccaaaaccaaaacataacccctaaataagccacaacaacccccacttggctca
+                                                                            
+
+NC_007172.2:Tha ---------------------------------------------------------ata
+NC_026188.1:Pho ---------------------------------------------------------taa
+NC_026189.1:Pho ---------------------------------------------------------taa
+NC_026190.1:Pho ---------------------------------------------------------taa
+NC_052782.1:Oce ttccccagaatctacgatctgagccaagcatcattaaaaattttaatcacaggagcccaa
+                                                                           *
+
+NC_007172.2:Tha attttaaacggacctctctagcaaccccccccccctcccccc-ccaaaaacagcctatgt
+NC_026188.1:Pho ttttttaaaggaactcctctggccccccccctaccccccccaccccccaacagcctatgt
+NC_026189.1:Pho ttttttaaaggaacccctctggccccccccctacccccccca-cccccaacaacctatgt
+NC_026190.1:Pho ttttttaaaggaactcctctggccccccccctacccccccca-cccccaacggcctatgt
+NC_052782.1:Oce aatcgtacaaatattactctctccccccccctacccccccc--tttcggggtgtctatgt
+                  *.  *  ..  .. ...     *******. **.*****  ..   ..  ..******
+
+NC_007172.2:Tha ataaatgcgcattactctatttaccacataatacattacat-taatgtaggaaaa-----
+NC_026188.1:Pho ataaatgtgcattactctctttaccacataatacattacat-taatgtaggaaaa-----
+NC_026189.1:Pho ataaatgtgcattactctatttaccacataatacattacat-taatgtaggaaaa-----
+NC_026190.1:Pho ataaatgtgcattactttatttaccacataatacattacat-taatgtaggaaaa-----
+NC_052782.1:Oce attaatgcgcattacattatattccacattagacattacatgcagtgtaggcaaagacat
+                ** ****.******* .* * * ****** * ********* .*.****** ***     
+
+NC_007172.2:Tha ---------------------acatttaatgcatgtattacgtacatgaccatgtaggcg
+NC_026188.1:Pho ---------------------acatttaatgcatgtactacgtacatagatatgtacacg
+NC_026189.1:Pho ---------------------acatttaatgcatgtactacgtacataaatatgtatgcg
+NC_026190.1:Pho ---------------------acatttaatgcatgtactacgtacatagacatgtacacg
+NC_052782.1:Oce ttaatgcatgacatcatgtacacatataatccatgtattttggatatgaacatgtagacg
+                                     **** **** ******.* .* *.**.. .***** .**
+
+NC_007172.2:Tha ggcatacctccccca-tccactcacgaacccccagaggacaaat-acttcaatagtccct
+NC_026188.1:Pho ggcatactcatctttgtccacccactcacccccagaggacacttaacttcaatagtccct
+NC_026189.1:Pho gacatacctatcctt-cccacccactcacccccagaggacagttaacttcaatagtccct
+NC_026190.1:Pho ggcatacccatcttt-tcccctcacacacccccagaggacaaataacttcaatagtccct
+NC_052782.1:Oce ggcatatttctccta--cggccactatcctaccaatccacaaat-agaccaatagtccct
+                *.****... .*..   *  *.  .   *. ***.   ***  * *  .***********
+
+NC_007172.2:Tha accacataacacttaa--acggattaaacccatacttcccaagttctgtacataccccg-
+NC_026188.1:Pho aacaccttctactacactccatactaaacccataactccctagatctgtacatgcccc--
+NC_026189.1:Pho agcacctctcactatacctcgtattaaacccataaccttctagatctgtacatgctcc--
+NC_026190.1:Pho aatactgacacctatac-ctgtactaaacccatatccttctagaactgtacatgcccc--
+NC_052782.1:Oce caaacctcccgcgctagaccagactagaaccatcccattaatgatctgtacataagaatt
+                   **      *   *   .. *.**.* ****  . ..   *  ********.      
+
+NC_007172.2:Tha ccagctgcatacggcagtgctcgaataacatactttgaatggtagcggaacatagcctgc
+NC_026188.1:Pho cgtccagcatacgacagtgcttgagtaatataccttgaatggtagcaggacatatcctct
+NC_026189.1:Pho cgtccaggatacggcagtgcttgagcaacataccttgaatggtagcaggacatatcctct
+NC_026190.1:Pho ca-ccaggatacggcagtgcttgagcaacataccttgaatggtagcaggacatatcctct
+NC_052782.1:Oce taccctagatacggcagtgcttga-ccacacgttattaatggtatccggacataactctc
+                .   * . *****.*******.** . *.*.... * ******* * *.***** *.. .
+
+NC_007172.2:Tha catcccttctcgtagggccggtagctgtcggaccaggttatttattgatcgttcttctca
+NC_026188.1:Pho caacaattctcgtaggaccggtagctatcggaccaggttatctattagtcgtacttctca
+NC_026189.1:Pho caacacttctcgtaggaccggtagctatcggaccaggttatctattagtcgtacttctca
+NC_026190.1:Pho caacacttctcgtaggaccggtagctatcggaccaggttatttattagtcgtacttctca
+NC_052782.1:Oce catcatctctcgtaggaccggcg--tctcggaccaggttatctattaatcgttcttctca
+                ** *  .*********.****..  * **************.****..**** *******
+
+NC_007172.2:Tha cgagaaatcagcaacccgctgcatataagatactgcgttactagcttcaggaccattctt
+NC_026188.1:Pho cgagaaatcagcaacccgccgcatataagacactgcgttactagcttcaggaccattctt
+NC_026189.1:Pho cgagaaatcagcaacccgccgcatataagacactgcgttactagcttcaggaccattctt
+NC_026190.1:Pho cgagaaatcagcaacccgccgcatataagacactgcgttactagcttcaggaccattctt
+NC_052782.1:Oce cgagaaatcagcaacccgccgcatataagacactgcgttactagcttcaggaccatactt
+                *******************.**********.************************* ***
+
+NC_007172.2:Tha tccccctacacccctcgcacgacttgcacttttgcgcctctggttcctctgtcagggcca
+NC_026188.1:Pho tccccctacacccctagcactacttgcacttttgcgcctctggttcctctgtcagggcca
+NC_026189.1:Pho tccccctacacccctagcactacttgcacttttgcgcctctggttcctctgtcagggcca
+NC_026190.1:Pho tccccctacacccctagcactacttgcacttttgcgcctctggttcctctgtcagggcca
+NC_052782.1:Oce tccccctacacccctagcccaacttgctcttttgcgcctctggttcctcggtcagggcca
+                *************** ** * ****** ********************* **********
+
+NC_007172.2:Tha taacttggttagtcccctctcctcactttttacgaagtcatctggttggctatatatcac
+NC_026188.1:Pho taacttggttagtcccctctcctcactttttacgaagtcatctggttggctatatatcac
+NC_026189.1:Pho taacttggttagtcccctctcctcactttttacgaagtcatctggttggctatatatcac
+NC_026190.1:Pho taacttggttagtcccctctcctcactttttacgaagtcatctggttggctatatatcac
+NC_052782.1:Oce taacttgtcaattcctttgaacttgctcttcaccgatacatctggttggctatttatcat
+                ******* . * ***..*   **..**.**.** .*  *************** *****.
+
+NC_007172.2:Tha cattttagtccgtgatcgcggcatttcctctttttagcacttttggttcccttttttttc
+NC_026188.1:Pho catttcagtccgtgatcgcggcatttcctctttttggcacttttggttcccttttttttt
+NC_026189.1:Pho catttcagtccgtgatcgcggcatttcctctttttggcacttttggttcccttttttttt
+NC_026190.1:Pho catttcagtccgtgatcgcggcatttcctctttttggcacttttggttcccttttttttt
+NC_052782.1:Oce catttccgtccgtgatcgcggcatcgtc-ggccttggcacttttggttcccttttttttt
+                *****. *****************. .*   ..**.***********************.
+
+NC_007172.2:Tha tgggcgtcttcaggctgccctcccagcgcaacgggtgcttacaatttatatacgtgagca
+NC_026188.1:Pho ggggcgtcttcaggcagcccctccagtgcaccgggtgattacaatcta-agacttgagca
+NC_026189.1:Pho ggggcgtcttcaggcagcccctccagtgcaccgggtgattacaatcta-agacttgagca
+NC_026190.1:Pho ggggcgtcttcaggcagcccctccagtgcaccgggtgattacaatcta-agacttgagca
+NC_052782.1:Oce tttacgtcttcaataagcccttccagtgcggcgggtaaatacaatctatatacgtgagca
+                   .********.   ****..****.**. *****.  ******.** * ** ******
+
+NC_007172.2:Tha tac-atgtgttgcggtctaatcttggccctcaggaatccctgaatgagacggttgaagta
+NC_026188.1:Pho tacaatgcgttgcggcctagttttggtcctcaggggttactgaatgagacggttgaagta
+NC_026189.1:Pho tacaatgcgttgcggtctaattttggtcctcagggattactgaatgagacggttgaagta
+NC_026190.1:Pho tacaatgcgttgcggcctagttttggtcctcaggggttactgaatgagacggttgaagta
+NC_052782.1:Oce tcacatggtattcggccggaattc-gtcctcccgagctaattaatgagacggttggcgta
+                *   ***   * ***.* .. .*. *.****  *....  * *************. ***
+
+NC_007172.2:Tha tatggggaatcatcttaacactgatgcactttgttttccatttggttatggtgtatccac
+NC_026188.1:Pho tatggggaatcatcttgacactgatgcactttgttttccatttggttatggtgtgtccac
+NC_026189.1:Pho tatggggaatcatcttgacactgatgcactttgctttccatttggttatggtgtgtccac
+NC_026190.1:Pho tatggggaatcatcttgacactgatgcactttgttttccatttggttatggtgtgtccac
+NC_052782.1:Oce tatggggaatcatcttaacactgatgcactttgttttccatttggttatggcgtatccac
+                ****************.****************.*****************.**.*****
+
+NC_007172.2:Tha aaacttctattatgctgctatttagtgaatgcttgttagacataatttcttacttttcct
+NC_026188.1:Pho agacccttttaatgctgctatttgatgaatgcttgctggacataatttctta--------
+NC_026189.1:Pho agacccttttaatgctgctatttgatgaatgcttgttggacataatttctta--------
+NC_026190.1:Pho agacccttttaatgctgctatttgatgaatgcttgctggacataatttctta--------
+NC_052782.1:Oce tatccctataaatgctgctatttgatgaatgcttgtgggacatgattttccatgattttt
+                 . *...    ************..**********. .*****.****...*        
+
+NC_007172.2:Tha tgcttttacatttcctctaactttctaaacaacactagtaacttttcaactaaatttttc
+NC_026188.1:Pho --ctttcacacttcctctaacttcttaaacaacactagtaac-tttcaactaaatttttc
+NC_026189.1:Pho --ctttcacacttcctctaacttcttaaacaacactagtaac-tttcaactaaatttttc
+NC_026190.1:Pho --ctttcacacttcctctaatttcttaaacaacactagtaac-tttcaactaaatttttc
+NC_052782.1:Oce cactttttcatttcctctgactttctaaacaacactagtaagatttcaactatttttcta
+                  ****. **.*******.*.**..****************  *********  ***.* 
+
+NC_007172.2:Tha gtttcatttt-atcacaaattttattcatgcatttttcacttgtcatcaacactggaatt
+NC_026188.1:Pho gttacatcac-atcacaaattttattcacacattttttacatgtcattagcactggaatt
+NC_026189.1:Pho gttacatcac-atcacaaattttattcacacattttttacatgtcattggcactggaatt
+NC_026190.1:Pho gttacatcac-atcacaaattttattcacacattttttacatgtcattagcactggaatt
+NC_052782.1:Oce atcaaattttgatgacacattttatcgcatgcatttccacacatcaacggcactggaatt
+                .*.  **. . ** *** *******.       ***..** ..*** ...**********
+
+NC_007172.2:Tha gcattaataaaacaacctttcatttcgtaccccatccacc---ccaccttccttcacgaa
+NC_026188.1:Pho acattaataaaacaacctttcatttcgcatcccattcccc--------------------
+NC_026189.1:Pho acattaataaaataacctttcgtttcgcattccattcccc--------------------
+NC_026190.1:Pho acattaataaaacaacctttcatttcgcattccatc------------------------
+NC_052782.1:Oce gcattaataaaacttgatcgtttcttgtcatcattttgtcatcttattttccgctaaaaa
+                .***********.    *. . *.*.*.  .*  *.                        
+
+NC_007172.2:Tha t----cgcgatctaacaatccactgaaaatcctatcaaacctacgacaaaaattactccg
+NC_026188.1:Pho ------------------------------------------------------------
+NC_026189.1:Pho ------------------------------------------------------------
+NC_026190.1:Pho ------------------------------------------------------------
+NC_052782.1:Oce tccaactaaatccctcaaccctcagcaaacccaagacaaaaaagaatgaaaaatgctccc
+                                                                            
+
+NC_007172.2:Tha ccctctaaaccctcttccccaccatcgcagccctagaaaacaagatacttaactactaaa
+NC_026188.1:Pho ------------------------------------------------------------
+NC_026189.1:Pho ------------------------------------------------------------
+NC_026190.1:Pho ------------------------------------------------------------
+NC_052782.1:Oce cttcttaaaatttcc-------------------------caaaccaccc----------
+                                                                            
+
+NC_007172.2:Tha ac
+NC_026188.1:Pho --
+NC_026189.1:Pho --
+NC_026190.1:Pho --
+NC_052782.1:Oce --
+                  

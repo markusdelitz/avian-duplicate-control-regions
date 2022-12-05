@@ -1,0 +1,483 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.475)
+
+
+NC_009134.1:Mel ccacaaaatatcacccacctcatacacaactcat-aaagggaccccccctacccccccac
+NC_027840.1:Ama --------------------------gccccaca-agagtagccccccctacccccccac
+NC_027843.1:For -------------------------------------aatagccccccctacccccccac
+NC_027847.1:Psi -------------------------cccattcaa-tggta-gccccccctacccccccac
+NC_033336.1:Ama --------------------------gccccaca-agagtagccccccctacccccccac
+NC_034679.1:Ama ------------------------cccccccata-gaggtagccccccctacccccccac
+NC_040142.1:Cac ----------------------------tccata-taggaccccccccttccccccccat
+NC_040154.1:Eol ----------------------------tttgtacccggcccccccccttccccccccat
+NC_044083.1:Poi -------------------------ccctctcaa-cggcgtaccccccctacccccccac
+NC_044184.1:Pio ------------------------cccaacacct-aagggtaccccccctacccccccac
+NC_052783.1:Ama ---------------------------gccccat-aaaggaaccccccctacccccccac
+                                                     .    ******.* ********.
+
+NC_009134.1:Mel a-gaactctgc-----aggttaaattccataggctatgtataccgggcattgcataattg
+NC_027840.1:Ama t-ctcgtggg----------taatatatttactctatgtaattcgagcattaatagtat-
+NC_027843.1:For a-gtcgtagg----------gtaactcttcac-ttatgtaattcgtacattaaatattta
+NC_027847.1:Psi a-gtactgtgg-----agctagctttttatacactatgtgtatcgggcattatacaatta
+NC_033336.1:Ama t-cttgtggg----------taatatatttactctatgtaattcgagcattaatagtat-
+NC_034679.1:Ama tagttgtggg----------cggtatatttacgctatgtaattcgagcattaataacat-
+NC_040142.1:Cac a----gagaac-----ctatggggaattttaggttatgtgtatcgggcattcaacaatta
+NC_040154.1:Eol a----ggaaac-----tatatggggtctataggctatgtgtatcgggcattcagcaattg
+NC_044083.1:Poi a-gtactgtgg-----agctagatttatatacactatgtgtatcgggcattaaacagtta
+NC_044184.1:Pio a-gctgtgggttcgcttacctagcctatctagactatgtatatcgggcattcaacaatgg
+NC_052783.1:Ama t-ctcgtggg----------taatatatttacgctatgtaattcgagcattaatagtag-
+                         .                 . .*  .*****.  .** .****    .    
+
+NC_009134.1:Mel tccattatac-attgtactggccttattaacggattaaatgtcttatgtacctcctcat-
+NC_027840.1:Ama --tcaggtac-actatattagtcta--tcagggactatat-attcatgttatatcacat-
+NC_027843.1:For tcttatagac-attatattaaatct--ctaaagactattatattaatgctctatgtcat-
+NC_027847.1:Psi tcctacctac-attccattaactga--tcctagatta-tcatttcatgttttatcccata
+NC_033336.1:Ama --tcaggtac-actatattagtcta--tcagggactatat-atttatgttatgccacat-
+NC_034679.1:Ama --tcaggtac-attatactaatcta--tcaaggactatat-attcatgttataccacat-
+NC_040142.1:Cac tccttatcac-atttcattcagtgta-gggtggatagcaagctttatggtctatctcatt
+NC_040154.1:Eol tccctat-ac-atttcattcaattta-tagtgggtagtaagtttcttgttctatcccatt
+NC_044083.1:Poi tcctacctac-attccattaattta--tcctggattaattacttcacgttttatctcatg
+NC_044184.1:Pio tgctccagac-attatattaattta--tcgtaggttagataattcatgctttaatgacat
+NC_052783.1:Ama --tcaggtactatcatactaatcta--tcaaggactatat-attcatgttatattacat-
+                  .     ** *.. .*.* . .        .*.. .     .*  .*   .        
+
+NC_009134.1:Mel gaattgtaccagtgaatagt--tattgtcacgcctctgttttgtttc--tcggaatagtg
+NC_027840.1:Ama -aaatgtatactcggacatt--aactggaacagctcggtctcgcttc--atggattaaag
+NC_027843.1:For atactgtataatcggacaat--tatcggaacagctcggttttgctta--cctaagtgaag
+NC_027847.1:Psi aggctatactatcggatagttttattatattagtccggtcttgcttctatagggttgata
+NC_033336.1:Ama -aaatgtatactcggacatt--aattggaacagcccggtctcgcttc--atgggttaagg
+NC_034679.1:Ama -agatgtatactaggacatt--aattggaacagctcggtttcgcttc--atggactaagg
+NC_040142.1:Cac gtactgtacctctgaattgt--tggtggtaccgctcggttttgcttc--ttggattaggg
+NC_040154.1:Eol aaatagtatactcggatagt--tggtggtaccgctcggctttgcttc--ttggattagtg
+NC_044083.1:Poi aatttattctttcggatagtgttatggt-ttagttcggttttgcttcagtagggttgata
+NC_044184.1:Pio atcctatactatcggattag--ccttggtaccgttcggtcctatccc--atggaatagg-
+NC_052783.1:Ama -aaatgtatactcggacatt--aattggatcagcccggtttcgcttc--atgggttaaag
+                     .* .    *.*.         .   .  ..* *........      .. *..  
+
+NC_009134.1:Mel -----aatttatt-----------------------------------------------
+NC_027840.1:Ama -----cctttatggattatagactcttaactgaatggctacaagacatgcctctggcact
+NC_027843.1:For tcaatgttctatg-----------tcatactccataata-ctggataactcaatggaaca
+NC_027847.1:Psi -----atgttatg-gtg-------------------------------------------
+NC_033336.1:Ama -----cctttatggatcatagactcctaattgaatggctacaagacatgcctctggcact
+NC_034679.1:Ama -----ccttcatg-ttcatagactgctgattaaatggctacaggatatgctcttggcact
+NC_040142.1:Cac -----ccttaatg-atag------------------------------------------
+NC_040154.1:Eol ta---ctcaatgg-ctgg------------------------------------------
+NC_044083.1:Poi -----atgtaatg-gct-------------------------------------------
+NC_044184.1:Pio -----tctttatg-gtagtagcagctgtactccatgatt-taggttaagtt--ttgggct
+NC_052783.1:Ama -----cctttatg-actctagactgttaactaaatggctgttggatatccctctggcact
+                                                                            
+
+NC_009134.1:Mel ------------------------------------------------------------
+NC_027840.1:Ama ctttaatagtattgctccaagata------------------------------------
+NC_027843.1:For gcccaattttgcttagtaaatacagtcaatgtcctatctcatacactacaccaccggata
+NC_027847.1:Psi ------------------------------------------------------------
+NC_033336.1:Ama ctttaatagtattgttctaggata------------------------------------
+NC_034679.1:Ama ctttaataactatgttctaggata------------------------------------
+NC_040142.1:Cac ------------------------------------------------------------
+NC_040154.1:Eol ------------------------------------------------------------
+NC_044083.1:Poi ------------------------------------------------------------
+NC_044184.1:Pio ctttaactttactgatctagtata------------------------------------
+NC_052783.1:Ama ctttaacagtactgctccagaaca------------------------------------
+                                                                            
+
+NC_009134.1:Mel ------------------------------------------------ggttcccgacaa
+NC_027840.1:Ama ----------------cggcagtgct---------------------------cctatac
+NC_027843.1:For accaatggaatcagcccggttttgcttcaacggataaaacttgtcatggtttaaggataa
+NC_027847.1:Psi -----------------------------------------------------gttggaa
+NC_033336.1:Ama ----------------cggcagtgct---------------------------tttacac
+NC_034679.1:Ama ----------------cggcagtgct---------------------------ccagtac
+NC_040142.1:Cac -----------------------------------------------------cgtcaag
+NC_040154.1:Eol -----------------------------------------------------cgccaag
+NC_044083.1:Poi -----------------------------------------------------ggtagaa
+NC_044184.1:Pio ----------------cggcagtgct---------------------------ctattgc
+NC_052783.1:Ama ----------------cggcagtgct---------------------------ttaatac
+                                                                          . 
+
+NC_009134.1:Mel aggttatgaatgcacttagtcatagtaatgtgatcttttaatctaacttgctctaaagat
+NC_027840.1:Ama agggaatgaatgttctccgtctagtcaatgttactttttactcta-actgctcc-agaat
+NC_027843.1:For ctaagttaaatgatctcagacaaaggtatgggactctttgattca-actgacct-accac
+NC_027847.1:Psi gcagattgaatgctctaggacaggtgactggggctctttaattta-cttgctccttgggt
+NC_033336.1:Ama aggagatgaatgctctctgtctagtcaatgttactttttactcta-attgctct-agaat
+NC_034679.1:Ama aaaagattaatgctctctgcctagataatgttactttttactcta-actgtcct-aacac
+NC_040142.1:Cac gcacatttaatgaggaaggtcatt-taatggtctccttcaattgcctctgctct-agcat
+NC_040154.1:Eol ccatagtcaatgtggaaggtcata-caatggtactcttcaatgggtattgttct-ggggt
+NC_044083.1:Poi ataagttgaatgctctaggacaagggactgggtttctttaattcc-ttagctctctgtat
+NC_044184.1:Pio aggaacttaatgccctc-gctcatgccttgggactctttaactgg-attgctct-agtat
+NC_052783.1:Ama agagaattaatgccttctgtctaactcatgttactttttactcta-actgctct-agtat
+                  .   * ****      * .       **   ...**.. .     . * .*.    ..
+
+NC_009134.1:Mel acgatagtatagcaggtatcagtgcgactgtatgtc-tgcaggtcatggattccgactaa
+NC_027840.1:Ama acggatgtgctttagtacaagaacttatcggtcaca-gcccacgaatggactaacaatgt
+NC_027843.1:For acggaagtgctctagtacaagaacttattgggttccagcccacaaatggactaaaaatgt
+NC_027847.1:Psi acgggagtgcctcggtagtggaacttaacggcggca-gtccatcgatgagaaa-------
+NC_033336.1:Ama acggatgtgctttagtacaagaacttatcggtcaca-gcccacgaatggactaacaatgt
+NC_034679.1:Ama acggatgtgctttagtacaagaacttatcggtcaca-gcccacgaatggactaacaatgt
+NC_040142.1:Cac acggaagtgctctgggacaggagcctaatgttactc-acgcataactgagcca-------
+NC_040154.1:Eol acggaagtgctctaatacagggacctaatgatacct-aggcataggtgagcca-------
+NC_044083.1:Poi acggcagtgccttagtaatggggcttaacggcggca-gtccattgatgagaaa-------
+NC_044184.1:Pio acggaagtgctctagtacaagggcttatcggccgcc-gcccatacctggacgaatatttt
+NC_052783.1:Ama acggatgtgctttggtacaagaacttatcggtcaca-gcccacgaatggactaacaatgt
+                ***.  **..  ...     ..  . * .*    .      .    **..          
+
+NC_009134.1:Mel -cttgcttaaggcgctagcttcaggtaccaggttatctattaattaggcttctcacgagg
+NC_027840.1:Ama cttgtcctgaaaggctagtttcaggggctgggttatttattgatcgagcatctcacgtga
+NC_027843.1:For cttgtctcgt-caccccgtttcaggtattgggttatttattaatcgggcaactcacgtga
+NC_027847.1:Psi --tctctcgtaaggtaagtttcaggtatcaggttatttattagcttcgcatctcacgaga
+NC_033336.1:Ama cttgtcctgaaaggctagtttcaggggctgggttatttattgatcgagcatctcacgtga
+NC_034679.1:Ama cttgtcctgaaaggctagtttcaggggccaggttatttattggtcgggcatctcacgtga
+NC_040142.1:Cac --tctctcgtaaggcgagtctcaggaatcaggtgatctattagtcgggcagctcacgaga
+NC_040154.1:Eol --tctctcgtaaggcaagtttcagggaccaggtgatctattgattgggcaactcacgaga
+NC_044083.1:Poi --tctctcggaaggtaagtttcaggtaccaggttatttattgacttcgcatctcacgaga
+NC_044184.1:Pio cttgtctcgtagaactagcttcaggagcttatcgagctcttagtctgtctattcgcgaga
+NC_052783.1:Ama cttgtcctgaatggctagtttcaggggctgggttatttattgatcgagcatctcacgtga
+                  *  *...     .  *..***** ... . . * .* **....   *  .**.** *.
+
+NC_009134.1:Mel ttccccctacccggtgtaatccattgtgcctatcacgacaggcttcaggctctttctttc
+NC_027840.1:Ama aaccatcaacccggtgttt---ggaaggtccgtcgttcctagcttcaggtccattctttc
+NC_027843.1:For aaccatctacccggtgtta---gtaaggtccaacattcctagcttcaggtccatactttc
+NC_027847.1:Psi aatcaccaactcgacgtaa---gtaaggtttcctatgaccagcttcaggctctttctttc
+NC_033336.1:Ama aaccatcaacccggtgttt---ggaaggtccgtcgttcctagcttcaggtccattctttc
+NC_034679.1:Ama aatcatcaacccggtgtac---gtaaggtccgtcgttcctagcttcaggtccattctttc
+NC_040142.1:Cac aatcagcaactggatgttc---gtaaggtttatcacgaccagcttcaggctctttctttc
+NC_040154.1:Eol aatcagcaactggatgttc---gtaaggtttatcacgaccagcttcaggctctttctttc
+NC_044083.1:Poi aatcaccaactcgacgtaa---gtaaggtttcctatgaccagcttcaggctctttctttc
+NC_044184.1:Pio aatcagcaaccgggtgtaa---gtaaggtccgtcgttcctagcgtcaagtccattctttc
+NC_052783.1:Ama aatcatcaacccggtgtac---ggaaggtccgtcgttcctagcttcaggtccattctttc
+                  .*  * **. *..**     .  . *...  ...  * .** ***.*..* * *****
+
+NC_009134.1:Mel cccctacacccctggcacttcttgctcttttgcgcctctggttcctcggtcagggccatc
+NC_027840.1:Ama cccctacaccctc-gcccaacttgcgcttttgcgcctctggttcctcggtcaggcacata
+NC_027843.1:For cccctacaccctg-gcacctcttgctcttttgcgcctctggttcctcggtcaggcacata
+NC_027847.1:Psi cccctacaccctt-ccattacttgctcttttgcgcctctggttcctcggtcaggcacatg
+NC_033336.1:Ama cccctacaccctc-gcccaacttgcgcttttgcgcctctggttcctcggtcaggcacata
+NC_034679.1:Ama cccctacacccta-gcccaacttgcgcttttgcgcctctggttcctcggtcaggcacatg
+NC_040142.1:Cac cccctacaccctc-gccctacttgcgcttttgcgcctctggttcctcggtcagggccatg
+NC_040154.1:Eol cccctacaccctc-gccctacttgcgcttttgcgcctctggttcctcggtcagggccata
+NC_044083.1:Poi cccctacaccctt-ccatttcttgctcttttgcgcctctggttcctcggtcaggcacatg
+NC_044184.1:Pio cccctacaccctt-acacatcttgcacttttgcgcctctggttcctcggtcaggcacata
+NC_052783.1:Ama cccctacaccctc-gcccaacttgcgcttttgcgcctctggttcctcggtcaggcacatg
+                ***********.   * .  ***** ****************************  *** 
+
+NC_009134.1:Mel aactggtgggtcgagtttcctattatcttca-aaagtcatc--gcctctagtctgcgtac
+NC_027840.1:Ama aatcggttcactcaccccacggtgcccttcactgagtcatctggttcgctatatatgtac
+NC_027843.1:For aatcggttcattcacctcacgttccccttcacagagtcatctggttcgctatatgcgtac
+NC_027847.1:Psi tatcggttgatttagctcctagtgatcttcacagattcatctggttcgctatatatgtac
+NC_033336.1:Ama aatcggttcactcaccccacggtgcccttcactgagtcatctggttcgctatatatgtac
+NC_034679.1:Ama aatcggttcactcaccccacggtgcccttcactgagtcatctggttcgctatttgagtac
+NC_040142.1:Cac aatcgtttggttcaccatacggtgccctccaccgggtcatttggttcgcccttggatagc
+NC_040154.1:Eol tatcgatttgctcccctcacggtgcaccccacagggtcatttggttcgcccttggatagc
+NC_044083.1:Poi tatcggttgatttagctcctagtgatcttcacagattcatctggttcgctatatatgtac
+NC_044184.1:Pio tatcggttcactcacctcacgttccccttcacagagtcatctggttcgctatttgggtac
+NC_052783.1:Ama aatcggttcactcaccccacggtgcccttcacagagtcatctggttcgctatttgagtac
+                 *..* *  ...   . . .  *   *..**  .. ****.  *... .  *  .   .*
+
+NC_009134.1:Mel tcttggcctagtattttgggcattttggagattatacaggcttttggtattt---ttctc
+NC_027840.1:Ama accttgcctcgtaatcgcgacattttaatggagt--aggtcggttggttctc--tttttt
+NC_027843.1:For tctctgcctcgtaatctcgacattttaatggatt--agaacgtttggttctt--tttttt
+NC_027847.1:Psi tccttgcctcgtaatcgcggcatcttggtgattct-agcgcctctggtattt---tttct
+NC_033336.1:Ama accttgcctcgtaatcgcgacattttaatggagt--aggtcggttggttctc--tttttt
+NC_034679.1:Ama tcactgcctcgtaatcgcgacattttaatggagt--agttcggttggttctc--tttttt
+NC_040142.1:Cac actgtgcctcgtgatcgcgacatcttaatggttc--ggcgcctctggtatttcttttttt
+NC_040154.1:Eol actctgcctcgtaatcgcgacatcttaatggttc--ggcgcctctggtatttcttttttt
+NC_044083.1:Poi tccttgcctcgtaatcgcggcatcttggtgattct-ggcgcctcgggtagtt---tttct
+NC_044184.1:Pio tccctacctcgtaatcgcgacatcttaatgttct--ggggcctctggtattt--tttttt
+NC_052783.1:Ama tcactgcctcgtaatcgcgacattttaatggagt--aggtcggttggttctc--tttttt
+                 *   .*** **. *.  *.***.**.. *       .  *  . ***  *.   **...
+
+NC_009134.1:Mel tggggcctttccctgcgcatttc-ctttctgtcggcaccta---ttttaactgaccttg-
+NC_027840.1:Ama tgggcaatctcactctacacctc-cagtgcggcgggtacac---tgttggttgacatgga
+NC_027843.1:For tgggtcaactcattaaacatctc-cagtgcggcgggtaaac---aattggttgacatgga
+NC_027847.1:Psi cggggctcttcactcggcatttc-ctttcggagagatgaagt--cggtggttgacatgga
+NC_033336.1:Ama tgggcaatctcactctacacctc-cagtgcggcgggtacac---tgttggttgacatgga
+NC_034679.1:Ama tgggcaatctcactctacacctc-cagtgcggcgggtacac---aattggttgacatgga
+NC_040142.1:Cac tttctctcttcactctgcccttcagagtgcaacgggtgcccataaactggttgacgtgag
+NC_040154.1:Eol tttctctcttcactcggcccttc-cagtgcaacgggtatatac-aatttgttgacgtgag
+NC_044083.1:Poi cggggctcttcactcggcatttc-ctttcggagagatggtgt--cggtggttgacgtgga
+NC_044184.1:Pio ggggcgtcttcactctacatctc-cagtgcaacgggtatcc---aattggttgacatgga
+NC_052783.1:Ama tgggcaatctcactctacacctc-cagtgcggcgggtacac---tgttggttgacatgga
+                        .** .*  .* ..**    *  .  .*            * ..**** * . 
+
+NC_009134.1:Mel taccctatgtgctgcg-gtctattcctcaatctcaggaatcaattaatgatatggggtaa
+NC_027840.1:Ama catagaatccatagcgaacccttttttggccttcaaggatgaattaatgatacggtttcg
+NC_027843.1:For catacaatccataccgaacggttttttggccttcaaggatgaattaatgatacggtttca
+NC_027847.1:Psi cacacaatgcgttgcg-gtctattattcgtcctcaggcgttaattaatgatatggtttta
+NC_033336.1:Ama catagaatccatagcgaacccttttttggccttcaaggatgaattaatgatacggtttcg
+NC_034679.1:Ama catacaatccatagcgaacccttttttggccttcaaggatgaattaatgatacggtttcg
+NC_040142.1:Cac cat--aatggtcggcg-tcctggttctggtcctcaggggtaaattaatgagacgg-ttga
+NC_040154.1:Eol cat--aatggtcggcg-gcctggttctggtcctcaggggtgaattaatgatacggtttca
+NC_044083.1:Poi cacacaatgcgttgcg-gtctattcgtcgtcctcaggcgttaattaatgatatgg-ctta
+NC_044184.1:Pio tatacaatccatagcgagcccttttttggccttcacggataaattaatgatacggtttca
+NC_052783.1:Ama catacaatccatagcgaacccttttttggccttcaaggatgaattaatgatacggtttcg
+                .*.   **   .  **  .    *  * . ..*** * .* ********* *.**  * .
+
+NC_009134.1:Mel cactagcctgatggcgctt---ttaatctgacactgatgcactttgtcatacat-----c
+NC_027840.1:Ama ggt-----gtaagccgggcgt-tcattttaacactgatgcacttgtaattacatttggtt
+NC_027843.1:For ggt-----gtccgccgtgcgttatatatctagcaccgtgcacatgctcccccatttggtt
+NC_027847.1:Psi tat-----gttagccggtc---tcattttaacactgatgcactttgtcttaccc-----g
+NC_033336.1:Ama ggt-----gtaagccgggcgt-tcattttaacactgatgcacttgtaattacatttggtt
+NC_034679.1:Ama ggt-----gtaagccgggcgt-tcattttaacactgatgcacttgtaattacatttggtt
+NC_040142.1:Cac agt-----atttgg-ggaa---tcatcttgacactgatgcactttgtttcgcatctggtt
+NC_040154.1:Eol agt-----gttagg-ggaa---tcattttggcactgatgcactttgcttcgcatttggtt
+NC_044083.1:Poi aat-----gttaggcggtc---tcatcttaacactgatgcactttgtcttacacttggtt
+NC_044184.1:Pio ggt-----gtgggttcgtc---tcattttcgcactgatgcacttgctcccccattcggtt
+NC_052783.1:Ama ggt-----gtaagccgggcgt-tcattttaacactgatgcacttgtaattacatttggtt
+                 ..         *          .*  .. .   . .***** *     . * .      
+
+NC_009134.1:Mel atggtattctcactat-ctccctactatgatactattcgttcaatgattgtaggacata-
+NC_027840.1:Ama atggttgatccacggtgtcgtctctcgtgttgccactgaattaacggttattgggcactg
+NC_027843.1:For atgaagcgtttaccct-atctctcccgcgacgcc-ctctattaatgcgcattggacaccg
+NC_027847.1:Psi atggctcctccacaat-ctccctactaaggggttattggattaatgcttgctagacata-
+NC_033336.1:Ama atggttgatccacgctgtcgtctctcgtgttgccactgaattaacggttattgggcactg
+NC_034679.1:Ama atggtatatccacggtgtcgtctctcgtgttgccactgaattaacggttattgggcactg
+NC_040142.1:Cac atggttatctcacaat-ctatctatcatggtgctgttagattcatgattattagacataa
+NC_040154.1:Eol atggtagtttcactat-ctattatacatggtgttattaggttaatgattattagacataa
+NC_044083.1:Poi atggctcctccacaa--ccccttactatgggattattggattaatgcttgctagacata-
+NC_044184.1:Pio atgcccgcttcacag--ctctttactgtaatgctctttgattaacggttgttggacactg
+NC_052783.1:Ama atggtagttccacggtgttgtctctcgtgttgccactgaattaacggttattgggcactg
+                ***     ...**     . ..   .. .  ... .*   *. *.*  ... .*.**.  
+
+NC_009134.1:Mel ----------gcttttatattttccttttctcttgaattgccaataaacaaaaaacacgt
+NC_027840.1:Ama ----------tctcttatcctcgtatattcggctggaatctcatgggttactcaatgaga
+NC_027843.1:For ----------tctctcatactctggctatcggtttgaaactcaggggtaactcaatgaga
+NC_027847.1:Psi ----------ttttttatctttgtcactcttctcgaacttcaaacctttacaaagtaag-
+NC_033336.1:Ama ----------tctcttatcctcgtgtattcggctggaatctcatggattactcaatgaga
+NC_034679.1:Ama ----------tctcttatcctcgtgtattcggctggaatctcatggattactcaatgaga
+NC_040142.1:Cac ttctcttacttttcttccttttccaccacccctcaatttcctaacttcgtcaaaacgaa-
+NC_040154.1:Eol ttctcttacttttcttcctttgtcatttcccctcaatttcctaacttcgtcaaaacgaa-
+NC_044083.1:Poi ----------tttttcaccttttcaactcttctcgaacttctaaccttcacaaaataag-
+NC_044184.1:Pio ----------tctctcatctctg-gcattcggtttgaatctcaggggttatttaatgcga
+NC_052783.1:Ama ----------tctcttatcctcgtgtattcggctggaatctcagggattactcaatgaga
+                           .*.*. . ..       ..  .. .    . *          *... . 
+
+NC_009134.1:Mel caaacgaacttggaaaatt-tccaaataatttttgtaaaatttttgtaaaattttgtaaa
+NC_027840.1:Ama cg------gttggagtata-ttcagtatcaccgtagcactgatg-------------cac
+NC_027843.1:For cg------gttgaagtata-ttcagtaccaccgtaacactgatg-------------cac
+NC_027847.1:Psi --------aataaaa-----------acttacgagtgatctcttaaaaaca------aac
+NC_033336.1:Ama cg------gttggagtata-ttcagtatcaccgtagcactgatg-------------cac
+NC_034679.1:Ama cg------gttgaagtata-ttcagtatcaccgtagccctgatg-------------cac
+NC_040142.1:Cac --------gtcgggaaatc-tctaacagttttttatcaaacgttcaacaaa------aaa
+NC_040154.1:Eol --------gtcgggaaatc-tctattcaaatcaaatcaagctttcaacaaa------aat
+NC_044083.1:Poi --------aataaaatatt-ccttgtatttctcaaaaattccctaaaaaca------aac
+NC_044184.1:Pio cg------gttgatgtatatttcagtttcatctttaccctgatg-------------cac
+NC_052783.1:Ama cg------gttggagtata-ttcagtatcaccgtagcactgatg-------------cac
+                          ... .                .          .               * 
+
+NC_009134.1:Mel atttttgt---aaaattttgtaaaatttttgtaaatttttgtaaatttt-tgtaagtttc
+NC_027840.1:Ama tttgtttt---acacctgat------acccccgcataatccct-actat-gaggctattt
+NC_027843.1:For tttgtttt---acacctggttatggcaggcgcacaatccctct-actat-gatgctattc
+NC_027847.1:Psi actctcct---cgaacttcaaacaattttacggcacccttttc-atcgatcacatgttca
+NC_033336.1:Ama tttgtttt---acacctgat------acccccgcataatccct-actat-gaggctattt
+NC_034679.1:Ama tttgtttt---acatctgat------acctccacccattccttaactat-gaggctattt
+NC_040142.1:Cac tttttcgtcaacaaacactttgcaacacaaacaaactcacctcaacttt-cataattttg
+NC_040154.1:Eol tttttcatcaacaaacactttacaacacaaacaaactctcctcaacttt-cataattcca
+NC_044083.1:Poi attctcct---cgaacttcatacaattttaagacacccttttt-gctgg-caaagattca
+NC_044184.1:Pio tttgcttt---gcatctggttatgggatccccgcaatctctct-actat-gagactactt
+NC_052783.1:Ama tttgtttt---acacctgat------acctccncttcctcctt-actat-aaggctattc
+                 .* .. *     * .                       . .  ...    . .   .. 
+
+NC_009134.1:Mel tctaaaaactcaaataaacgagctctctccctaatttctgattcattcaa---aacgctt
+NC_027840.1:Ama agttaatgcttgctggacataaatcttcattttttccccatttttgcca-----------
+NC_027843.1:For gtttaatgcttgctagacataatttccaaaatttttccctttctttccg-----------
+NC_027847.1:Psi cttttttacttccccaattattttctctcactatttttttgtttagcta-----------
+NC_033336.1:Ama agttaatgcttgctggacataaatcttcattttttccccatttttgcca-----------
+NC_034679.1:Ama agttaatgcttgctggacataaatcttcattttttcttcatttttgtca-----------
+NC_040142.1:Cac ctta-----------aggcgttgttgctgacgatccgcttgcatcagcaaacaaacgctt
+NC_040154.1:Eol cttaa---------caaacgttgtcactcacaaccaacttgtgtcaacaaacgaacgttt
+NC_044083.1:Poi cttttttacttcctcatttatttcctctcactatttttttgtttagcta-----------
+NC_044184.1:Pio gatcaatggtcgcaagacataattcttcacttttcttctctttttaaca-----------
+NC_052783.1:Ama gattaatgcttgttggacataaatcttcattttttccccatttttgtcg-----------
+                  *            .       .. .       .  ..  . .   ..           
+
+NC_009134.1:Mel aaaccttctttttttctttacaaaactcct------------------------------
+NC_027840.1:Ama -ccaccccttaaatctccaataatttaaaa---aagaggcaggaaaatttccaat-agtt
+NC_027843.1:For -tttttttcccactttactcgaacacccat---taaactacgaacggtattggaa-aaat
+NC_027847.1:Psi ---------ttcacactcattatttcccta---cttcagcgtaaaatttttcacg-catt
+NC_033336.1:Ama -ccaccccttaaatctccaataatttaaaa---aagaggcaggaaaatttccaat-agtt
+NC_034679.1:Ama -ctaccacctaaatctccaataattttaaa---aagaagcaggaaaatttccattaaatt
+NC_040142.1:Cac tgtcttctccttattcttcatatcgcttgttgccttcttgttggcgttgtttatc-ttgt
+NC_040154.1:Eol gtcttcccctttatgttgataaccacttgt---cttcttgttgacgttgtttatt-ttct
+NC_044083.1:Poi --------ttttacactcactatttcccta---cctctgcgcaaatttttacact-cgtt
+NC_044184.1:Pio -cctttacttaagt-tccaattgtttttaa---acaaacctggaaaattccaata-aacc
+NC_052783.1:Ama -ccaccacttaaatctccaataattttaaa---aagtggcaggaaaatttccaat-aatt
+                         .   . .         .                                  
+
+NC_009134.1:Mel ------------------------------------------------------ccccac
+NC_027840.1:Ama ttcccccact-taacaaacaaaacaaacaaaccacaaacaaacaaaccttaccgcctatt
+NC_027843.1:For ccct-------------acaaaactaacgaacaaccacgaaacaaa--------------
+NC_027847.1:Psi tgct------------------------------------------------cacttttt
+NC_033336.1:Ama ttcccccact-taacaaacaaaacaaacaaaccacaaacaaacaaaccttaccgcctatt
+NC_034679.1:Ama gtttcccact-taacagacaaaacaaacaaaccacaaacaaacaaaccttaccgcctatt
+NC_040142.1:Cac tgtt------------------------------------------------aactctgt
+NC_040154.1:Eol tgtt------------------------------------------------gatattat
+NC_044083.1:Poi tgcc------------------------------------------------cac---tt
+NC_044184.1:Pio aaccctcaccacaacaaacacttacaaacactcgtagatgaacgaa-cttaccgcccaat
+NC_052783.1:Ama ttcccccact-taacaaacaaaacaaacaaaccacaaacaaacaaacctcaccgcctatt
+                                                                            
+
+NC_009134.1:Mel ctacaacccacagcacaaaataccaacacattt--aaccactcaactttacttact----
+NC_027840.1:Ama ttatcaattgtcac--aaaacaacgttctacttaaaaacattcaccactcccccccaaac
+NC_027843.1:For ---------------------actgtttcgtgttcgttcgttcgtcact--cgttcgttc
+NC_027847.1:Psi tttttgctt---------------------------------------------------
+NC_033336.1:Ama ttatcaattgtcac--aaaacaacgttctacttaaaaacattcaccactc-cccccaaac
+NC_034679.1:Ama ttatcaattgtcac--gaaacaacgttccacttaaaaacattcaccactcctccccaaac
+NC_040142.1:Cac tcactacctttttg--ctggggttgtttatcttgttgttaac--tctgt--tcactacct
+NC_040154.1:Eol ttgttgtctattta--tcaatgttatctaccccttaaccaataacctgc--tacccaatc
+NC_044083.1:Poi tttttactt---------------------------------------------------
+NC_044184.1:Pio ctacgaatcattatactaagtgttattttgtttaaacacacaaactctt--tcccttttt
+NC_052783.1:Ama ttatcaattgtcac--aaaacaacgttccacttaaaaacatttgccactcctccccaaac
+                                                                            
+
+NC_009134.1:Mel --ttatttatttactttatttatttactttatttatttactttatttatctactttattt
+NC_027840.1:Ama gtccattctttg-tttg--tttgtttgtttgtttgtttgttttgttttaattcattcgtt
+NC_027843.1:For gttcgttcgtca-ctcg--ttcctttgtttatttgtttatttattttgagatccccaaa-
+NC_027847.1:Psi ------------------------------------------------------------
+NC_033336.1:Ama gtccattctttg-tttg--tttgtttgtttgtttgtttgttttgttttaattcattcgtt
+NC_034679.1:Ama gtccattctttgttttg--tttgtttgtttgtttgtttgtttgtttt---gtcactttat
+NC_040142.1:Cac ttttgctggggttgtttatcttgttgttaactctgttcactaccttt---ttgctggggt
+NC_040154.1:Eol acctacattaacaaaccaacaagtaaacaaatttattaaatagaact---ttgcctc---
+NC_044083.1:Poi ------------------------------------------------------------
+NC_044184.1:Pio aaccattcattattttaacatccatgctttatttatgttcaaccatc---tttctcaaaa
+NC_052783.1:Ama gtccattccttg-tttg--tttgtttgtttgtttgtttgttttgtttcaatttaatcgtt
+                                                                            
+
+NC_009134.1:Mel atttactttatttatttgctttatttatttactttacttatttacctacccacctcatcc
+NC_027840.1:Ama cattcgttcattcgttcattcgttca--ttcgttcattcgttcattcgttcattcgttca
+NC_027843.1:For ------------------------------------------------------------
+NC_027847.1:Psi ------------------------------------------------------------
+NC_033336.1:Ama cattcgttcattcgttcgttcgttca--ttcgttcgttcgttcattcgttcattcgttca
+NC_034679.1:Ama tactttgtcactttgttattttgtta--ctttgttactcacttagtcaaccaccctacca
+NC_040142.1:Cac tgtttatcttgttgttaactctgttca-ctacctttttgctggggttgtttatcttgtca
+NC_040154.1:Eol ------------------------------------------------------------
+NC_044083.1:Poi ------------------------------------------------------------
+NC_044184.1:Pio tatccaatcattctttaaaattttta--ctatttatttacttaaatttatcgtcctgttt
+NC_052783.1:Ama cattcgttcatttgttcatttgttca--tttgttcatttgttcatttgttcatttgttca
+                                                                            
+
+NC_009134.1:Mel tctta--ccattccaacctccaccacatcaaaccc-------------------------
+NC_027840.1:Ama ttcgt--tcattcgttcattcgttcattcgttcattcgttcattcgttcattcgttcatt
+NC_027843.1:For ------------------------------------------------------------
+NC_027847.1:Psi ------------------------------------------------------------
+NC_033336.1:Ama ttcgt--tcattcgttcattcgttcattcgttcattcgttcattcgttcattcgttcatt
+NC_034679.1:Ama cctcc--tctgtcacacccttccccaatcacctgg-------------------------
+NC_040142.1:Cac acact----------atttaccctcaatcccaccc-------------------------
+NC_040154.1:Eol ------------------------------------------------------------
+NC_044083.1:Poi ------------------------------------------------------------
+NC_044184.1:Pio aaaca--cacctattgctcttttccctatacctgc-------------------------
+NC_052783.1:Ama tttgttctcatttgttcatttgttcatttgttcatttgttcatttgttcatttgttcatt
+                                                                            
+
+NC_009134.1:Mel ------------------------------------------------------------
+NC_027840.1:Ama cgttcattcgttcattcgttcattcgttcattcgttcattcgttcattcgttcattcgtt
+NC_027843.1:For ------------------------------------------------------------
+NC_027847.1:Psi ------------------------------------------------------------
+NC_033336.1:Ama cgttcattcgttcattcgttcattcgttcattcgttcattcgttcattcgttcattcgtt
+NC_034679.1:Ama ------------------------------------------------------------
+NC_040142.1:Cac ------------------------------------------------------------
+NC_040154.1:Eol ------------------------------------------------------------
+NC_044083.1:Poi ------------------------------------------------------------
+NC_044184.1:Pio ------------------------------------------------------------
+NC_052783.1:Ama tgttcatttgttcatttgttcatttgttcatttgttcatttgttcatttgttcatttgtt
+                                                                            
+
+NC_009134.1:Mel ------------------------------------------------------------
+NC_027840.1:Ama cattcgttcattcgttcattcgttcattcgttcattngttcattngttcattcggtcatt
+NC_027843.1:For ------------------------------------------------------------
+NC_027847.1:Psi ------------------------------------------------------------
+NC_033336.1:Ama cattcgttcattcgttcattcgttcattcgt-----------------------------
+NC_034679.1:Ama ------------------------------------------------------------
+NC_040142.1:Cac ------------------------------------------------------------
+NC_040154.1:Eol ------------------------------------------------------------
+NC_044083.1:Poi ------------------------------------------------------------
+NC_044184.1:Pio ------------------------------------------------------------
+NC_052783.1:Ama catttgttcatttgttcatttgttcatttgttcatttgttcatttgttcatttgttcatt
+                                                                            
+
+NC_009134.1:Mel ------------------------------------------------------------
+NC_027840.1:Ama --gtcattcgttcattcgttcattcgttcattcgttcattcgttcaatcgaccacc----
+NC_027843.1:For ------------------------------------------------------------
+NC_027847.1:Psi ------------------------------------------------------------
+NC_033336.1:Ama ---tcattcgttcattcgttcattcgttcattcgttcattcgttcaatcgaccacc----
+NC_034679.1:Ama ------------------------------------------------------------
+NC_040142.1:Cac ------------------------------------------------------------
+NC_040154.1:Eol ------------------------------------------------------------
+NC_044083.1:Poi ------------------------------------------------------------
+NC_044184.1:Pio ------------------------------------------------------------
+NC_052783.1:Ama tgttcatttgttcatttgttcatttgttcatttgttcatttgttcatttgttcatttgtt
+                                                                            
+
+NC_009134.1:Mel ------------------------------------------------------------
+NC_027840.1:Ama ------------------------------------------------------------
+NC_027843.1:For ------------------------------------------------------------
+NC_027847.1:Psi ------------------------------------------------------------
+NC_033336.1:Ama ------------------------------------------------------------
+NC_034679.1:Ama ------------------------------------------------------------
+NC_040142.1:Cac ------------------------------------------------------------
+NC_040154.1:Eol ------------------------------------------------------------
+NC_044083.1:Poi ------------------------------------------------------------
+NC_044184.1:Pio ------------------------------------------------------------
+NC_052783.1:Ama catttgttcatttgttcatttgttcatttgttcatttgttcatttgttcatttgttcatt
+                                                                            
+
+NC_009134.1:Mel ------------------------------------------------------------
+NC_027840.1:Ama ------------------------------------------------------------
+NC_027843.1:For ------------------------------------------------------------
+NC_027847.1:Psi ------------------------------------------------------------
+NC_033336.1:Ama ------------------------------------------------------------
+NC_034679.1:Ama ------------------------------------------------------------
+NC_040142.1:Cac ------------------------------------------------------------
+NC_040154.1:Eol ------------------------------------------------------------
+NC_044083.1:Poi ------------------------------------------------------------
+NC_044184.1:Pio ------------------------------------------------------------
+NC_052783.1:Ama tgttcatttgttcatttgttcatttgttcatttgttcatttgttcatttgttcatttgtt
+                                                                            
+
+NC_009134.1:Mel ------------------------------------------------------------
+NC_027840.1:Ama ------------------------------------------------------------
+NC_027843.1:For ------------------------------------------------------------
+NC_027847.1:Psi ------------------------------------------------------------
+NC_033336.1:Ama ------------------------------------------------------------
+NC_034679.1:Ama ------------------------------------------------------------
+NC_040142.1:Cac ------------------------------------------------------------
+NC_040154.1:Eol ------------------------------------------------------------
+NC_044083.1:Poi ------------------------------------------------------------
+NC_044184.1:Pio ------------------------------------------------------------
+NC_052783.1:Ama catttgttcatttgttcatttgttcatttgttcatttgttcatttgttcatttgttcatt
+                                                                            
+
+NC_009134.1:Mel ------------------------------------------------------------
+NC_027840.1:Ama -------------------------------catccactccccccgcttatcccgcttat
+NC_027843.1:For ------------------------------------------------------------
+NC_027847.1:Psi ------------------------------------------------------------
+NC_033336.1:Ama -------------------------------catccactcccctcgcttatcccacttat
+NC_034679.1:Ama ------------------------------------------------------------
+NC_040142.1:Cac ------------------------------------------------------------
+NC_040154.1:Eol ------------------------------------------------------------
+NC_044083.1:Poi ------------------------------------------------------------
+NC_044184.1:Pio ------------------------------------------------------------
+NC_052783.1:Ama tgttcatttgttcgctcgttcattcgttcatcacccgctcacctcgcccaccctgcttat
+                                                                            
+
+NC_009134.1:Mel ------------------------------------ttacaggcagacataataaata--
+NC_027840.1:Ama tcac------------------caccccc-----cccgacaaacaaataa----------
+NC_027843.1:For ------------------------------------caataaacaaataacc--------
+NC_027847.1:Psi --------------------------------------------aaacaaa---------
+NC_033336.1:Ama tcac------------------acctccccactacacgacaaacaaataa----------
+NC_034679.1:Ama ------------------------------actacacgacaaacaaataa----------
+NC_040142.1:Cac --------------------------------aaaccaacaagtaaacaaatttacccaa
+NC_040154.1:Eol ------------------------------------------------------------
+NC_044083.1:Poi --------------------------------------------aagcaaa---------
+NC_044184.1:Pio -------------------------------cccaccaactaacaagcaata--aacaaa
+NC_052783.1:Ama tcacttcacttgccacctcaggccccctgaactacgcaacaaacaaataa----------
+                                                                            
+
+NC_009134.1:Mel -aaacaaactt
+NC_027840.1:Ama -aacaagccct
+NC_027843.1:For ------ccccc
+NC_027847.1:Psi -ataaacccct
+NC_033336.1:Ama -aacaagtcct
+NC_034679.1:Ama -aacaagtcct
+NC_040142.1:Cac cattacctctt
+NC_040154.1:Eol -----------
+NC_044083.1:Poi -ataagcccct
+NC_044184.1:Pio caacaaatcta
+NC_052783.1:Ama -aacaagtcct
+                           

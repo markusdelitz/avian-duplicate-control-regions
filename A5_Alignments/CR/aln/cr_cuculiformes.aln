@@ -1,0 +1,312 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.475)
+
+
+NC_011709.1:Uro ------------------------------------ttccctaccacataaccttccccc
+NC_011711.1:Geo ---------------------------------------ttcctacttcttataggcccc
+NC_028414.1:Cuc ctccctaatgcacgcacctccccatttttcttttatccattcttcttttttttccccccc
+NC_050049.1:Cen a-----------------------------------cataaaaccttcctactccacccc
+NC_052776.1:Ceu -------------------------------------cattaatatcaaccctacccccc
+NC_052800.1:Cro ------------------------------------ccccatacatttatactttccccc
+NC_052804.1:Pia -------------------------------------------tattttaaccccccccc
+NC_052811.1:Cen a-----------------------------------cctaaaactttcctacttcacccc
+                                                           .  .     .   ****
+
+NC_011709.1:Uro ccccttccccccccgaaggggcattttggccataattcatgtactattacataccactct
+NC_011711.1:Geo ccccctccccccca---------tttttggccaaaaacatgtactattacataccatgct
+NC_028414.1:Cuc cccctcccccccc---------------------attcatgtactattacataccattct
+NC_050049.1:Cen ccccctccccccccgagggggtatttt-gccactatccatgtactattacatattaatta
+NC_052776.1:Ceu ccccttccccccccgaaggggcattctacttgcaatccatgtactattacatacagttca
+NC_052800.1:Cro ccccctcccccccagagggggt-ttttggtcacaatctatgtactattacatacagtgct
+NC_052804.1:Pia ccccttcccccccagggggggtattttgtctcagatctatgtattcttacataatattct
+NC_052811.1:Cen ccccct-cccccccgagggggtatttt-gccactatccatgtactattacatattaatta
+                ****.. ******                     *  .*****.* *******  .  . 
+
+NC_011709.1:Uro cg-gccacatgatacattacatgtaagtcctaaacacattaatcccacacaggatatcaa
+NC_011711.1:Geo cgtaccacataatacattacatgtatgttctgaatccattaaattcatattggactttca
+NC_028414.1:Cuc cg-accacatgatacattacatgtatgtcctatatacattaatctcataccaaatcttaa
+NC_050049.1:Cen tttaccacattatacatataatgaggagctaaaattcat----------------attgt
+NC_052776.1:Ceu cg-tccacataatacattacatgcatgctctatattcattaataccatagcggatcctaa
+NC_052800.1:Cro agtaccacattatacattatatgtatgtcctgagtccattaatatcatatcggatattca
+NC_052804.1:Pia cg-tccacattatacactacatgcatgtcccatatacattaatatctagctcaaccctaa
+NC_052811.1:Cen tttaccacataatacatacaatgaagagcataaattcat----------------attgt
+                    ****** *****.   *** . . .  . .. ***                 ..  
+
+NC_011709.1:Uro cattaccgaacacatcctaccacaag-gaacctccatccagtgcacaaaccaaatacccc
+NC_011711.1:Geo ctgcaccacagacatcctactttcaa-ggatccgctcatgcaacttactaatagaactga
+NC_028414.1:Cuc cttcacagaacacatcctactttcaaggaatatctacctaaggtattacccatatacccc
+NC_050049.1:Cen gctcatcgcgcatgcctggcgttca--------ccatgatggtttcagggactagattcg
+NC_052776.1:Ceu tctcaccgaattcatcctaccttcagagtactaccccctccggcgtagcccaaaatgcct
+NC_052800.1:Cro ctctaaccaactcatcctactttcaa-gtat--cctaatgcagcttatagatacaattcg
+NC_052804.1:Pia tttcacagaac-catcctactttcagagtatccttccctccggcgtaacccaaaaggcct
+NC_052811.1:Cen gcttatcgcgcatgcctggcgttca--------ccatgatggtgtcagggactagaatcg
+                   .*    .  ...*. .*  . *         .          .           .  
+
+NC_011709.1:Uro tactaccaccgtactaaacccatagaatgtggagttatacattaaaaccccctc-cgagg
+NC_011711.1:Geo cactataacagtacccacaccataccatgttatcctatacattaatacactttc-ccagg
+NC_028414.1:Cuc tacaatgaatgtattagattcataccatgttaggttatacattaaaactacactccggga
+NC_050049.1:Cen ccctacaacagtactaaacccatataatgctgctctttacat--aacccaattt-ccagg
+NC_052776.1:Ceu agtgatatgcttgacagacctacagaatgttaggttatacatgaaaaccatact-caagt
+NC_052800.1:Cro gacctcaaccgtactaaaaccatggccagctactctatacatt-aactaactct-cctgg
+NC_052804.1:Pia agtgtagtggaccaaaggctcg-acaatgctcaattatacatgaaattcatact-cagga
+NC_052811.1:Cen ccctacaaaggtgctaagcccataacttgctgctctttacat--aacccatttt-ccagg
+                  .        .    .  ... .    *.    .* *****  *  .    .. *  * 
+
+NC_011709.1:Uro acacggtaagtgccagat-tatacataatattaaccgtgccag---gtctaag-gtgcca
+NC_011711.1:Geo atacgagtatgctcgat--ataccataaacccagttgtcacagtactactata-atgaaa
+NC_028414.1:Cuc acacgacagtgtcaaat--tccacataatactaatggtagcag---aactaaa-gtgtca
+NC_050049.1:Cen acgggaggaatcccggcggacaagaaagagttaatggtagcag---gacaaaa-gtgagt
+NC_052776.1:Ceu acacggtaaatgctgga--caggcataatattaatggtagcag---tactaaacatgaca
+NC_052800.1:Cro atacgacagtgctcgag--gtaccat-accttaatggtagcagtacaactata-atgaaa
+NC_052804.1:Pia gcacggtaaataccaga--gctacatactattaatggtaacag---aactaaccttgaca
+NC_052811.1:Cen acgggaagtcgcccgatggacaagacagagttaatggtagcag---gacaaaa-gtgagt
+                ... *.      . ..        *     ..*.. **  ***     * *    **   
+
+NC_011709.1:Uro aacgctctcgtaacggaggcctccagagaaccaggtgatttattaatcgttcacctcacg
+NC_011711.1:Geo cact-tctcgccgagccggtctctaaagtaccaggttatttattaatcgttcccctcacg
+NC_028414.1:Cuc aaacttctcgtagtacgaatttccagagaaccaggttatttattaatcgttcacctcacg
+NC_050049.1:Cen aatt-tcttgtagtgcctgtctctaaagaactaggttatctattaatcgtccattcccgg
+NC_052776.1:Ceu caac-tctttaagtaccggtttctaaagaactgggttatttattggtcgtacacctcacg
+NC_052800.1:Cro tcctctctcgacggaccggtttctaaagtaacgggttatctattaatcgggcaactcacg
+NC_052804.1:Pia aaccttctcgaaataccgacttccagagaaccaggttatttattgatcgttcacctcacg
+NC_052811.1:Cen aatt-tcttgtagtgcctgtctctaaagaactaggttatctattagtcgtccattcccgg
+                     ***.   . .   ...**.*.** * ..*** **.****..***  *  ..*  *
+
+NC_011709.1:Uro tgaaatcagcaac-gcgccgcatataagatactaagatactagcttcaggcccattcttt
+NC_011711.1:Geo tgaaatcagcaac-gcgccgcatataagatccctagatactagcttcaggcccattcttt
+NC_028414.1:Cuc tgaaatcagcaac-gcaccgcatataaggtcctaagatactagcttcaggcccattcttt
+NC_050049.1:Cen agagatcagcaacttcgcagcccgtaagaccctacattactagcttcaggagtatacttt
+NC_052776.1:Ceu tgaaatcagcaac-gcaccgtatggaagatcctaagatactagcttcaggcccattcttt
+NC_052800.1:Cro tgaaatcagcaac-gcaccgcatataagatcctaagatactagcttcaggcccattcttt
+NC_052804.1:Pia tgaaatcagcaac-gcgccgcatataagatcctacgatactagcttcaggcccattcttt
+NC_052811.1:Cen agagatcagcaacttcgcagcccgtaaggccctacattactagcttcaggatcacacttc
+                 **.*********  *.* *. .. ***.. *.  . *************  .*. ***.
+
+NC_011709.1:Uro cc-ccctacacccctcacgctacttgctcttttgcgcctctggttcctttttcagggcca
+NC_011711.1:Geo ccaccatacaccactgacactacttgctcttttgcgcctctggctcctatatcagggcca
+NC_028414.1:Cuc cc-ccctacacccctcacacctcttgctcttttgcgcctctggttcctttttcagggcca
+NC_050049.1:Cen cc-ccctaaacccctcgctaaacttgctcttttgcgcctctggttcctttttcagggcca
+NC_052776.1:Ceu cc-ccctacacccctcacactacttgctcttttgcgcctctggttcctttttcagggcca
+NC_052800.1:Cro ccaccatacaccactgacactacttgctcttttgcgcctctggttcctcggtcagggtca
+NC_052804.1:Pia cc-ccctacacccctcacactacttgctcttttgcgcctctggttcctttttcagggcca
+NC_052811.1:Cen cc-ccctacacccctcgctaaacttgctcttttgcgcctctggttcctttttcagggcca
+                ** ** ** *** ** .*    *********************.****   ******.**
+
+NC_011709.1:Uro tagcacatattaatcctctgaccttgctcttcacagatacattcata--ctatttcaggt
+NC_011711.1:Geo tga-attgattaatcctttaaccttgttattcacagatacatcccaa--ctatttcaggt
+NC_028414.1:Cuc ttacacatattaatcctctaaacttgttattcacagatacattcata--ctatttcaggt
+NC_050049.1:Cen taatccctattagtccacatataatgttattcacagagacaacctta--ctatttcaggt
+NC_052776.1:Ceu tatcgacgattaatcctttaaccttgttacccacaggtacattcata--ctatttcaggt
+NC_052800.1:Cro taacttgttttcctaccataa-cttgctcttcaccgatacatatgtggcctatatcacgt
+NC_052804.1:Pia tgtcaactattaagcctctaaccttgttattcacagatacattcata--ctatttcaggc
+NC_052811.1:Cen taactcctattaatcctcatataatgttattcacagagacattcata--ctatttcaggt
+                *        **    *    *   **.* ..*** *. ***  .  .  **** *** *.
+
+NC_011709.1:Uro acaccgtccctcgtaatcgcggcatccgggtgg-ttttcggctgttggttcctttttttt
+NC_011711.1:Geo atactctgcctcgtaatcgcggcatccgggtgg-ctctcttctattggttcttttttttt
+NC_028414.1:Cuc acactctgcctcgtaatcgcggcatccgggtgt-ctcttttctgttggttcttttttttt
+NC_050049.1:Cen acaccctacctcgtaatcgcggcattttagtcc-atctcttctattggttctatttctct
+NC_052776.1:Ceu acactctgcctcgtaatcgcggcatccgggtgg-ctcttttctattggttcctttttttt
+NC_052800.1:Cro gcactctccctcgtaatcgcggcatccgggtggtctcttttcttctggttctcttttttt
+NC_052804.1:Pia acactctccctcgtaatcgcggcatctgggtgt-ctcttttctattggttcctttttttt
+NC_052811.1:Cen acaccctacctcgtaatcgcggcattttagtcc-tccttttctactggttctatttctct
+                ..**. * *****************.. .**    ..*.  ** .******. ***.*.*
+
+NC_011709.1:Uro ttc-tggaatcctcacaggtggcccatggtagctagagcaggagcatacaatctattaac
+NC_011711.1:Geo ttctcggaatcctcacaggtggcccatggtagttagagcaggagcctacaatcta-agac
+NC_028414.1:Cuc ttc-tggaatcctcacaggtggcccatggtagctagagcaggagcatacaatcta-gagc
+NC_050049.1:Cen tct-cagaatcctcacaggaggcccacaggctctcgagcaggggcttactatttgttgac
+NC_052776.1:Ceu ctc-tggaatcctcacaggtggcccatggtagctagagcaggagcacacaatcta-gggt
+NC_052800.1:Cro ctctgggaatcctcacaggtggcccatggtagttagagcaggagcctacaatcta-agac
+NC_052804.1:Pia ttcttggaatcctcacaggtggcccatggtagctagagcaggagcatacaatctattgac
+NC_052811.1:Cen tat-cagaatcctcacaggaggcccacagactctcgagcaggagcatactatttgttgac
+                . .  .************* ******..*   .* *******.** .** **.*.  ...
+
+NC_011709.1:Uro gtgagctacgatggcccgcgggcttgttcgtcactctcaggaattactcaatgagacgg-
+NC_011711.1:Geo gtgggctacgatggctcacgggccttttgctcactttcatggattgctgaatgagacgg-
+NC_028414.1:Cuc ctgagctacgatggcccacgggcttgttcgtcactctcaggaattactgaatgagacgg-
+NC_050049.1:Cen gtgggctacaatggatcacgggcct-ttcctctccttcaggcacagctgaatgagacggt
+NC_052776.1:Ceu ctgggctacgatggcccacgggcttgttcgtcactctcaggaattactgaatgagacgg-
+NC_052800.1:Cro gtggactacgatggctcacggacctttttctcaccttcagggatagctgaatgagacgg-
+NC_052804.1:Pia gtgagctacgctggccctcgggcttgttcgtcactctcaggaattactgaatgagacgg-
+NC_052811.1:Cen gtgggctacaatggaccacgggcct-ttcctctccttcaggcaccacttaatgagacggt
+                 **..****. *** .* ***.*.* **  ** *..*** * *. .** ********** 
+
+NC_011709.1:Uro ttgacgtatccggggaatcattttcacactgatgcactttgtttcgcattcattactatg
+NC_011711.1:Geo ttgacgtatccttggtatcatatcaacactgatgcactttggatttcattcacatacttg
+NC_028414.1:Cuc ttgacgtatccggggaatcattttaacactgatgcactttagatagcattcactactatg
+NC_050049.1:Cen ttcaagtatccggggaatcacatccacactgatgcactttttctgtcatttcc--ctcag
+NC_052776.1:Ceu ttgacgtatccggggaatcatatcaacactgatgcactttagatagcattcactactatg
+NC_052800.1:Cro ttggcgtattttgggaatcatcttagcactgatgcactttggattacattcacatacatg
+NC_052804.1:Pia tttgcgtatccggggaatcatatcaacactgatgcactttgagtagcattcactactatg
+NC_052811.1:Cen ttcaagtatccggggaatcacatccacactgatgcactttttctgacatatcc--ctcag
+                ** . ****..  ** ****. *. .**************   *  *** . .   .  *
+
+NC_011709.1:Uro atcttgcaagatctcctcgtgttgctat-taaattcatgctcgtaagacataatttctt-
+NC_011711.1:Geo atttcactattcactgtcgtatcccaatatatattcatgcttaccggacatgtttttcg-
+NC_028414.1:Cuc atcttgcaagatctcctcatggtgctat-tatgttcatggtcgcagaacataatttttca
+NC_050049.1:Cen gacgcgcaagtggttaaagcca-acaaa-taagtgtatgccttccggacatgttttttc-
+NC_052776.1:Ceu atctgactagaactcctcatggtgatat-tatattcatgctcgtagcacatatttttcc-
+NC_052800.1:Cro tttccactaacctttctcgtgttccaattattatgcatgctcgatggacatgatttctt-
+NC_052804.1:Pia atcttgctagaactcctcatggtgttat-tatattcatgctcgtaagacatattttacc-
+NC_052811.1:Cen gacgcgcaagtggttaaagcca-acaaa-taagtgaatgctttccggacatgatttttc-
+                  .  .* *    ..   ..      *     .*  *** ..   . ****. *** .  
+
+NC_011709.1:Uro ----------acttcacctttcctctaactttt---------cgactaaaactaggaact
+NC_011711.1:Geo ----------acttttcatcccatttgtcgatt---------tacacaacactaggaatt
+NC_028414.1:Cuc ctttttccttacttttcccttcctctaatttt----------cgactaaaatcaaaaacc
+NC_050049.1:Cen ----------gatttttaccccaaattgtcaccattttgtaaaattcaaaactaggaata
+NC_052776.1:Ceu ----------atttttcacttcctctaactttc---------catactgaactagggact
+NC_052800.1:Cro ----------accctaccccctccacaaccccc---------caaacaactctaggaaat
+NC_052804.1:Pia ----------aatttacatcacc-ccaattttt---------ctaacaaaactaaaaact
+NC_052811.1:Cen ----------gatttttacaccaaattgtcaccattttataaaaaccaaaactaggaata
+                          . ... . .  .   .  .  .              . .  ..*...*  
+
+NC_011709.1:Uro ttcgactaaattttttccacctcttcatcgcaaattttacgctcactgttcacata-ttt
+NC_011711.1:Geo ttcaactaaaccccatttttccccccacgacaaatcccatcatcaaa----------ttt
+NC_028414.1:Cuc ttaaactaaatttctttcattttttcatcgcaaattttacgcttactgttcacata-ttt
+NC_050049.1:Cen tcccagttaatcatttatcatgctcaatcattaattttgtcatcca-----------tcc
+NC_052776.1:Ceu tttacctaaatttttttttc-tcttcatcacaaatttttttcttcatacgttcacatttt
+NC_052800.1:Cro tccagctaaacccatattcgaccccaaacacaaactttatcatcaca----------ttt
+NC_052804.1:Pia ttcaaccaaatttccttttcgctctcatcacaaaatttttcatca-tatactcatg-ttt
+NC_052811.1:Cen tctcagttagtcgtttatcatacccattcataaattttatcatgca-----------tcc
+                *.    . *...     .    ...    .. ** ... .  *              *..
+
+NC_011709.1:Uro ttcgctttctaattccgctggggttgcattaatat-------gccaaaccccacacgaac
+NC_011711.1:Geo cacattttccacttcctctaaaaattcattaacaa-------acaa-actctttccttag
+NC_028414.1:Cuc tccatttcctacttccgccgaagttgcattaataa-------atcataccccatacaaac
+NC_050049.1:Cen attacctaaaacaatcct-agaacataaatgtaaattttttaaaaa-aaattttaaaaaa
+NC_052776.1:Ceu ttcacttaccatttccgccggggttccattaataa-------atta-ataccatacgttt
+NC_052800.1:Cro tacacttttcatcacctc-aaaatttcattaaaaa-------acaa-actctttttccca
+NC_052804.1:Pia ttcgttcgtcacttccactggaattacattaataa-------acga-atacaacaacaac
+NC_052811.1:Cen actacctaaaactatcct-agaatgtaattgaaaatttttataaaa-aaatttaaaaaaa
+                  .....   *   .* . ....    * *.  *        .  * *  .         
+
+NC_011709.1:Uro acaaaatttttcgc--gcgtgacgtc----acgaatcgtcacaatttcatgctacaaatc
+NC_011711.1:Geo acaaaattttttcatcacgtatcatc----------------aaacgaacatcaaacaat
+NC_028414.1:Cuc gcaaaattttca------------------cgaattcatcacgattgcacttcacgaatc
+NC_050049.1:Cen atttacatttgtttcattgtataatctccttaaatttctaataaacatttctttatttta
+NC_052776.1:Ceu gcaaaattttca----tcataatttc---acgaaatcatcacgtattgtcataacgaatt
+NC_052800.1:Cro accaaaatttttcattttatatcatc----acaatttttgacaaactaacactaaacaat
+NC_052804.1:Pia acaaaattttcg----tttcgtattc---cacaaatcatcacgatttatcatcacaaatt
+NC_052811.1:Cen atttacatttgtttcattgttaaatctcccgaaattcctaataaacatttattatttgtt
+                ..  *  ***                                .  .   . .        
+
+NC_011709.1:Uro ctgacg-aatatcatttaaaacatca---aacgctctttacgt-cacgaatcgtcacaat
+NC_011711.1:Geo cctctaaaaattcattaacaaacaaa---ctctttccttacacaaattt-----------
+NC_028414.1:Cuc ctctcg-aaaatcatataaaacatca---aacgttcaatacgttcacga-----------
+NC_050049.1:Cen tgtttacaaaaactttatgatcatca---tacattcattatatatttttattatcat---
+NC_052776.1:Ceu ctccta-aaaatcctgcaaaacatgaaacaacattcc----acacactaaaca-------
+NC_052800.1:Cro ccgctaaaaaatcctataaaacctaa---accatcacccacatacatta-----------
+NC_052804.1:Pia ctacta-aaattcctataaaatcaaaaacaacattcctcatgcacacaaacat-------
+NC_052811.1:Cen tatata-aaaacttttgttatcatca---tgcattcattatatattcatcacaacat---
+                .   .. **   . *    *     *     * ..      ..   .             
+
+NC_011709.1:Uro ttcatgctacaaatcctgacgaatatcatttaaaacatcaaacgctctttacgtcacgaa
+NC_011711.1:Geo ------------ttcatcacgtatcatcaaacgaacatcaaacaatcc------------
+NC_028414.1:Cuc ------------atcctctcgaaaatcatataaaacatcaaacgttcaatacgt------
+NC_050049.1:Cen ------------gacattacacattata--------------------------------
+NC_052776.1:Ceu ------------taacccttccacatcattcacaaaccacaaaca---------------
+NC_052800.1:Cro ------------------------------------------------------------
+NC_052804.1:Pia ------------cacactttacacaacagtcaacaaaccaaaccacccaaata-------
+NC_052811.1:Cen ------------catacttcataaaaac--------------------------------
+                                                                            
+
+NC_011709.1:Uro tcgtcacaatttcatgctacaaatcctgacgaatatcatttaaaacatcaaacgctcttt
+NC_011711.1:Geo --------------tctaacatcccattaacaaactaactctacccacccatcccctatt
+NC_028414.1:Cuc ----------------tcacgaatcctctcgaaaatcatataaaacatcaaacgttcaat
+NC_050049.1:Cen --------------gaaaaccccctactaaaaaattt--------tatttatcatttatc
+NC_052776.1:Ceu ------------------------------------------------------------
+NC_052800.1:Cro ------------------------------------------------------------
+NC_052804.1:Pia ------------------------------------------------------------
+NC_052811.1:Cen --------------taaaattccctattaaaaaattt--------cattcacca-ttacc
+                                                                            
+
+NC_011709.1:Uro acgtcacgaatcgtcacaatttcatgctacaaatcctgacgaatatcatttaaaacatca
+NC_011711.1:Geo atataccccccca-----------------------------------------------
+NC_028414.1:Cuc acgt----------------------tcacgaatcctctcgaaaatcatataaaacatca
+NC_050049.1:Cen ataaaattctttaccat-------------------------------------------
+NC_052776.1:Ceu ------------------------------------------------------------
+NC_052800.1:Cro ------------------------------------------------------------
+NC_052804.1:Pia ------------------------------------------------------------
+NC_052811.1:Cen ataaaattattcatta--------------------------------------------
+                                                                            
+
+NC_011709.1:Uro aacgctctttacgtcacgaatcgtcacaatttcatgctacaaatcctgacgaatatcatt
+NC_011711.1:Geo ------------------------------------------------------------
+NC_028414.1:Cuc aacgttcaatacgt----------------------tcacgaatcctctcgaaaatcata
+NC_050049.1:Cen ------------------------------------------atttatatgtataacata
+NC_052776.1:Ceu ------------------------------------------------------------
+NC_052800.1:Cro ------------------------------------------------------------
+NC_052804.1:Pia ------------------------------------------------------------
+NC_052811.1:Cen ------------------------------------------atccatacacacacattc
+                                                                            
+
+NC_011709.1:Uro ta--aaacatcaaacgctctttacgtcacgaatcgtcacaatttcatgctaca-aatcct
+NC_011711.1:Geo ------------------------------------------------------------
+NC_028414.1:Cuc ta--aaacatcaaacgttcaatacgt----------------------tcacg-aatcct
+NC_050049.1:Cen aaacaaaacccaaagcctc-----------------------------ctaccaaaaaac
+NC_052776.1:Ceu ------------------------------------------------------------
+NC_052800.1:Cro ------------------------------------------------------------
+NC_052804.1:Pia ------------------------------------------------------------
+NC_052811.1:Cen tacaaaaccttaaaacctc-----------------------------ctact-aaaagc
+                                                                            
+
+NC_011709.1:Uro gacgaatatcatttaaaacatcaaacgctctttacgtcacgaatcgtcacaatttcatgc
+NC_011711.1:Geo ------------------------------------------------------------
+NC_028414.1:Cuc ctcgaaaatcatataaaacatcaaacgttcaatacgtt----------------------
+NC_050049.1:Cen tataacttacatataaaaatttttattttttt---act------------------atta
+NC_052776.1:Ceu ------------------------------------------------------------
+NC_052800.1:Cro ------------------------------------------------------------
+NC_052804.1:Pia ------------------------------------------------------------
+NC_052811.1:Cen catcatttacatataaaaaatttttattctttcacact------------------cttc
+                                                                            
+
+NC_011709.1:Uro tacaaatcctgacgaatatcatttaaaacatcaaacgctctttacg-tcacgaatcgtca
+NC_011711.1:Geo ------------------------------------------------------------
+NC_028414.1:Cuc cacgaatcctctcgaaaatcatataaaacatcaaacgttcaatacgttcacgaatcctct
+NC_050049.1:Cen aattaacccacacccaacctacataa------------tctatactaacattaattgctt
+NC_052776.1:Ceu ------------------------------------------------------------
+NC_052800.1:Cro ------------------------------------------------------------
+NC_052804.1:Pia ------------------------------------------------------------
+NC_052811.1:Cen aattaacccatacccagcctacataa------------tctaaactaacatttcctacca
+                                                                            
+
+NC_011709.1:Uro caatttca--tgctacacatcctgacgaatatcatttaaaacatcaaacgctctttacgt
+NC_011711.1:Geo ------------------------------------------------------------
+NC_028414.1:Cuc cgagttaca-tataaaacatcgcatactctatctattcgaatttcttaaacactgcacaa
+NC_050049.1:Cen aaacccagt-catcaaactataactcctcacccaaccaaa--------------------
+NC_052776.1:Ceu ------------------------------------------------------------
+NC_052800.1:Cro ------------------------------------------------------------
+NC_052804.1:Pia ------------------------------------------------------------
+NC_052811.1:Cen aagctcatcacattaaactaca----ctcaccccaaaaaag-------------------
+                                                                            
+
+NC_011709.1:Uro cacgaatcgtcacaatttcatgt---tacaaatcctgacgaatatcatttaaaacatcaa
+NC_011711.1:Geo ------------------------------------------------------------
+NC_028414.1:Cuc aaacatccaattacattctacacacgtacgaatcctctcgagttacatataaaacatcgc
+NC_050049.1:Cen ------------------------------------------------------------
+NC_052776.1:Ceu ------------------------------------------------------------
+NC_052800.1:Cro ------------------------------------------------------------
+NC_052804.1:Pia ------------------------------------------------------------
+NC_052811.1:Cen ------------------------------------------------------------
+                                                                            
+
+NC_011709.1:Uro acgctctttacgtcaaacactcataaatactacaaacccacaaac---------------
+NC_011711.1:Geo ------------------------------------------------------------
+NC_028414.1:Cuc atactctatctattcgaatttcttaaacactgcacaaaaacatccaatcacatttcccct
+NC_050049.1:Cen ------------------------------------------------------------
+NC_052776.1:Ceu ------------------------------------------------------------
+NC_052800.1:Cro ------------------------------------------------------------
+NC_052804.1:Pia ------------------------------------------------------------
+NC_052811.1:Cen ------------------------------------------------------------
+                                                                            
+
+NC_011709.1:Uro atc
+NC_011711.1:Geo -tt
+NC_028414.1:Cuc ccc
+NC_050049.1:Cen -cc
+NC_052776.1:Ceu -tc
+NC_052800.1:Cro --c
+NC_052804.1:Pia -tc
+NC_052811.1:Cen -cc
+                  .

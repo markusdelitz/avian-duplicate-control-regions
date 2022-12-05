@@ -1,0 +1,290 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.475)
+
+
+NC_000878.1:Fal c------tccaaca--------------------------ccccccaacatcttatatac
+NC_008547.1:Fal c------ttcagcactccccgcaccctaaaaatcaatttttcccctaacatcttatatac
+NC_008548.1:Mic ccacctattaaacccaaccaaccaacctaactaccaacaaacatccaacacatctattac
+NC_011307.1:Fal -----------------------ctctaacatcccatccacacccaaacatcttatatat
+NC_025579.1:Fal -------tccaacacccc--gcccacctaaacccaacctcccttataacatcttatatac
+NC_026715.1:Fal c------tccaaca---------------------------ctcccaacatcttatatgt
+NC_029359.1:Fal c------tccaaca---------------------------ctcccaacatcttatatgt
+NC_031897.1:Pha -----------------------------------------------------acttttc
+NC_039842.1:Fal c------tctaacacccctactacacctaaacccaacctccacctcaacatcttatatgt
+NC_044672.1:Car ----------------------------------------------------acccccaa
+NC_044673.1:Car ----------------------------------------------------acccccaa
+NC_044674.1:Car ----------------------------------------------------acyyywma
+NC_052801.1:Her c---------------------------------agcctccaacccaacatccctatttt
+NC_054728.1:Fal c------tcaaacaccccgtccaccctcaaacccaacctcccacccaacatcttatatac
+                                                                            
+
+NC_000878.1:Fal cccataaacaccac-cca--ctaaacaccc-----caacactaaaatcatattaacct-a
+NC_008547.1:Fal ctcacaaacaccactcca--tccaacaccc-----caacgccaaaatcataccaaccc-a
+NC_008548.1:Mic ttcaactttaccaa-cta--ccataccccc-ccaacaccaccgaagtcgcattaacac-c
+NC_011307.1:Fal ctcataaacaccac-ttagtccaacacccc-----cgccgctaaaattatattaaccc-a
+NC_025579.1:Fal tccataaacatcac-cca--cccaacaccc-----caacactaaaatcacattaacccta
+NC_026715.1:Fal cccataaacaccac-tta--cccaacaccc-----caacactagaatcatattaactt-a
+NC_029359.1:Fal cccataaacaccac-tta--cccaacaccc-----caacactagaatcatattaactt-a
+NC_031897.1:Pha atcacaaactcatc-cca--cacacactca-----cagcaccgaaatcccattaacaa-a
+NC_039842.1:Fal cccacaaacatcac-cca--ctcaacactc-----cagcactaaaatcacattaaccc-a
+NC_044672.1:Car cctaccacctcaca-ctt--ttcaccmmww-----mmwcwcyswamwcccattaataa-a
+NC_044673.1:Car cctaccacctcaca-ctt--twcaccnayw-----naacwctsmamwcccattaataa-a
+NC_044674.1:Car ccnacaaactctcc-cta--yacmcattcn-----naacactgaaatcccattaataa-a
+NC_052801.1:Her atcacaaaacctac-aac--caacacacccaccaacaacaccgaagtcctattgacaa-a
+NC_054728.1:Fal tccacaaacaccac-cca--cctggcgccc-----caacactaaaatcatattaactc-a
+                 . *      .                           * *   *  . .*...*.    
+
+NC_000878.1:Fal aaccctcatacacatgcccataacaccgcaaacgcccataa---taaccaacaagacaaa
+NC_008547.1:Fal agcccctacacatactcacaaaa---cctacgtaccca-aa---caaccaacagggacac
+NC_008548.1:Mic ccccccccccaac------------aaacaaacaaaca-aa---caaacaaacaaacaaa
+NC_011307.1:Fal aaccctcacacacacccataaaa-accacgaacaccca-ag--ctgaccaacaaaccaaa
+NC_025579.1:Fal aacccccatgcatacccacaaaa--ctataacaaatcaaag---caaccaacaaaacaaa
+NC_026715.1:Fal aacccttatacatacgtacataagaccacaaataccca-aa---tagccaatagggcaga
+NC_029359.1:Fal aacccctatacacatgtacataagaccacaaataccca-aa---tagccaatagggcaaa
+NC_031897.1:Pha tagtaccccacccacca-ccaag--ccctcagcataaaccgcacaaaacaacaaaacaaa
+NC_039842.1:Fal aacccccatacatatgcccataa---gacagataccct-ta---taaccaacaaaac---
+NC_044672.1:Car tactaccacgtccaccacccgaa--cctccaacattataca---aaaccaacgaaacaac
+NC_044673.1:Car tactaccacgtccaccacccgaa--cctccaacattataca---aaaccaacgaaacaac
+NC_044674.1:Car tattaccacgtccaccacccgaa--cctccaacattataca---aaaccaacgaaacaac
+NC_052801.1:Her acacaccagtccc-----caaaa--caccttacctccc----acaaaccaaccaactaac
+NC_054728.1:Fal aaccccaacaccca----taaaa-accacaaacaccta-aa---tagtcaacaaaacaag
+                   . .      .               .                .. ***  ..     
+
+NC_000878.1:Fal caaacaaaaattatcgtacaga-----------------------------------ata
+NC_008547.1:Fal aaacct---------------------------------------------------agg
+NC_008548.1:Mic caaaca------------------------------------------------------
+NC_011307.1:Fal caaaccaaacaaaacaaccaaaattaaacaaaacaaccaaaattaaacaaaacaaccaaa
+NC_025579.1:Fal caagaca--------------------------------------------------cga
+NC_026715.1:Fal caaacaaaaactattaaaca----------------------------------------
+NC_029359.1:Fal caaacaaaaactattaaaca----------------------------------------
+NC_031897.1:Pha aagac-gtccctgtagcttac---------------------------------------
+NC_039842.1:Fal ------------------------------------------------------------
+NC_044672.1:Car aaaacagtccccgtagcttac---------------------------------------
+NC_044673.1:Car aaaacagtccccgtagcttac---------------------------------------
+NC_044674.1:Car aaaacagtccccgtagcttay---------------------------------------
+NC_052801.1:Her caagcg---------------------------------------------------caa
+NC_054728.1:Fal taaaac---------------------------------------------------caa
+                                                                            
+
+NC_000878.1:Fal aatgaaataaataaacgaaatagatgagataaacaaaataaacgaaatagatgagataaa
+NC_008547.1:Fal acaaaacaaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaa
+NC_008548.1:Mic -------------------------------------------------aaca-------
+NC_011307.1:Fal attaaacaaaataaacaaaataaacaaaataaacaaaataaacaaaataaacaaaataaa
+NC_025579.1:Fal aataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaa
+NC_026715.1:Fal --------aaataaacgaaatagatgagataaacaaaataaacgaaatagatgagataaa
+NC_029359.1:Fal --------aaataaacgaaatagatgagataaacaaaataaacgaaatagatgagataaa
+NC_031897.1:Pha -----------------------------------------------------aactaaa
+NC_039842.1:Fal --taagcgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaa
+NC_044672.1:Car -----------------------------------------------------aactaaa
+NC_044673.1:Car -----------------------------------------------------aactaaa
+NC_044674.1:Car -----------------------------------------------------aactaaa
+NC_052801.1:Her c-----------------------------------------------------------
+NC_054728.1:Fal ccaaactagacgaaacaaacaaaataaaataaacgaaataaacgaaataaacgaaataaa
+                                                                            
+
+NC_000878.1:Fal caaaataaacgaaatagatgagata---------------aacaaaataaacgaaataga
+NC_008547.1:Fal cgaaataaacgaaataaacgaaata---------------aacgaaataaacgaaataaa
+NC_008548.1:Mic ------------------------------------------------------------
+NC_011307.1:Fal cgaaataaacgaaataaacgaaata---------------aacgaaataaacgaaataaa
+NC_025579.1:Fal cgaaataaacgaaataaacgaaata---------------aacgaaataaacgaaataaa
+NC_026715.1:Fal caaaataaacgaaatagatgagata---------------aacaaaataaacgaaataga
+NC_029359.1:Fal caaaataaacgaaatagatgagata---------------aacaaaataaacgaaataga
+NC_031897.1:Pha gcatggcactgaagatgccaagatggcccacccactaaaccctgggacaaaagacttagt
+NC_039842.1:Fal cgaaataagcgaaataagcgaaata---------------aacgaaataaacgaaataaa
+NC_044672.1:Car gcatggcactgaagatgccaagacggctcacccac-aaaccctgggacaaaagacttagt
+NC_044673.1:Car gcatggcactgaagatgccaagacggctcacccac-aaaccctgggacaaaagacttagt
+NC_044674.1:Car gcatggcactgaagatgccaagacggcccacccac-aaaccctgggacaaaagacttagt
+NC_052801.1:Her ------------------------------------------------------------
+NC_054728.1:Fal cgaaataaacgaaataaacgaaataacgaaataacgaaataacgaaataaacgaaataaa
+                                                                            
+
+NC_000878.1:Fal tgagata-------------------aacaaaata-------aacgaaatagatgagata
+NC_008547.1:Fal cgaaata-------------------aacgaaata-------aacgaaataaacgaaata
+NC_008548.1:Mic --------------------------aacaaa----------------------------
+NC_011307.1:Fal cgaaata-------------------aacgaaata-------aacgaaataaacgaaata
+NC_025579.1:Fal cgaaata-------------------aacgaaata-------------------------
+NC_026715.1:Fal tgagata-------------------aacaaaata-------aacgaaatagatgagata
+NC_029359.1:Fal tgagata-------------------aacaaaata-------aacgaaatagatgagata
+NC_031897.1:Pha cctaaccttcctgttggtttctgccaaacatatac-------atgcaagtatctg-----
+NC_039842.1:Fal cgaaata-------------------aacgaaata-------agcgaaataagcgaaata
+NC_044672.1:Car cctaacctttctgttggtttttgccawmcatatac-------atgcaagtatctg-----
+NC_044673.1:Car cctaacctttctgttggcttttgccaaacatatac-------atgcaagtatctg-----
+NC_044674.1:Car cctan-------------------------------------------------------
+NC_052801.1:Her --------------------------aacaaa----------------------------
+NC_054728.1:Fal cgaaataacgaaa------------taacgaaataacgaaataacgaaata------acg
+                                                                            
+
+NC_000878.1:Fal aacaaaataaacgaaatagatgagataaacaaaataaacgaaatagatgagataaacaaa
+NC_008547.1:Fal aacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaa
+NC_008548.1:Mic ------------------------------------------------------------
+NC_011307.1:Fal aacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaa
+NC_025579.1:Fal ---------------------------aacgaaataaacgaaataaacgaaataaacgaa
+NC_026715.1:Fal aacaaaataaacgaaatagatgagataaacaaaataaacgaaatagatgagataaacaaa
+NC_029359.1:Fal aacaaaataaacgaaatagatgagataaacaaaataaacgaaatagatgagataaacaaa
+NC_031897.1:Pha --------------------cgacccagtgtaaatgccctaagtctcttaccaagataaa
+NC_039842.1:Fal agcgaaataagcgaaataaacgaaataaacaaaataaacgaaataaacgaaataaacgaa
+NC_044672.1:Car --------------------cgacccagtgtaaatgccctaaatctcttactaagacamm
+NC_044673.1:Car --------------------cgacccagtgtaaatgccctaaatctcttactaagacaaa
+NC_044674.1:Car ------------------------------------------------------------
+NC_052801.1:Her ------------------------------------------------------------
+NC_054728.1:Fal aaataacgaaataacgaaataacgaaataacgaaataacgaaataaacgaaataaacgaa
+                                                                            
+
+NC_000878.1:Fal ataaacgaaatagatgagataaacaaaataaacgaaataga---tgagataaacaaaata
+NC_008547.1:Fal ataaacgaaataaacgaaataaacgaaataaacgaaataaa---cgaaataaacgaaata
+NC_008548.1:Mic ---------------------------------------------caaacaaacaa----
+NC_011307.1:Fal ataaacgaaataaacgaaataaacgaaataaacgaaataaa---cgaaataaacgaaata
+NC_025579.1:Fal ataaacgaaataaacgaaataaacgaaataaacgaaataaa---cgaaataaacgaaata
+NC_026715.1:Fal ataaacgaaatagatgagataaacaaaataaacgaaataga---tgagataaacaaaata
+NC_029359.1:Fal ataaacgaaatagatgagataaacaaaataaacgaaataga---tgagataaacaaaata
+NC_031897.1:Pha gg-agcagcatcaggcacacaaatctgtagcccaaaacgccttgccagccaaacaaaaag
+NC_039842.1:Fal ataaacgaaataaacgaaataagcgaaataaacgaaataaa---cgaaataaacgaaata
+NC_044672.1:Car ytccagganagagaacacccgagagggaacaacattatacaaaaccaacgaaacaacaaa
+NC_044673.1:Car agnrrctycttctttcyctcksaggaggagaacattatacaaaaccaacgaaacaacaaa
+NC_044674.1:Car ------------------------------------------------------------
+NC_052801.1:Her ------------------------------------------------------------
+NC_054728.1:Fal ataaacgaaataaacgaaataaacgaaataaacgaaataa-----cgaaataacgaaata
+                                                                            
+
+NC_000878.1:Fal aacgaaatagrtgagataaacaaaataaacgaaatagrtgagataaacaaaataaacgaa
+NC_008547.1:Fal ------------------------------------------------------------
+NC_008548.1:Mic ------------------------------------------------------------
+NC_011307.1:Fal aacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaa
+NC_025579.1:Fal aacgaaataaacgaaataaacgaaatagacgaaataaacgaaataaacgaaataaacgaa
+NC_026715.1:Fal aacgaaatagatgagataaacaaaataaacgaaatagatgagataaacaaaataaacgaa
+NC_029359.1:Fal aacgaaatagatgagataaacaaaataaacgaaatagatgagataaacaaaataaacgaa
+NC_031897.1:Pha ac----------------------------------------------------------
+NC_039842.1:Fal aacgaaataaacgaaataaacgaaataaacgaaataagcgaaataaacgaaataagcgaa
+NC_044672.1:Car ac----------------------------------------------------------
+NC_044673.1:Car ac----------------------------------------------------------
+NC_044674.1:Car ------------------------------------------------------------
+NC_052801.1:Her ------------------------------------------------------------
+NC_054728.1:Fal ac--gaaataacgaaataa-cgaaata-acgaaataa-------------------cgaa
+                                                                            
+
+NC_000878.1:Fal atagrtgagataaacaaaataaacgaaatagrtgagataaacaaaataaacgaaatagrt
+NC_008547.1:Fal ------------------------------------------------------------
+NC_008548.1:Mic ------------------------------------------------------------
+NC_011307.1:Fal ataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaac
+NC_025579.1:Fal ataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaata---
+NC_026715.1:Fal atagatgagataaacaaaataaacgaaatagatgagataaacaaaataaacgaaatagat
+NC_029359.1:Fal atagatgagataaacaaaataaacgaaatagatgagataaacaaaataaacgaaatagat
+NC_031897.1:Pha ------------------------------------------------------------
+NC_039842.1:Fal ataagcgaaataaacgaaataagcgaaataagcgaaataaacgaaataagcgaaataaac
+NC_044672.1:Car ------------------------------------------------------------
+NC_044673.1:Car ------------------------------------------------------------
+NC_044674.1:Car ------------------------------------------------------------
+NC_052801.1:Her ------------------------------------------------------------
+NC_054728.1:Fal at-aacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataa-c
+                                                                            
+
+NC_000878.1:Fal gagataaacaaaataaacgaaatagrtgagataaacaaaataaacgaaatagrtgagata
+NC_008547.1:Fal ------------------------------------------------------------
+NC_008548.1:Mic ------------------------------------------------------------
+NC_011307.1:Fal gaaataaacgaaataaacgaaataaacga-------------------------------
+NC_025579.1:Fal ------------------------------------------------------------
+NC_026715.1:Fal gagataaacaaaataaacgaaatagatgagataaacaaaataaacgaaatagatgagata
+NC_029359.1:Fal gagataaacaaaataaacgaaatagatgagataaacaaaataaacgaaatagatgagata
+NC_031897.1:Pha ------------------------------------------------------------
+NC_039842.1:Fal gaaataaacgaaataagcgaaataa-----------------------------------
+NC_044672.1:Car ------------------------------------------------------------
+NC_044673.1:Car ------------------------------------------------------------
+NC_044674.1:Car ------------------------------------------------------------
+NC_052801.1:Her ------------------------------------------------------------
+NC_054728.1:Fal gaaataa-cgaaataa-cgaaataacgaaa-----------taacgaaata------acg
+                                                                            
+
+NC_000878.1:Fal aacaaaataaacgaaatagrtgagataaacaaaataaacgaaatagrtgagataaacaaa
+NC_008547.1:Fal ------------------------------------------------------------
+NC_008548.1:Mic ------------------------------------------------------------
+NC_011307.1:Fal -----aataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaa
+NC_025579.1:Fal ------------------------------------------------------------
+NC_026715.1:Fal aacaaaataaacgaaatagatgagataaacaaaataaacgaaatagatgagataaacaaa
+NC_029359.1:Fal aacaaaataaacgaaatagatgagataaacaaaataaacgaaatagatgagataaacaaa
+NC_031897.1:Pha ------------------------------------------------------------
+NC_039842.1:Fal ------------------------------------------------------------
+NC_044672.1:Car ------------------------------------------------------------
+NC_044673.1:Car ------------------------------------------------------------
+NC_044674.1:Car ------------------------------------------------------------
+NC_052801.1:Her ------------------------------------------------------------
+NC_054728.1:Fal aaataacgaaataacgaaataacgaaataacgaaataacgaaataaacgaaataa--cga
+                                                                            
+
+NC_000878.1:Fal ataaacgaaataggtgagataaacaaaataaacgaaataggtgagataaacaaaataaac
+NC_008547.1:Fal ------------------------------------------------------------
+NC_008548.1:Mic ------------------------------------------------------------
+NC_011307.1:Fal ataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaac
+NC_025579.1:Fal ------------------------------------------------------------
+NC_026715.1:Fal ataaacgaaatagatgagataaacaaaataaacgaaatagatgagataaacaaaataaac
+NC_029359.1:Fal ataaacgaaatagatgagataaacaaaataaacgaaatagatgagataaacaaaataaac
+NC_031897.1:Pha ------------------------------------------------------------
+NC_039842.1:Fal ------------------------------------------------------------
+NC_044672.1:Car ------------------------------------------------------------
+NC_044673.1:Car ------------------------------------------------------------
+NC_044674.1:Car ------------------------------------------------------------
+NC_052801.1:Her ------------------------------------------------------------
+NC_054728.1:Fal aataacgaaataaacgaaat-aacgaaataaacgaaataaacgaaataaacgaaataaac
+                                                                            
+
+NC_000878.1:Fal gaaataggtgagataaacaaaataaacgaaataggtgagataaacaaaataaacgaaata
+NC_008547.1:Fal ------------------------------------------------------------
+NC_008548.1:Mic ------------------------------------------------------------
+NC_011307.1:Fal gaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaataaacgaaata
+NC_025579.1:Fal ------------------------------------------------------------
+NC_026715.1:Fal gaaatagatgagataaacaaaataaacgaaatagatgagataaacaaaataaacgaaata
+NC_029359.1:Fal gaaatagatgagataaacaaaataaacgaaatagatgagataaacaaaataaacgaaata
+NC_031897.1:Pha ------------------------------------------------------------
+NC_039842.1:Fal ------------------------------------------------------------
+NC_044672.1:Car ------------------------------------------------------------
+NC_044673.1:Car ------------------------------------------------------------
+NC_044674.1:Car ------------------------------------------------------------
+NC_052801.1:Her ------------------------------------------------------------
+NC_054728.1:Fal gaaata-acgaaataa--cgaaataacgaaataacagaa---------------------
+                                                                            
+
+NC_000878.1:Fal ggtgagataaacaaaataaacgaaataggtgagataaacaaaataaacgaaataggtgag
+NC_008547.1:Fal ------------------------------------------------------------
+NC_008548.1:Mic ------------------------------------------------------------
+NC_011307.1:Fal aacgaaat----------------------------------------------------
+NC_025579.1:Fal ------------------------------------------------------------
+NC_026715.1:Fal gatgagataaacaaaataaacgaaatagatgagataaacaaaataaacgaaatagatgag
+NC_029359.1:Fal gatgagataaacgaaataaacgaaatagatgagataaacgaaataaacgaaatagatgag
+NC_031897.1:Pha ------------------------------------------------------------
+NC_039842.1:Fal ------------------------------------------------------------
+NC_044672.1:Car ------------------------------------------------------------
+NC_044673.1:Car ------------------------------------------------------------
+NC_044674.1:Car ------------------------------------------------------------
+NC_052801.1:Her ------------------------------------------------------------
+NC_054728.1:Fal ------------------------------------------------------------
+                                                                            
+
+NC_000878.1:Fal ataaacaaaataaacgaaataggtgagataaacaaaataaacgaaataggtgagataaac
+NC_008547.1:Fal ------------------------------------------------------------
+NC_008548.1:Mic ------------------------------------------------------------
+NC_011307.1:Fal ------------------------------------------------------------
+NC_025579.1:Fal ------------------------------------------------------------
+NC_026715.1:Fal ataaacaaaataaacgaaatagatgagataaacaaaataaacgaaatagatgagataaac
+NC_029359.1:Fal ataaacgaaataaacgaaatagatgagataagcgaaataaacgaaatagatgagataac-
+NC_031897.1:Pha ------------------------------------------------------------
+NC_039842.1:Fal ------------------------------------------------------------
+NC_044672.1:Car ------------------------------------------------------------
+NC_044673.1:Car ------------------------------------------------------------
+NC_044674.1:Car ------------------------------------------------------------
+NC_052801.1:Her ------------------------------------------------------------
+NC_054728.1:Fal ------------------------------------------------------------
+                                                                            
+
+NC_000878.1:Fal aaaaataaacgaaataggtgagataaacaaaataaacgaaataggtgagatac
+NC_008547.1:Fal ----------------------------------------------------c
+NC_008548.1:Mic -----------------------------------------------------
+NC_011307.1:Fal ---------------------------------------------------ac
+NC_025579.1:Fal ----------------------------------------------------c
+NC_026715.1:Fal -aaaataaacgaaatagatgagataaacaaa-taaacgaaatagatgagat-a
+NC_029359.1:Fal -gaaataaacgaaatagatgagataagcgaactaaacgaaatagatgagat-a
+NC_031897.1:Pha -----------------------------------------------------
+NC_039842.1:Fal ----------------------------------------------------c
+NC_044672.1:Car ----------------------------------------------------a
+NC_044673.1:Car ----------------------------------------------------a
+NC_044674.1:Car -----------------------------------------------------
+NC_052801.1:Her -----------------------------------------------------
+NC_054728.1:Fal --------------------------------------------------cat
+                                                                     
